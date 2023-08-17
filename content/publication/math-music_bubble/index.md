@@ -80,13 +80,11 @@ slides: math-music_bubble
 
 #### **Introduzione**
 
-L'ansia è un problema che affligge molti studenti in età scolare e che, specie negli ultimi anni, ha assunto una connotazione quasi fisiologica, complice anche il fatto di aver vissuto per due anni le limitazioni e le conseguenze della didattica a distanza.
+> L'ansia è un problema che affligge molti studenti in età scolare e che, specie negli ultimi anni, ha assunto una connotazione quasi fisiologica, complice anche il fatto di aver vissuto per due anni le limitazioni e le conseguenze della didattica a distanza.
 
 Più in generale le pressioni della scuola, i compiti a casa, gli esami e le aspettative dei genitori sono potenziali fattori ansiogeni che creano stress e ansia e che possono avere un impatto negativo sulla salute mentale degli studenti, sulla loro vita sociale nonché sulle loro prestazioni scolastiche.
 
 In questa breve trattazione, cercherò di illustrare – citando uno studio di caso - come la musica può aiutare gli studenti a gestire l'ansia e come i docenti possono incorporare la musica nella loro pratica quotidiana, con particolare attenzione agli studenti BES.
-
-
 
 #### **Come la musica aiuta a ridurre l'ansia**
 
@@ -108,9 +106,9 @@ In generale la musica può aiutare a ridurre l'ansia in diversi modi.
 
 #### **La musica per gli studenti BES**
 
-La musica è stata a lungo considerata una forma di terapia per le persone che soffrono di stati d’ansia o altri disturbi mentali. La sua capacità di influenzare lo stato d'animo delle persone e di ridurre lo stress è stata dimostrata da numerosi studi, anche se il suo utilizzo terapeutico è ancora oggetto di pregiudizi.
+> La musica è stata a lungo considerata una forma di terapia per le persone che soffrono di stati d’ansia o altri disturbi mentali. La sua capacità d'influenzare lo stato d'animo delle persone e di ridurre lo stress è stata dimostrata da numerosi studi, anche se il suo utilizzo terapeutico è ancora oggetto di pregiudizi.
 
-La musica può avere un impatto positivo sulla memoria, sull'attenzione e sulla concentrazione, migliorando la capacità di apprendimento degli studenti.
+Può avere un impatto positivo sulla memoria, sull'attenzione e sulla concentrazione, migliorando la capacità di apprendimento degli studenti.
 
 Per tutti questi motivi può essere un'ottima risorsa per aiutare gli studenti con Bisogni Educativi Speciali (BES) a combattere l'ansia nella scuola.
 
