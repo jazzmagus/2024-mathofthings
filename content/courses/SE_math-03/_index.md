@@ -30,7 +30,6 @@ menu:
 > _"La **conoscenza** è ciò che ci rende **diversi**"_.
 >
 > La conoscenza è **infinita** e ognuno di noi può contenerne solo una parte, per questo motivo siamo diversi, mentre siamo tutti ignoranti rispetto alla totalità della conoscenza, e questo ci rende **uguali**.
->
 > &ndash; Piergiorgio Odifreddi
 
 ---
