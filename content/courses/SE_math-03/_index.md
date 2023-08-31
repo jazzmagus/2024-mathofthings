@@ -34,7 +34,7 @@ menu:
 
 ---
 
-> #### references:
+> #### riferimenti:
 >
 > - [presentazione del corso &nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i>](https://2023-mathofthings.netlify.app/slides/progs/first_lesson_3/)
 
