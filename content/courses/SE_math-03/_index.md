@@ -104,14 +104,11 @@ menu:
 
 [programma classi TERZE SE](https://2023-mathofthings.netlify.app/slides/progs/prog_3se/)
 
-<!--
 ## Meet your instructor
-
 
 ## FAQs
 
 Non sono richiesti particolari prerequisiti.
-
 
 Ci sono 2 tipologie di verifiche:
 
