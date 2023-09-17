@@ -36,7 +36,7 @@ menu:
 
 > #### riferimenti:
 >
-> - [presentazione del corso &nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i>](https://2023-mathofthings.netlify.app/slides/progs/first_lesson_3/)
+> - [presentazione del corso &nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i>](https://2024-mathofthings.netlify.app/slides/progs/first_lesson_3/)
 
 > - [programmazione corsi serali &nbsp;<i class="fa-solid fa-arrow-up-right-from-square"></i>]({{< ref "/content/docs/math_SE/index.md" >}})
 
