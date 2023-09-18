@@ -5,10 +5,10 @@ authors: [Diego Fantinelli]
 tags: ["Tutorials", "serale"]
 categories: [teaching]
 date: "2022-09-05"
-slides:
-  theme: serif
-  highlight_style: dracula
-# theme: serif
+# slides:
+#   theme: serif
+#   highlight_style: dracula
+theme: serif
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6" data-transition="convex">
@@ -43,7 +43,8 @@ slides:
 
 ### conoscenze:
 
-- Insiemi numerici: naturali, interi, razionali; ordinamento e loro rappresentazione su una retta.
+- Insiemi numerici: $\mathbb{N}$ naturali, $\mathbb{Z}$ interi, $\mathbb{Q}$ razionali;
+  - ordinamento e loro rappresentazione su una retta.
 - Le operazioni con i numeri interi e razionali e loro proprietà.
 - Proprietà delle potenze.
 - Rapporti, proporzioni e percentuali.
@@ -163,15 +164,12 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
-{{% callout note %}}
-
 ## competenze finali
 
 - Saper utilizzare le tecniche di calcolo per risolvere le equazioni di 1° grado fratte, quelle di 2° grado ed i sistemi di equazioni lineari.
 - Saper risolvere problemi di geometria analitica sulla retta.
 - Saper risolvere problemi di geometria analitica sulla parabola.
 - Saper risolvere disequazioni di 1° e 2° facendo uso della retta e della parabola.
-  {{% /callout %}}
 
 </section>
 
@@ -228,8 +226,7 @@ slides:
 #### COLORI DELLA MATEMATICA edizione BIANCA Vol.1 - Petrini, Sasso, Fragni - ed. Petrini
 
 - non strettamente indispensabile in classe... pesa $780g$
-- versione digitale su iPad?
-  - _parliamone_...
+- In caso di necessità consulteremo la versione digitale direttamente sulla LIM.
 
 </section>
 
@@ -237,8 +234,27 @@ slides:
 
 ## Appunti dalle lezioni
 
-### ...non ne vado pazzo
+#### Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.
 
+![lavagnata](lavagna.png)
+
+</section>
+
+---
+
+<section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
+
+<h2>TEST e Verifiche</h2>
+
+[programma classi TERZE SE](https://2023-mathofthings.netlify.app/slides/progs/prog_3se/)
+
+Ci sono 2 tipologie di verifiche:
+
+1. TEST a risposta multipla: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+
+1. Esercizi e problemi: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+
+- Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
 
 ---
