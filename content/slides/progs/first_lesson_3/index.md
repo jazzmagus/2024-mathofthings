@@ -255,6 +255,16 @@ Ci sono 3 tipologie di verifiche:
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
 
+<section>
+  <h2>Lavoro individuale</h2>
+
+- I gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
+- Non sono obbligatori
+- Mi serviranno come feedback del vostro lavoro/progressi durante l'anno scolastico
+- Li correggerò a campione e non vi verranno restituiti
+- Alla fine del quadrimestre potranno contribuire fino a 0.5 di voto
+</section>
+
 ---
 
 <section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
