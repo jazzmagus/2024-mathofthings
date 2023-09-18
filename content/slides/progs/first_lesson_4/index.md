@@ -11,11 +11,10 @@ image:
   focal_point: "center"
   placement: 2
   preview_only: false
-
 # slides:
 #   theme: serif
 #   highlight_style: dracula
-theme: serif
+# theme: serif
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6" data-transition="convex">
@@ -45,6 +44,10 @@ theme: serif
 ## TEMA 0 - RIPASSO
 
 > **periodo**: settembre
+
+- equazioni e disequazioni di primo grado
+- fattorizzazione (scomposizione di polinomi)
+- frazioni algebriche
 
 ---
 
@@ -240,6 +243,8 @@ theme: serif
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
+<!-- ![idn](noidea.png) -->
+
 <h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QA: &nbsp;</b><code>uxzqxe7</code></h2>
 <h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QES: &nbsp;</b><code>u7ialtx</code></h2>
 
@@ -288,6 +293,8 @@ theme: serif
 
 ![lavagnata](lavagna.png)
 
+<!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
+
 </section>
 
 ---
@@ -304,6 +311,16 @@ Ci sono 3 tipologie di verifiche:
 1. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
+</section>
+
+<section>
+  <h2>Lavoro individuale</h2>
+
+- I gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
+- Non sono obbligatori
+- Mi serviranno come feedback del vostro lavoro/progressi durante l'anno scolastico
+- Li correggerò a campione e non vi verranno restituiti
+- Alla fine del quadrimestre potranno contribuire fino a 0.5 di voto
 </section>
 
 ---
