@@ -11,9 +11,9 @@ image:
   focal_point: "center"
   placement: 2
   preview_only: false
-# slides:
-#   theme: serif
-#   highlight_style: dracula
+slides:
+  theme: serif
+  highlight_style: dracula
 # theme: serif
 ---
 
