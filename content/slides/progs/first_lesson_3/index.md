@@ -255,8 +255,11 @@ Ci sono 3 tipologie di verifiche:
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
 
-<section>
-  <h2>Lavoro individuale</h2>
+---
+
+<section data-transition="concave" data-background-image="studying.jpg" data-background-opacity="0.4">
+
+<h2>Lavoro individuale</h2>
 
 - I gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
 - Non sono obbligatori
