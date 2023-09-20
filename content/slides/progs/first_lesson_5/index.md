@@ -321,9 +321,9 @@ slides:
 
 ## Libro di testo:
 
-#### COLORI DELLA MATEMATICA edizione BIANCA Vol. 2 - Petrini, Sasso, Fragni - ed. Petrini
+#### COLORI DELLA MATEMATICA edizione BIANCA Vol. 2 - Petrini, Sasso, Fragni - ed. Petrini - [myBsmart](https://my.bsmart.it/#/books)
 
-- non strettamente indispensabile in classe... pesa $1782g$
+- non strettamente indispensabile in classe... pesa $1182g$
 - In caso di necessità consulteremo la versione digitale direttamente sulla LIM.
 
 </section>
@@ -362,7 +362,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h2>Lavoro individuale</h2>
 
-- I gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
+- Gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
 - Non sono obbligatori
 - Mi serviranno come feedback del vostro lavoro/progressi durante l'anno scolastico
 - Li correggerò a campione e non vi verranno restituiti
