@@ -222,9 +222,9 @@ slides:
 
 ## Libro di testo:
 
-#### COLORI DELLA MATEMATICA edizione BIANCA Vol.1 - Petrini, Sasso, Fragni - ed. Petrini - [MyBsmart](https://my.bsmart.it/#/books)
+#### [COLORI DELLA MATEMATICA edizione BIANCA Vol.1 - Petrini, Sasso, Fragni - ed. Petrini](https://my.bsmart.it/#/books)
 
-- non strettamente indispensabile in classe... pesa $780g$
+- non strettamente indispensabile in classe... pesa $1180g$
 - In caso di necessità consulteremo la versione digitale direttamente sulla LIM.
 
 </section>
