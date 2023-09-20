@@ -283,8 +283,7 @@ slides:
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b>🎲 🎲</h2>
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b><code>xilwsi4</code></h2>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b>🎲 🎲</h3>3<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b><code>xilwsi4</code></h2>
 
 <span style="font-size:70%">
 

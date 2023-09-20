@@ -246,8 +246,8 @@ slides:
 
 <!-- ![idn](noidea.png) -->
 
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QA: &nbsp;</b><code>pwps7wb</code></h2>
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QES: &nbsp;</b>🎲 🎲</h2>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QA: &nbsp;</b><code>pwps7wb</code></h3>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>4QES: &nbsp;</b>🎲 🎲</h3>
 
 - comunicazioni **non ufficiali**, ma non per questo frivole...
 - assegnazione compiti (eventualmente anche sul Registro El.)

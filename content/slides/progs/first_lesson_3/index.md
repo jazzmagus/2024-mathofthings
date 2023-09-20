@@ -191,8 +191,8 @@ slides:
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QA: &nbsp;</b><code>wnllzfj</code></h2>
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QES: &nbsp;</b><code>c7ctvcv</code></h2>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QA: &nbsp;</b><code>wnllzfj</code></h3>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QES: &nbsp;</b><code>c7ctvcv</code></h3>
 
 - comunicazioni **non ufficiali**, ma non per questo frivole...
 - assegnazione compiti (eventualmente anche sul Registro El.)
