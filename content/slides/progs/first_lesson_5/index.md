@@ -2,9 +2,9 @@
 title: Presentazione Classi Quinte SE
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
-tags: ['Tutorials', 'serale']
+tags: ["Tutorials", "serale"]
 categories: [teaching]
-date: '2022-09-07'
+date: "2022-09-07"
 # slides:
 #   theme: serif
 theme: serif
@@ -28,14 +28,15 @@ theme: serif
   # OBIETTIVI
   ## DEL CORSO
 
-  <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/docs/math_se/">programmazione completa </a><i class="fa-solid fa-arrow-up-right-from-square"></i>
+<a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/docs/math_se/">programmazione completa </a><i class="fa-solid fa-arrow-up-right-from-square"></i>
 
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
 ## Tema 0 - Ripasso
->periodo: **Settembre**
+
+> periodo: **Settembre**
 
 </section>
 
@@ -60,7 +61,8 @@ theme: serif
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
 ## Tema 1 - Equazioni esponenziali e logaritmiche
->periodo: **Ottobre**
+
+> periodo: **Ottobre**
 
 </section>
 
@@ -83,13 +85,11 @@ theme: serif
 
 </section>
 
-
-
-
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
 ## Tema 2 - Funzioni reali di variabile reale
->periodo: **Novembre-dicembre**
+
+> periodo: **Novembre-dicembre**
 >
 > link: <a style="color:#1d91de" href="sdf.pdf"> schema studio di funzione </a><i class="fa-solid fa-arrow-up-right-from-square"></i>
 
@@ -104,7 +104,6 @@ theme: serif
 
 </section>
 
-
 <section>
 
 <span style="font-size:70%">
@@ -114,10 +113,10 @@ theme: serif
 - Definizione e classificazione di funzione.
 - Definizioni di: dominio, codominio, f. crescenti, f. decrescenti, f. pari, f. dispari, f. limitate massimo-minimo relativi e assoluti.
 - Definizione di grafico di una funzione.
-- Lettura di dominio e codominio e segno della funzione da grafico. 
+- Lettura di dominio e codominio e segno della funzione da grafico.
 - Calcolo algebrico del dominio (di f. razionali e irrazionali intere e fratte).
 - Studio algebrico del segno, simmetrie e intersezioni con gli assi (di funzioni razionali fratte).
-- Studio delle funzioni: costante, lineare, quadratica, esponenziale e definita *a tratti*.
+- Studio delle funzioni: costante, lineare, quadratica, esponenziale e definita _a tratti_.
 
 </span>
 </section>
@@ -136,7 +135,7 @@ theme: serif
 - Aver chiaro il concetto di funzione limitata.
 - Aver chiari i concetti di massimo e minimo relativi e assoluti.
 - Saper determinare algebricamente dominio, codominio, gli intervalli di positività e di negatività, simmetrie e intersezioni assi di una funzione.
-- Saper rappresentare graficamente le funzioni: costante, lineare, quadratica, definita *a tratti*, esponenziale.
+- Saper rappresentare graficamente le funzioni: costante, lineare, quadratica, definita _a tratti_, esponenziale.
 
 </span>
 
@@ -145,7 +144,8 @@ theme: serif
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
 ## Tema 3 - I Limiti
->periodo: **gennaio**
+
+> periodo: **gennaio**
 
 </section>
 
@@ -154,11 +154,11 @@ theme: serif
 ### conoscenze:
 
 - Concetto intuitivo da grafico di:
-  - limite finito di una funzione per $x$ che tende a un valore finito 
-  - limite destro e sinistro 
+  - limite finito di una funzione per $x$ che tende a un valore finito
+  - limite destro e sinistro
   - limite finito di una funzione per $x$ che tende all’infinito
   - limite infinito di una funzione per $x$ che tende a un valore finito
-  - limite infinito di una funzione per $x$ che tende all’infinito. 
+  - limite infinito di una funzione per $x$ che tende all’infinito.
 - Asintoti verticali e orizzontali.
 
 </section>
@@ -170,13 +170,13 @@ theme: serif
 - Saper leggere semplici limiti dal grafico di una funzione.
 - Saper riconoscere gli asintoti dal grafico di una funzione.
 
-
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
-## Tema 4 - Le funzioni continue e l'Algebra dei limiti 
->periodo: **febbraio-marzo**
+## Tema 4 - Le funzioni continue e l'Algebra dei limiti
+
+> periodo: **febbraio-marzo**
 
 </section>
 
@@ -185,10 +185,9 @@ theme: serif
 ### conoscenze:
 
 - Definizione di funzione continua.
-- Algebra dei limiti: 
+- Algebra dei limiti:
   - regole di calcolo (somme, prodotti, quozienti) nel caso di limiti finiti;
   - regole di calcolo (somme, prodotti, quozienti)nel caso in cui qualcuno dei limiti sia infinito e non si presentino forme di indecisione.
-
 
 </section>
 
@@ -196,16 +195,16 @@ theme: serif
 
 ### abilità
 
-- Aver chiaro il concetto di funzione in una variabile e saperla  studiare analizzandone il grafico.
+- Aver chiaro il concetto di funzione in una variabile e saperla studiare analizzandone il grafico.
 - Acquisire le tecniche per calcolare limiti finiti e infiniti di funzioni.
-
 
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6">
 
 ## Tema 5 - Il calcolo differenziale e lo studio di funzione
->periodo: **aprile-maggio**
+
+> periodo: **aprile-maggio**
 
 </section>
 
@@ -228,14 +227,13 @@ theme: serif
 
 <section style="font-size:70%">
 
-
 - Definizione di
   - massimi e minimi relativi e assoluti.
 - Definizione di
   - funzioni crescenti e decrescenti in un intervallo.
-     Definizione di 
+    Definizione di
   - flesso di una funzione
-- Definizione di 
+- Definizione di
   - funzioni concave e convesse in un intervallo.
 - Criterio di monotonia per le funzioni derivabili.
   - Ricerca di massimi e minimi relativi di una funzione derivabile.
@@ -258,7 +256,7 @@ theme: serif
 
 ### OBIETTIVO FINALE: COMPETENZE
 
-- Saper utilizzare le tecniche per risolvere semplici equazioni esponenziali e logaritmiche. 
+- Saper utilizzare le tecniche per risolvere semplici equazioni esponenziali e logaritmiche.
 - Conoscere il concetto di funzione
 - Saper studiare algebricamente e graficamente una funzione.
 - Saper leggere semplici limiti dal grafico di una funzione.
@@ -284,15 +282,15 @@ theme: serif
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b><code>uyy24pn</code></h2>
-<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b><code>yqnawpk</code></h2>
+<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b>🎲 🎲</h2>
+<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b><code>xilwsi4</code></h2>
 
 <span style="font-size:70%">
 
-  - comunicazioni **non ufficiali**, ma non per questo frivole...
-  - assegnazione compiti (eventualmente anche sul Registro El.)
-  - post di varia natura
-  - **materiale didattico**: dispense, video, esercizi, dispense, pdf, etc.
+- comunicazioni **non ufficiali**, ma non per questo frivole...
+- assegnazione compiti (eventualmente anche sul Registro El.)
+- post di varia natura
+- **materiale didattico**: dispense, video, esercizi, dispense, pdf, etc.
 
 </span>
 
@@ -300,15 +298,16 @@ theme: serif
 
 <section>
 
-## Registro elettronico: 
+## Registro elettronico:
+
 ### Classeviva Spaggiari:
 
 ![polinomi](classeviva.png)
 
-  - comunicazioni **ufficiali**: 
-    - verifiche e interrogazioni
-    - voti
-    - Circolari
+- comunicazioni **ufficiali**:
+  - verifiche e interrogazioni
+  - voti
+  - Circolari
 
 </section>
 
@@ -317,15 +316,14 @@ theme: serif
 <section data-transition="concave" data-background-image="book5.png" data-background-opacity="0.8">
 </section>
 
-
 <section data-transition="concave" data-background-image="book5.png" data-background-opacity="0.1">
 
-## Libro di testo: 
-#### COLORI DELLA MATEMATICA edizione BIANCA Vol.A - Petrini, Sasso, Fragni - ed. Petrini
+## Libro di testo:
 
-  - non strettamente indispensabile in classe... pesa $780g$
-  - versione digitale su iPad? 
-    - *parliamone*...
+#### COLORI DELLA MATEMATICA edizione BIANCA Vol. 2 - Petrini, Sasso, Fragni - ed. Petrini
+
+- non strettamente indispensabile in classe... pesa $1782g$
+- In caso di necessità consulteremo la versione digitale direttamente sulla LIM.
 
 </section>
 
@@ -333,8 +331,41 @@ theme: serif
 
 ## Appunti dalle lezioni
 
-### ...non ne vado pazzo
+#### Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.
 
+![lavagnata](lavagna.png)
+
+<!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
+
+</section>
+
+---
+
+<section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
+
+<h2>TEST e Verifiche</h2>
+
+Ci sono 3 tipologie di verifiche:
+
+1. Verifica _classica_
+1. TEST a risposta multipla: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+
+1. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+
+- Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
+</section>
+
+---
+
+<section data-transition="concave" data-background-image="studying.jpg" data-background-opacity="0.4">
+
+<h2>Lavoro individuale</h2>
+
+- I gli esercizi proposti verranno caricati alla prima lezione della settimana e corretti all'ultima.
+- Non sono obbligatori
+- Mi serviranno come feedback del vostro lavoro/progressi durante l'anno scolastico
+- Li correggerò a campione e non vi verranno restituiti
+- Alla fine del quadrimestre potranno contribuire fino a 0.5 di voto
 </section>
 
 ---
