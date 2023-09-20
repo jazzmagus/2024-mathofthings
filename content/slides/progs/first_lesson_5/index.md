@@ -349,11 +349,12 @@ slides:
 Ci sono 3 tipologie di verifiche:
 
 1. Verifica _classica_
-1. TEST a risposta multipla: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+1. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
 
 1. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
-- Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
+<h3>INTERROGAZIONI</h3>
+- Le interrogazioni saranno frequenti, soprattutto nel secondo quadrimestre, in preparazione all'orale e mi permetteranno di farmi un'idea degli argomenti in cui siete più sicuri e quelli in cui avete più incertezze.
 </section>
 
 ---
