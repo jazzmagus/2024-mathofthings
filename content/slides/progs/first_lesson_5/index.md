@@ -5,9 +5,10 @@ authors: []
 tags: ["Tutorials", "serale"]
 categories: [teaching]
 date: "2022-09-07"
-# slides:
-#   theme: serif
-theme: serif
+slides:
+  theme: serif
+  highlight_style: dracula
+# theme: serif
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.6" data-transition="convex">
