@@ -337,7 +337,7 @@ highlight_style: dracula
 <img src="/content/slides/progs/first_lesson_5/lavagna.png" 
      width="400" />
 
-<!-- ![lavagnata](lavagna.png) -->
+![lavagnata](lavagna.png)
 
 <!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
 
