@@ -248,12 +248,37 @@ slides:
 Ci sono 3 tipologie di verifiche:
 
 1. Verifica _classica_
-1. TEST a risposta multipla: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+2. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+3. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
-1. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+<h3>INTERROGAZIONI</h3>
 
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
+
+---
+
+<h2>TEST di INGRESSO</h2>
+
+- Sarà **senza valutazione**
+- Mi permette di farmi una prima idea della classe e del tipo di difficoltà
+- Vi darò in anticipo gli argomenti, indicativamente.
+  - Insiemi Numerici $\mathbb{N, Z, Q}$ e loro operazioni
+  - qualche piccola espressione
+  - calcolo letterale: monomi e polinomi
+
+---
+
+<section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
+
+<h2>La calcolatrice non serve</h2>
+
+![calcolatrice](calculator.png)
+
+- In caso di necessità utilizzeremo qualcuno di questi strumenti:
+  - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
+  - [WolframAlpha](https://www.wolframalpha.com/)
+  </section>
 
 ---
 
