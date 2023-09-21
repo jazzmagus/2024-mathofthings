@@ -6,8 +6,8 @@ tags: ["Tutorials", "serale"]
 categories: [teaching]
 date: "2022-09-07"
 slides:
-  theme: serif
-  highlight_style: dracula
+theme: serif
+highlight_style: dracula
 # theme: serif
 ---
 
@@ -283,7 +283,8 @@ slides:
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
-<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b>🎲 🎲</h3>3<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b><code>xilwsi4</code></h2>
+<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QA: &nbsp;</b>jva7mqf</h2>
+<h2 class="fragment fade-in-then-out" style="color:#aa0008"><b>5QES: &nbsp;</b>xilwsi4</h2>
 
 <span style="font-size:70%">
 
@@ -333,7 +334,10 @@ slides:
 
 #### Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.
 
-![lavagnata](lavagna.png)
+<img src="/content/slides/progs/first_lesson_5/lavagna.png" 
+     width="400" />
+
+<!-- ![lavagnata](lavagna.png) -->
 
 <!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
 
@@ -348,13 +352,24 @@ slides:
 Ci sono 3 tipologie di verifiche:
 
 1. Verifica _classica_
-1. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+2. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
 
-1. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+3. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
 <h3>INTERROGAZIONI</h3>
 - Le interrogazioni saranno frequenti, soprattutto nel secondo quadrimestre, in preparazione all'orale e mi permetteranno di farmi un'idea degli argomenti in cui siete più sicuri e quelli in cui avete più incertezze.
 </section>
+
+<section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
+
+<h2>La calcolatrice non serve</h2>
+
+![calculator](calculator.png)
+
+- In caso di necessità utilizzeremo qualcuno di questi strumenti:
+  - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
+  - [WolframAlpha](https://www.wolframalpha.com/)
+  </section>
 
 ---
 
