@@ -316,6 +316,19 @@ Ci sono 3 tipologie di verifiche:
 
 ---
 
+<section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
+
+<h2>La calcolatrice non serve</h2>
+
+![calcolatrice](calculator.png)
+
+- In caso di necessità utilizzeremo qualcuno di questi strumenti:
+  - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
+  - [WolframAlpha](https://www.wolframalpha.com/)
+  </section>
+
+---
+
 <section data-transition="concave" data-background-image="studying.jpg" data-background-opacity="0.4">
 
 <h2>Lavoro individuale</h2>
