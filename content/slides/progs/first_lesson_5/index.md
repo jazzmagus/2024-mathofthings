@@ -332,12 +332,9 @@ highlight_style: dracula
 
 ## Appunti dalle lezioni
 
-#### Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.
+- **Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.**
 
-<img src="/content/slides/progs/first_lesson_5/lavagna.png" 
-     width="400" />
-
-![lavagnata](lavagna.png)
+<img src="/content/slides/progs/first_lesson_5/lavagna.png"  width="400">
 
 <!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
 
@@ -364,7 +361,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h2>La calcolatrice non serve</h2>
 
-![calculator](calculator.png)
+<img src="/content/slides/progs/first_lesson_5/calculator.png"  width="300" height="300">
 
 - In caso di necessità utilizzeremo qualcuno di questi strumenti:
   - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
