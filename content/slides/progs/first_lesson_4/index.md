@@ -314,8 +314,6 @@ Ci sono 3 tipologie di verifiche:
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
 
----
-
 <section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
 
 <h2>La calcolatrice non serve</h2>

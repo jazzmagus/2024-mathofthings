@@ -256,8 +256,7 @@ Ci sono 3 tipologie di verifiche:
 - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 </section>
 
----
-
+<section>
 <h2>TEST di INGRESSO</h2>
 
 - Sarà **senza valutazione**
@@ -267,7 +266,7 @@ Ci sono 3 tipologie di verifiche:
   - qualche piccola espressione
   - calcolo letterale: monomi e polinomi
 
----
+</section>
 
 <section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
 
