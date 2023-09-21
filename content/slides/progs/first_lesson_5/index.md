@@ -6,8 +6,8 @@ tags: ["Tutorials", "serale"]
 categories: [teaching]
 date: "2022-09-07"
 slides:
-theme: serif
-highlight_style: dracula
+  theme: serif
+  highlight_style: dracula
 # theme: serif
 ---
 
