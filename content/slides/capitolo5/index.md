@@ -5,12 +5,12 @@ authors: [diego fantinelli]
 tags: [calcolo_letterale]
 categories: [2022, lesson]
 date: "2022-03-05T00:00:00Z"
-theme: serif
-# slides:
-#   theme: serif
-#   transition: convex
-#   highlight_style: dracula
-#   enableChalkboard: true
+# theme: serif
+slides:
+  theme: serif
+  transition: convex
+  highlight_style: dracula
+  enableChalkboard: true
 ---
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.5">
@@ -21,7 +21,7 @@ theme: serif
   <h5 style="color:#8A4117"><em>prof. diego fantinelli</em></h5>
   <p style="color:#8A4117"><em>matematica per il biennio &mdash; classi prime</em></p>
 
-  <h3 style="color:#8A4117; font-size:40pt">ITET "Pasini" - Schio</h3>
+  <h3 style="color:#8A4117; font-size:40pt">IIS "G.A. Remondini - Bassano del Grappa"</h3>
 
 </section>
 
