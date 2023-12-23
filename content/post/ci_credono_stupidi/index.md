@@ -8,7 +8,7 @@ tags: [2023]
 categories: [curiosity]
 date: "2023-01-03T00:21:00Z"
 featured: true
-draft: false
+draft: true
 
 image:
   caption: ''
