@@ -27,4 +27,4 @@ image:
 È inevitabile che durante le Feste si passi più tempo a guardare cose alla televisione, è un classico di Natale: gonfi di panettone/pandoro e schienati sul divano ci possono propinare qualsiasi cosa, perché siamo psico-gastronomicamente vulnerabili.
 
 Nel seguente video  si può notare una cosa piuttosto interessante:
-    - prima cosa: il messaggio
+    - prima cosa: il messaggio: [link](https://youtu.be/6BJKPDzMJFM?si=c1yW0Xj0VP-gDAPc)
