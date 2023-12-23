@@ -63,7 +63,7 @@ gallery_item:
 
 ---
 
-### importanza del calcolo letterale
+### L'importanza del calcolo letterale
 
 - perché si usano le lettere in matematica?
 - a cosa servono?

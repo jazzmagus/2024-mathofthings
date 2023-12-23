@@ -91,6 +91,20 @@ slides:
 
 </section>
 
+---
+
+<section data-background-image="https://source.unsplash.com/1920x1080/?white" data-background-opacity="0.5">
+
+  <h3 class="fragment" style="color:#8A4117; font-size: 60px;">esercizio n.147 a pag 247</h3>
+   <h2 class="fragment" style="color:#8A4117; font-size: 40px;">$$2 a(a-2 b)+a b(3 a+1)-3 a^2(b-1)-a(2 a-3 b)$$</h2>
+
+  <h3 class="fragment" style="color:#000; font-size: 30px;">si eseguono le moltiplicazioni <i>termine a termine</i> ottenendo:<h3>
+  <h2 class="fragment r-fit-text" style="color:#8A4117; font-size: 50px;">$$2a^2 - 4ab + 3a^2 b+ ab -3a^2 b + 3a^2 - 2a^2 + 3ab$$</h2>
+  <h3 class="fragment" style="color:#000; font-size: 30px;">dopo aver dovutamente semplificato i <b>monomi simili</b>...</h3>
+  <h2 class="fragment" style="color:#B91C1C; font-size: 50px;">$$ + 3a^2$$</h2>
+
+</section>
+
 
 <section data-background-image="https://source.unsplash.com/1920x1080/?white" data-background-opacity="0.5">
 
