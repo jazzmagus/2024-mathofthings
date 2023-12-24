@@ -22,9 +22,12 @@ image:
 ><i class="fa-solid fa-quote-left"></i> Faith in oneself is the best and safest course. <i class="fa-solid fa-quote-right"></i>
 ><br>&mdash; <cite>Michelangelo</cite>
 
+![mediaset](./featured.jpeg)
+
 ## Christmas bufale
 
 È inevitabile che durante le Feste si passi più tempo a guardare cose alla televisione, è un classico di Natale: gonfi di panettone/pandoro e schienati sul divano ci possono propinare qualsiasi cosa, perché siamo psico-gastronomicamente vulnerabili.
 
 Nel seguente video  si può notare una cosa piuttosto interessante:
-    - prima cosa: il messaggio: [link](https://youtu.be/6BJKPDzMJFM?si=c1yW0Xj0VP-gDAPc)
+
+  - prima cosa: il messaggio:  [Auguri da Mediaset](https://youtu.be/6BJKPDzMJFM?si=c1yW0Xj0VP-gDAPc)
