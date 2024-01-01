@@ -6,7 +6,7 @@ tags:
 date: '2024-1-1T12:00:00Z'
 
 # Optional external URL for project (repla . ces project detail page).
-external_link: ''
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +16,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/tweetmagus
 url_code: ''
 url_pdf: ''
 url_slides: ''
