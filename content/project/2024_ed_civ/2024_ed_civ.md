@@ -3,7 +3,7 @@ title: 2024 Educazione Civica Classi Quinte
 summary: An example of using the in-built project page.
 tags:
   - teaching
-date: '2024-12-1T12:00:00Z'
+date: '2023-12-1T12:00:00Z'
 
 # Optional external URL for project (repla . ces project detail page).
 external_link: ""
