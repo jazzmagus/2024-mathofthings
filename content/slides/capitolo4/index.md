@@ -18,8 +18,9 @@ slides:
   <h3 class="fragment" style="color:#3B2F2F"><em>- Rif.: Capitolo 4 -</em></h3>
   <img src="gear_00.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="100">
   <h4 style="color:#8A4117"><em>prof. diego fantinelli</em></h4>
-  <p>ITIS "Enrico Fermi" - Bassano del Grappa</p>
-  <p style="color:#8A4117"><em>matematica per il biennio &mdash; classi prime</em></p>
+  <!-- <p>ITIS "Enrico Fermi" - Bassano del Grappa</p> -->
+  <p>IIS "G.A. Remondini" - Bassano del Grappa</p>
+  <p style="color:#8A4117"><em>matematica per il biennio </em></p>
 </section>
 
 
@@ -28,19 +29,29 @@ slides:
 <section data-background-image="https://source.unsplash.com/1920x1080/?white" style="font-size:90%" data-transition="convex">
   <h2 style="color:#3B2F2F">Prerequisiti</h2>
 
-  <ul class="fragment">
-  <li class="fragment"><h3 style="color:#8A4117">insiemi numerici:</h3></li>
-    <ul class="fragment">
-      <li>Operazioni e nomenclatura insiemistiche</li>
-      <li>Operazioni in $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$</li>
-    </ul>
-  <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray">
-  <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li>
-    <ul class="fragment">
-      <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
-      <li>Prodotto Cartesiano: definizione e rappresentazione</li>
-    </ul>
+{{% callout note %}}
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
+
+  <!-- <li class="fragment"><h3 style="color:#8A4117">insiemi numerici:</h3></li> -->
+  <!--   <ul class="fragment"> -->
+  <!--     <li>Operazioni e nomenclatura insiemistiche</li> -->
+  <!--     <li>Operazioni in $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$</li> -->
+  <!--   </ul> -->
+  <!-- <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray"> -->
+  <!-- <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li> -->
+  <!--   <ul class="fragment"> -->
+  <!--     <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li> -->
+  <!--     <li>Prodotto Cartesiano: definizione e rappresentazione</li> -->
+  <!--   </ul> -->
 </section>
+
+---
+
+
+{{% callout note %}}
+A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
 
 ---
 
