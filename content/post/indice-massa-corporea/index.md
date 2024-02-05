@@ -42,7 +42,7 @@ projects: []
 
 # Indice di massa corporea
 
->L'indice di massa corporea (abbreviato IMC o BMI, dall'inglese body mass index) è un dato biometrico, espresso come rapporto tra peso e quadrato dell'altezza di un individuo ed è utilizzato come un indicatore dello stato di peso forma.
+>L'**indice di massa corporea** (abbreviato IMC o BMI, dall'inglese body mass index) è un dato biometrico, espresso come rapporto tra peso e quadrato dell'altezza di un individuo ed è utilizzato come un indicatore dello stato di peso forma.
 
 
 <center>

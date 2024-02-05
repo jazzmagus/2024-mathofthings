@@ -48,10 +48,11 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 
 ---
 
+# Titolone
+## Un bel titolo
+$$3x^2 - 2x - 1$$
 
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
+> A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
 
 ---
 
@@ -63,6 +64,9 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 </section>
 
 ---
+
+
+
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.7" data-transition="zoom">
   <h2 style="color:#FFFFFF;" class="r-fit-text">Relazioni e</h2>
@@ -80,8 +84,9 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
   </ul>
 </section>
 
-<section data-background-video="archery.mp4" data-background-opacity="0.8" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#FFFFFF">Definizioni</h2>
+<section data-background-image="https://source.unsplash.com/1920x1080/?white" style="font-size:90%" data-transition="convex">
+<!-- <section data-background-video="archery.mp4" data-background-opacity="0.8" data-transition="convex"> -->
+  <h2 class="r-fit-text" style="color:#3B2F2F">Definizioni</h2>
 </section>
 
 <section data-transition="convex">
@@ -112,38 +117,38 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>codominio</b>di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che hanno <b>almeno una controimmagine</b> in $A$</q>
 </section>
 
-<section data-transition="convex">
-<h2 style="color:#8A4117" class="r-fit-text">proprietà delle relazioni:</h2>
-<ul class="fragment" style="font-size:80%">
-  <li class="fragment"><b>Riflessiva:</b> ogni elemento è in relazione con se stesso: $\forall x \in A, x \mathscr{R} y$</li>
-  <li class="fragment"><b>Antiriflessiva:</b> nessun elemento è in relazione con se stesso: $\forall x \in A, x \cancel{\mathscr{R}} y$</li>
-  <li class="fragment"><b>Simmetrica:</b> se $x$ è in relazione con $y$, allora $y$  è in relazione con $x$:  $(x \mathscr{R} y) \vee (y \mathscr{R} z) \longrightarrow x \mathscr{R} z$, con $x, y, z \in A$</li>
-  <li class="fragment"><b>Antisimmetrica:</b> se $x$ è in relazione con $y$ e $y$ è in relazione con $x$, allora $x=y$:  $(x \mathscr{R} y) \wedge (y \mathscr{R} x) \longrightarrow x = y$, con $x, y \in A$</li>
-  <li class="fragment"><b>Transitiva:</b> se $x$ è in relazione con $y$, e $y$ è in relazione con "z" allora $x$ è in relazione con $z$: $(x \mathscr{R} y) \wedge (y \mathscr{R} z) \longrightarrow x \mathscr{R} z$, con $x, y, z \in A$</li>
-</ul>
-</section>
-
-<section data-transition="convex">
-<h2 style="color:#8A4117">Relazioni di equivalenza</h2>
-<h4 class="fragment" style="text-align:left; background-color:#F3E5AB; font-size:80%"><b>definizione:</b><em> una relazione $\mathscr{R}$ definita in un insieme $A$ è una relazione di equivalenza se gode delle proprietà riflessiva, simmetrica e transitiva. Se $\mathscr{R}$ è una relazione di equivalenza, due elementi in relazione tra loro si dicono <b>equivalenti</b> rispetto a $\mathscr{R}$</em></h4>
-<ul style="font-size:85%">
-  <li class="fragment" style="color:#8A4117;"><em>I sottoinsiemi di $A$ costituiti da elementi tutti equivalenti fra loro rispetto alla relazione di equivalenza $\mathscr{R}$ si dicono <b>classi di equivalenza</b> di $\mathscr{R}$.</em></li>
-  <li class="fragment" style="color:#8A4117;"><em>Essi costituiscono una partizione di $A$ e l’insieme che ha per elementi le classi di equivalenza rispetto a $\mathscr{R}$ si chiama insieme <b>quoziente.</b></em></li>
-</ul>
-</section>
-
-<section data-transition="convex">
-  <h2 style="color:#8A4117">Relazioni d'ordine</h2>
-  <h4 class="fragment" style="text-align:left; background-color:#F3E5AB; font-size:80%"><em><b>definizione:</b> relazione $\mathscr{R}$ che gode delle proprietà <b>antisimmetrica</b> e <b>transitiva</b></em></h4>
-  <ul style="font-size:85%">
-    <li class="fragment" style="color:#8A4117;"><em>Se $\mathscr{R}$ è anche <b>antiriflessiva</b>, essa è detta relazione <b>d’ordine stretto</b></em></li>
-    <li class="fragment" style="color:#8A4117;"><em>Se $\mathscr{R}$ è anche <b>riflessiva</b>, essa è detta relazione <b>d’ordine largo</b></em></li>
-    <ul style="font-size:80%">  
-      <li class="fragment" style="color:#8A4117;"><em>in particolare:</em></li>
-      <li class="fragment" style="color:#8A4117;"><em>se $\mathscr{R}$ è una relazione d’ordine e $x \mathscr{R} y$, si dice che $x$ precede $y$ o che $y$ segue $x$ in $\mathscr{R}$</em></li>
-      <li class="fragment" style="color:#8A4117;"><em>se $\forall x\in A$ e $\forall y \in A$ tali che $x \neq y$ risulta $(x \mathscr{R} y) \wedge (y \mathscr{R} x)$, allora si dice che $\mathscr{R}$ è una relazione <b>d’ordine totale</b>.<br> Altrimenti $\mathscr{R}$ è detta relazione <b>d’ordine parziale</b></em></li>
-  </ul>
-</section>
+<!-- <section data-transition="convex"> -->
+<!-- <h2 style="color:#8A4117" class="r-fit-text">proprietà delle relazioni:</h2> -->
+<!-- <ul class="fragment" style="font-size:80%"> -->
+<!--   <li class="fragment"><b>Riflessiva:</b> ogni elemento è in relazione con se stesso: $\forall x \in A, x \mathscr{R} y$</li> -->
+<!--   <li class="fragment"><b>Antiriflessiva:</b> nessun elemento è in relazione con se stesso: $\forall x \in A, x \cancel{\mathscr{R}} y$</li> -->
+<!--   <li class="fragment"><b>Simmetrica:</b> se $x$ è in relazione con $y$, allora $y$  è in relazione con $x$:  $(x \mathscr{R} y) \vee (y \mathscr{R} z) \longrightarrow x \mathscr{R} z$, con $x, y, z \in A$</li> -->
+<!--   <li class="fragment"><b>Antisimmetrica:</b> se $x$ è in relazione con $y$ e $y$ è in relazione con $x$, allora $x=y$:  $(x \mathscr{R} y) \wedge (y \mathscr{R} x) \longrightarrow x = y$, con $x, y \in A$</li> -->
+<!--   <li class="fragment"><b>Transitiva:</b> se $x$ è in relazione con $y$, e $y$ è in relazione con "z" allora $x$ è in relazione con $z$: $(x \mathscr{R} y) \wedge (y \mathscr{R} z) \longrightarrow x \mathscr{R} z$, con $x, y, z \in A$</li> -->
+<!-- </ul> -->
+<!-- </section> -->
+<!---->
+<!-- <section data-transition="convex"> -->
+<!-- <h2 style="color:#8A4117">Relazioni di equivalenza</h2> -->
+<!-- <h4 class="fragment" style="text-align:left; background-color:#F3E5AB; font-size:80%"><b>definizione:</b><em> una relazione $\mathscr{R}$ definita in un insieme $A$ è una relazione di equivalenza se gode delle proprietà riflessiva, simmetrica e transitiva. Se $\mathscr{R}$ è una relazione di equivalenza, due elementi in relazione tra loro si dicono <b>equivalenti</b> rispetto a $\mathscr{R}$</em></h4> -->
+<!-- <ul style="font-size:85%"> -->
+<!--   <li class="fragment" style="color:#8A4117;"><em>I sottoinsiemi di $A$ costituiti da elementi tutti equivalenti fra loro rispetto alla relazione di equivalenza $\mathscr{R}$ si dicono <b>classi di equivalenza</b> di $\mathscr{R}$.</em></li> -->
+<!--   <li class="fragment" style="color:#8A4117;"><em>Essi costituiscono una partizione di $A$ e l’insieme che ha per elementi le classi di equivalenza rispetto a $\mathscr{R}$ si chiama insieme <b>quoziente.</b></em></li> -->
+<!-- </ul> -->
+<!-- </section> -->
+<!---->
+<!-- <section data-transition="convex"> -->
+<!--   <h2 style="color:#8A4117">Relazioni d'ordine</h2> -->
+<!--   <h4 class="fragment" style="text-align:left; background-color:#F3E5AB; font-size:80%"><em><b>definizione:</b> relazione $\mathscr{R}$ che gode delle proprietà <b>antisimmetrica</b> e <b>transitiva</b></em></h4> -->
+<!--   <ul style="font-size:85%"> -->
+<!--     <li class="fragment" style="color:#8A4117;"><em>Se $\mathscr{R}$ è anche <b>antiriflessiva</b>, essa è detta relazione <b>d’ordine stretto</b></em></li> -->
+<!--     <li class="fragment" style="color:#8A4117;"><em>Se $\mathscr{R}$ è anche <b>riflessiva</b>, essa è detta relazione <b>d’ordine largo</b></em></li> -->
+<!--     <ul style="font-size:80%">   -->
+<!--       <li class="fragment" style="color:#8A4117;"><em>in particolare:</em></li> -->
+<!--       <li class="fragment" style="color:#8A4117;"><em>se $\mathscr{R}$ è una relazione d’ordine e $x \mathscr{R} y$, si dice che $x$ precede $y$ o che $y$ segue $x$ in $\mathscr{R}$</em></li> -->
+<!--       <li class="fragment" style="color:#8A4117;"><em>se $\forall x\in A$ e $\forall y \in A$ tali che $x \neq y$ risulta $(x \mathscr{R} y) \wedge (y \mathscr{R} x)$, allora si dice che $\mathscr{R}$ è una relazione <b>d’ordine totale</b>.<br> Altrimenti $\mathscr{R}$ è detta relazione <b>d’ordine parziale</b></em></li> -->
+<!--   </ul> -->
+<!-- </section> -->
 
 ---
 
@@ -186,53 +191,53 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 <p class="fragment">$$y=f(x)=x^2$$</p>
 </section>
 
-<section>
-<h3 style="color:#8A4117">Funzioni SURIETTIVE</h3>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzioni BIUNIVOCHE</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzioni invertibili</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h2>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
-
-<section>
-<h2 style="color:#8A4117">Funzione inversa</h2>
-<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-</section>
-
-<section>
-<h3 class="fragment" style="text-align:left">esempio</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<p class="fragment">$$y=f(x)=x^2$$</p>
-</section>
+<!-- <section> -->
+<!-- <h3 style="color:#8A4117">Funzioni SURIETTIVE</h3> -->
+<!-- <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4> -->
+<!-- <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h3 class="fragment" style="text-align:left">esempio</h3> -->
+<!-- <h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4> -->
+<!-- <p class="fragment">$$y=f(x)=x^2$$</p> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h2 style="color:#8A4117">Funzioni BIUNIVOCHE</h2> -->
+<!-- <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4> -->
+<!-- <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h3 class="fragment" style="text-align:left">esempio</h3> -->
+<!-- <h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4> -->
+<!-- <p class="fragment">$$y=f(x)=x^2$$</p> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h2 style="color:#8A4117">Funzioni invertibili</h2> -->
+<!-- <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4> -->
+<!-- <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h3 class="fragment" style="text-align:left">esempio</h2> -->
+<!-- <h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4> -->
+<!-- <p class="fragment">$$y=f(x)=x^2$$</p> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h2 style="color:#8A4117">Funzione inversa</h2> -->
+<!-- <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4> -->
+<!-- <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q> -->
+<!-- </section> -->
+<!---->
+<!-- <section> -->
+<!-- <h3 class="fragment" style="text-align:left">esempio</h3> -->
+<!-- <h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4> -->
+<!-- <p class="fragment">$$y=f(x)=x^2$$</p> -->
+<!-- </section> -->
 
 <section>
 <h2 style="color:#3B2F2F" class="r-fit-text">osservazioni</h2>
