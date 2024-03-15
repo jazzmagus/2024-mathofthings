@@ -278,7 +278,7 @@ $$\lim_{x \rightarrow x_{0}} \frac{f(x)}{g(x)}=\frac{l_{1}}{l_{2}}, \text { con 
 -   Limite del **rapporto incrementale**;
 -   definizione di **derivata** e suo significato geometrico;
 
-![Derivata.excalidraw](Derivata.excalidraw.svg)
+![Derivata.excalidraw](2024-mathofthings/content/docs/math_SE/Derivata.excalidraw.svg)
 
 #### Le **derivate fondamentali**: 
 -   della funzione costante, 

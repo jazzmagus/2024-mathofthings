@@ -22,7 +22,7 @@ image:
 ><i class="fa-solid fa-quote-left"></i> Faith in oneself is the best and safest course. <i class="fa-solid fa-quote-right"></i>
 ><br>&mdash; <cite>Michelangelo</cite>
 
-![mediaset](./featured.jpeg)
+![mediaset](2024-mathofthings/content/post/ci_credono_stupidi/featured.jpeg)
 
 ## Christmas bufale
 

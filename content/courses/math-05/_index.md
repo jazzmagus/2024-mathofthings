@@ -33,7 +33,7 @@ menu:
 >
 >-- Piergiorgio Odifreddi
 
-![overview_img](featured.png)
+![overview_img](2024-mathofthings/content/courses/math-05/featured.png)
 
 ## Conoscenze
 

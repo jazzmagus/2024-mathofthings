@@ -29,7 +29,7 @@ menu:
 >
 >-- Piergiorgio Odifreddi
 
-![overview_img](startline.png)
+![overview_img](2024-mathofthings/content/courses/math-04/startline.png)
 
 ## Conoscenze
 

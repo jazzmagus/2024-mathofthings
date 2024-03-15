@@ -114,7 +114,7 @@ slides:
 
 ---
 
-![polinomi](schema_polinomi-equazioni.svg)
+![polinomi](20%20MATHS/23%20Teaching/235%20Lessons/schema_polinomi-equazioni.svg)
 
 ---
 
@@ -244,7 +244,7 @@ slides:
 
 <h3>Mind Mapping</h3>
 
-![polinomi](calc-lett_mindmap.png)
+![polinomi](2024-mathofthings/content/slides/_pasini/pres_classi_prime/calc-lett_mindmap.png)
 
 </section>
 

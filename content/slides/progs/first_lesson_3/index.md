@@ -120,7 +120,7 @@ slides:
 
 ---
 
-![polinomi](schema_polinomi-equazioni.svg)
+![polinomi](2024-mathofthings/content/slides/progs/first_lesson_3/schema_polinomi-equazioni.svg)
 
 ---
 
@@ -204,7 +204,7 @@ slides:
 
 ### Classeviva Spaggiari:
 
-![CLASSEVIVA](classeviva.png)
+![CLASSEVIVA](2024-mathofthings/content/slides/progs/first_lesson_3/classeviva.png)
 
 - comunicazioni **ufficiali**:
   - verifiche e interrogazioni
@@ -235,7 +235,7 @@ slides:
 
 #### Dopo ogni lezione troverete su Classroom il PDF con le _lavagnate_.
 
-![lavagnata](lavagna.png)
+![lavagnata](2024-mathofthings/content/slides/progs/first_lesson_3/lavagna.png)
 
 </section>
 
@@ -248,8 +248,8 @@ slides:
 Ci sono 3 tipologie di verifiche:
 
 1. Verifica _classica_
-2. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
-3. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+2. TEST a risposta multipla, valido per l'orale: [esempio TEST](2024-mathofthings/content/slides/progs/first_lesson_3/20220519-1I-Test-Calcolo_letterale.pdf)
+3. Verifica _mista_: [esempio VERIFICA _mista_](2024-mathofthings/content/slides/progs/first_lesson_3/202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
 <h3>INTERROGAZIONI</h3>
 
@@ -272,7 +272,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h2>La calcolatrice non serve</h2>
 
-![calcolatrice](calculator.png)
+![calcolatrice](2024-mathofthings/content/slides/progs/first_lesson_3/calculator.png)
 
 - In caso di necessità utilizzeremo qualcuno di questi strumenti:
   - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
@@ -298,7 +298,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h3>Mind Mapping</h3>
 
-![polinomi](calc-lett_mindmap.png)
+![polinomi](2024-mathofthings/content/slides/progs/first_lesson_3/calc-lett_mindmap.png)
 
 </section>
 

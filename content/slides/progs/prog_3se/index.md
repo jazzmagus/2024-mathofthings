@@ -164,7 +164,7 @@ logoImg: "miur.png"
 
 <section data-transition="concave" data-background-image="book_bkg.jpg" data-background-opacity="0.4">
 
-![polinomi](schema_polinomi-equazioni.svg)
+![polinomi](2024-mathofthings/content/slides/progs/prog_3se/schema_polinomi-equazioni.svg)
 
 </section>
 

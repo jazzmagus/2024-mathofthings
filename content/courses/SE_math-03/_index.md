@@ -112,9 +112,9 @@ Non sono richiesti particolari prerequisiti.
 
 Ci sono 2 tipologie di verifiche:
 
-- TEST a risposta multipla: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+- TEST a risposta multipla: [esempio TEST](2024-mathofthings/content/courses/SE_math-03/20220519-1I-Test-Calcolo_letterale.pdf)
   - in cui vengono valutate prevalentemente le conoscenze teoriche
-- Esercizi e problemi: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+- Esercizi e problemi: [esempio VERIFICA _mista_](2024-mathofthings/content/courses/SE_math-03/202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
   - la classica verifica per valutare le abilità acquisite per l'argomento specifico dell'unità
   - Le interrogazioni verranno prese in considerazione solo per recuperare/migliorare la media
 

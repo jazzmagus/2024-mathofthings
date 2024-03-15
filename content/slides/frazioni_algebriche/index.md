@@ -219,7 +219,7 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 
 #### equazioni/disequazioni mindmap
 
-![mindmap](equazioni_mindmap.png)
+![mindmap](2024-mathofthings/content/slides/frazioni_algebriche/equazioni_mindmap.png)
 
 ---
 

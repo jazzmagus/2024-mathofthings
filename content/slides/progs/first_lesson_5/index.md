@@ -98,7 +98,7 @@ slides:
 
 <section data-background-image="book_bkg.gif" data-background-opacity="0.9">
 
-![ecg](heart_01.gif)
+![ecg](2024-mathofthings/content/slides/progs/first_lesson_5/heart_01.gif)
 
   <!-- <h3 class="fragment" style="background-color:powderblue;">matematicamente</h3> -->
   <img class="fragment" src="heart.png" style="color:" width="300">
@@ -303,7 +303,7 @@ slides:
 
 ### Classeviva Spaggiari:
 
-![polinomi](classeviva.png)
+![polinomi](2024-mathofthings/content/slides/progs/first_lesson_5/classeviva.png)
 
 - comunicazioni **ufficiali**:
   - verifiche e interrogazioni
@@ -336,7 +336,7 @@ slides:
 
 <!-- <img src="/content/slides/progs/first_lesson_5/lavagna.png"  width="400"> -->
 
-![lavagna](lavagna.png)
+![lavagna](2024-mathofthings/content/slides/progs/first_lesson_5/lavagna.png)
 
 <!-- <img src="lavagna.png" alt="Girl in a jacket" style="width:500px;height:600px;"> -->
 
@@ -351,9 +351,9 @@ slides:
 Ci sono 3 tipologie di verifiche:
 
 1. Verifica _classica_
-2. TEST a risposta multipla, valido per l'orale: [esempio TEST](20220519-1I-Test-Calcolo_letterale.pdf)
+2. TEST a risposta multipla, valido per l'orale: [esempio TEST](2024-mathofthings/content/slides/progs/first_lesson_5/20220519-1I-Test-Calcolo_letterale.pdf)
 
-3. Verifica _mista_: [esempio VERIFICA _mista_](202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
+3. Verifica _mista_: [esempio VERIFICA _mista_](2024-mathofthings/content/slides/progs/first_lesson_5/202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf)
 
 <h3>INTERROGAZIONI</h3>
 - Le interrogazioni saranno frequenti, soprattutto nel secondo quadrimestre, in preparazione all'orale e mi permetteranno di farmi un'idea degli argomenti in cui siete più sicuri e quelli in cui avete più incertezze.
@@ -363,7 +363,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h2>La calcolatrice non serve</h2>
 
-![calcolatrice](calculator.png)
+![calcolatrice](2024-mathofthings/content/slides/progs/first_lesson_5/calculator.png)
 
 - In caso di necessità utilizzeremo qualcuno di questi strumenti:
   - [Geogebra](https://www.geogebra.org/calculator), oppure [Desmos](https://www.desmos.com/calculator)
@@ -389,7 +389,7 @@ Ci sono 3 tipologie di verifiche:
 
 <h3>Mind Mapping</h3>
 
-![polinomi](calc-lett_mindmap.png)
+![polinomi](2024-mathofthings/content/slides/progs/first_lesson_5/calc-lett_mindmap.png)
 
 </section>
 

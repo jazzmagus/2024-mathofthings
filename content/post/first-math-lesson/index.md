@@ -105,7 +105,7 @@ projects: []
 
 1. **`verifica scritta`**:
 
-> - [esempio verifica](./first-math-lesson.pdf)
+> - [esempio verifica](first-math-lesson.pdf)
 
 - verrà effettuata una verifica per ogni modulo/argomento
 
