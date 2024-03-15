@@ -1,8 +1,8 @@
 ---
 title: Schema progettazione attività didattica
-summary: schema lezione simulata - A26
+summary: schema lezione simulata - A026
 authors: [Diego Fantinelli]
-tags: [stem]
+tags: [2024, ter]
 categories: [concorso]
 date: "2022-02-05T00:00:00Z"
 # theme: serif
@@ -43,7 +43,7 @@ slides:
   </tr>
   <tr>
     <td style="color:#8A4117" width="30.0%"><em><b>fragilità</b></em></td>
-    <td width="70.0%">tipologia e frequenza delle disabilità</td>
+    <td width="70.0%">tipologie e frequenza delle disabilità</td>
   </tr>
   <tr>
     <td style="color:#8A4117" width="30.0%"><em><b>percorso didattico</b></em></td>
