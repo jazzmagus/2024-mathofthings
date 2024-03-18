@@ -326,14 +326,14 @@ slides:
 </section>
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
 
-<h1 style="color:#8A4117">FASE 3 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span></h2>
-  <h2 style="color:#3B2F2F" class="fragment">ACTIVE - trasmissiva</h2>
+<h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
+  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>consultazione: </b>libro di testo in formato digitale</li>
-    <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
+
+  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
 </section>
 
 ---
@@ -350,6 +350,30 @@ slides:
     <li>Cooperative learning: es. peer-tutoring</li>
     <li>strumenti informatici: <em>es. Geogebra, Desmos, Wolfram Alpha, etc.</em></li>
   </ul>
+</section>
+
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+
+<h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
+  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+  <ul class="fragment" style="font-size: 80%;" >
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
+  </ul>
+
+  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
+</section>
+
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+
+<h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
+  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+  <ul class="fragment" style="font-size: 80%;" >
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
+  </ul>
+
+  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
 </section>
 
 ---
