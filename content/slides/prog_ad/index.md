@@ -4,7 +4,7 @@ summary: schema lezione simulata - A026
 authors: [Diego Fantinelli]
 tags: [2024, ter]
 categories: [concorso]
-date: "2022-02-05T00:00:00Z"
+date: "2024-02-05T00:00:00Z"
 # theme: serif
 # transition: convex
 slides:
@@ -15,15 +15,15 @@ slides:
   # enableChalckboard: true
   # pdfSeparateFragments: false
 ---
-
+<!-- markdownlint-disable MD033 -->
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="color:#8A4117">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
   <h2 style="color:#1d91de">ESEMPIO</h2>
-  <img src="miur.png" style="opacity:0.8;filter:alpha(opacity=60);" width="320">
+  <img src="miur.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="320">
   <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
   <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
-  <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p>
+  <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p>
 </section>
 
 ---
@@ -194,7 +194,7 @@ slides:
     </ul>
   <li><h4 style="color:#b82460"><b>interrogazione</b></h4> per eventuale recupero o miglioramento</li>
 </ol>
-</section>
+</section> 
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 <h1 style="color:#8A4117" class="r-fit-text">STRUMENTI DIDATTICI</h1>
@@ -206,6 +206,11 @@ slides:
     <td width="80.0%">sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$, simulando una gestione della conoscenza sul modello delle reti neuronali - <em>Second Brain</em></td>
   </tr>
   <tr>
+    <td width="20.0%"><em><b><a style="color:#1d91de" href="https://revealjs.com/">NeoVim</a></b></em>
+      </td>
+    <td width="80.0%">Strumento per la preparazione di presentazioni professionali efficiente e flessibile che supporta Html, Css, Markdown e $\LaTeX$</td>
+  </tr>
+  <tr>
     <td width="20.0%"><em><b><a style="color:#1d91de" href="https://revealjs.com/">Reveal.js</a></b></em></td>
     <td width="80.0%">Strumento per la preparazione di presentazioni professionali efficiente e flessibile che supporta Html, Css, Markdown e $\LaTeX$</td>
   </tr>
@@ -214,8 +219,8 @@ slides:
     <td width="80.0%">per conferire un carattere accademico a tutta la documentazione didattica</td>
   </tr>
   <tr>
-    <td width="20.0%"><em><b><a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/">The Math of Things</a></b></em></td>
-    <td width="80.0%">un sito web statico sviluppato con <a style="color:#1d91de" href="https://obsidian.md/">Hugo.io</a> come "contenitore didattico" - un ausilio semplice ed efficace alla progettazione didattica; supporta supporta Html, Css, $\LaTeX$ e Reveal.js</td>
+    <td width="20.0%"><em><b><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a></b></em></td>
+    <td width="80.0%">un sito web statico sviluppato con <a style="color:#1d91de" href="https://obsidian.md/">Hugo.io</a> come "contenitore didattico" - un ausilio semplice ed efficace alla progettazione didattica; supporta Html, Css, $\LaTeX$ e Reveal.js</td>
   </tr>
 </table>
 </section>
@@ -316,6 +321,17 @@ slides:
       <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
     </ul>
 <!-- </ul> -->
+</section>
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+
+<h1 style="color:#8A4117">FASE 3 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span></h2>
+<h2 style="color:#3B2F2F" class="fragment">ACTIVE - trasmissiva</h2>
+    <ul class="fragment" style="font-size: 80%;" >
+      <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+      <li><b>consultazione: </b>libro di testo in formato digitale</li>
+      <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
+      <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
+    </ul>
 </section>
 
 ---
