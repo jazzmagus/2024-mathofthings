@@ -56,7 +56,8 @@ url_video: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: "Image credit: [**Pexels**](https://www.pexels.com/it-it/foto/porta-11582120/)"
-  focal_point: ""
+  focal_point: "center"
+  placement: 2
   preview_only: false
 
 # Associated Projects (optional).

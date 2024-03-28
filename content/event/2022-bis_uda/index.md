@@ -32,7 +32,9 @@ featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  focal_point: "center"
+  placement: 3
+  preview_only: false
 
 # links:
 #   - icon: twitter
@@ -49,7 +51,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: prog_ad
+slides: 2022-bis_uda
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

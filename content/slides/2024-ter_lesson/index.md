@@ -1,10 +1,10 @@
 ---
-title: Schema progettazione attività didattica
+title: Lezione simulata
 summary: schema lezione simulata - A026
 authors: [Diego Fantinelli]
 tags: [2024, ter]
 categories: [concorso]
-date: "2024-02-05T00:00:00Z"
+date: "2024-03-05T00:00:00Z"
 # theme: serif
 # transition: convex
 slides:
@@ -21,7 +21,7 @@ slides:
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="color:#8A4117">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
   <!-- <h2 style="color:#1d91de">ESEMPIO</h2> -->
-  <img src="miur.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="320">
+  <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="620">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
   <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
@@ -120,40 +120,39 @@ slides:
 </section>
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
+  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
   <!-- <h2 style="color:#3B2F2F" class="r-fit-text">RIASSUNTIVA - RECAP </h2> -->
-
   <table class="fragment" style="font-size:65%" width="95%">
     <tr>
-      <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
+      <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td  width="60.0%">organizzare il proprio apprendimento</td>
+      <td width="40.0%"><em>1. imparare ad imparare</em></td>
+      <td width="60.0%">organizzare il proprio apprendimento</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>2. saper progettare</em></td>
+      <td width="40.0%"><em>2. saper progettare</em></td>
       <td width="60.0%">elaborare e realizzare progetti</td>  
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>3. saper comunicare</em></td>
+      <td width="40.0%"><em>3. saper comunicare</em></td>
       <td width="60.0%">presentare in modo efficace</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>4. collaborare e partecipare</em></td>
+      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
       <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>6. problem solving</em></td>
+      <td width="40.0%"><em>6. problem solving</em></td>
       <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>7. imparare a collegare</em></td>
+      <td width="40.0%"><em>7. imparare a collegare</em></td>
       <td width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>8. verificare l'informazione</em></td>
+      <td width="40.0%"><em>8. verificare l'informazione</em></td>
       <td width="60.0%">formare e coltivare uno spirito critico</td>
     </tr>
   </table>
@@ -162,17 +161,8 @@ slides:
 <section>
   <h2 style="color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
   <h5><b>Competenze di base - Istituti Tecnici</b></h5><em>
-    <!-- <h5 style="color:#8A4117">primo biennio</h5> -->
-    <!-- <ul style="font-size:55%"> -->
-    <!--   <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li> -->
-    <!--   <li>individuare collegamenti all’interno della matematica</li> -->
-    <!--   <li>sviluppare l’algebra interpretandola graficamente</li> -->
-    <!--   <li>utilizzare diversi registri rappresentativi</li> -->
-    <!--   <li>inquadrare storicamente l’evoluzione della disciplina</li> -->
-    <!--   <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li> -->
-    <!-- </ul> -->
     <h5 style="color:#8A4117">secondo biennio e quinto anno</h5>
-    <ul style="font-size:65%">
+    <ul style="font-size:70%">
       <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
       <li>Utilizzare le strategie del pensiero razionale negli aspetti dialettici e algoritmici per affrontare situazioni problematiche, elaborando opportune soluzioni</li>
       <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
@@ -180,6 +170,40 @@ slides:
     </ul></em>
 </section>
 
+<section data-auto-animate>
+  <ul>
+    <li>Mercury</li>
+    <li>Jupiter</li>
+    <li>Mars</li>
+  </ul>
+</section>
+<section data-auto-animate>
+  <ul>
+    <li>Mercury</li>
+    <li>Earth</li>
+    <li>Jupiter</li>
+    <li>Saturn</li>
+    <li>Mars</li>
+  </ul>
+</section>
+
+<section>
+  <h2 style="color:#8A4117" class="r-fit-text">PROGRAMMAZIONE D'ISTITUTO</h2>
+  <h5 class="fragment" style="color:#8A4117">conoscenze</h5>
+  <ul class="fragment" style="font-size:65%">
+    <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li>
+    <li>individuare collegamenti all’interno della matematica</li>
+    <li>sviluppare l’algebra interpretandola graficamente</li>
+    <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li>
+    <br>
+  </ul >
+  <h5 class="fragment" style="color:#8A4117">abilità</h5>
+  <ul class="fragment" style="font-size:65%">
+    <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
+    <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
+    <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
+  </ul></em>
+</section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#8A4117" class="r-fit-text">La VALUTAZIONE</h1>
   <h3 style="color:#3B2F2F">Tipologie di VERIFICA</h3>
@@ -333,9 +357,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -345,9 +369,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li>
   </ul>
 
@@ -357,9 +381,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">giustificazione delle scelte didattiche <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -385,9 +409,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -397,9 +421,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -409,9 +433,9 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460"></span></h2>
-  <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
