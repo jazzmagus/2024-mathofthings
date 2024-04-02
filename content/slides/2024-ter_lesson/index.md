@@ -9,7 +9,7 @@ date: "2024-03-05T00:00:00Z"
 # transition: convex
 slides:
   theme: serif
-  transition: convex
+  data-transition: convex
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   # enableChalckboard: true
@@ -17,24 +17,34 @@ slides:
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD013 -->
+<head>
+  <title>Lezione simulata</title>
+  <link rel="stylesheet" href="style.css">
+</head>  </style>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="color:#8A4117">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
+<section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#392613">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
   <!-- <h2 style="color:#1d91de">ESEMPIO</h2> -->
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="620">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
   <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
-  <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p>
+  <h4>Concorso Straordinario Ter - DM 25.05.2021 n. 73</h4>
+  <!-- <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p> -->
 </section>
 
----
+<section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
+  <h2 style="color:#392613">La traccia:</h2>
+  <h5 style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+    <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320">
+      <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
+</section>
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117">Milestones</h1>
-  <h3 style="color:#3B2F2F" class="fragment">ATTIVITÀ DIDATTICA</h3>
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <!-- <h1 style="color:#8A4117">Milestones</h1> -->
+  <h3 class="r-fit-text" style="color:#3B2F2F">ATTIVITÀ DIDATTICA</h3>
 
-  <table class="fragment" style="font-size:75%" width="90%">
+  <table class="fragment" style="font-size:80%" width="90%">
     <!-- <tr>
 <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
 <td width="60.0%"><b>descrizione</b></td>
@@ -45,7 +55,7 @@ slides:
     </tr>
     <tr>
       <td style="color:#8A4117" width="30.0%"><b>FRAGILITÀ</b></em></td>
-      <td width="70.0%">tipologie e frequenza delle disabilità</td>
+      <td width="70.0%">tipologia e frequenza delle disabilità</td>
     </tr>
     <tr>
       <td style="color:#8A4117" width="30.0%"><b>PERCORSO DIDATTICO</b></em></td>
@@ -62,38 +72,60 @@ slides:
   </table>
 </section>
 
+<!-- iframe -->
+<!-- <section data-background-iframe="https://2024-mathofthings.netlify.app/" -->
+<!--           data-background-interactive> -->
+<!--   <h2>Iframe</h2> -->
+<!-- </section> -->
+
 ---
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text" style="color:#8A4117">CONTESTO DIDATTICO</h2>
   <br>
-  <table class="fragment" style="font-size:90%; color:#342A2A" width="90%">
+  <table class="fragment" style="font-size:90%; color:#342A2A" width="90%" data-transition="convex">
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
-      <td><em>es. Istituto Tecnico Industriale<br>es. Meccatronica</em></td>
+      <td>es. Istituto Tecnico Industriale<br>es. Meccatronica</td>
     </tr>
     <tr>
       <td><b>contesto territoriale</b></td>
-      <td style="font-size:80%"><em>L'itituto è inserito in un territorio
+      <td style="font-size:75%">L'itituto è inserito in un territorio
         fortemente orientato all'agricoltura e alla piccola
-        industria/artigianato<b></em></td>
+        industria/artigianato<b></td>
     </tr>
     <tr>
       <td><b>classe</b></td>
-      <td style="font-size:80%"><i><em>es. seconda - fine primo quadrimestre</em><i></td>
+      <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
     </tr>
     <tr>
       <td><b>composizione</b></td>
-      <td style="font-size:80%"><i><em>n. studenti: $\%$ maschi e $\%$ femmine</em><i></td>
+      <td style="font-size:80%"><i>n. studenti: $\%$ maschi e $\%$ femmine</i></td>
     </tr>
     <tr>
       <td><b>fragilità</b></td>
-      <td style="font-size:80%"><i><em>$\%$ e tipologia</em><i></td>
+      <td style="font-size:80%"><i>$\%$ e tipologiam</i></td>
     </tr>
   </table>
 </section>
 
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.2" data-transition="concave">
+<!-- <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4"> -->
+<!--   <div class="columns"> -->
+<!--     <div class="column left"> -->
+<!--       <h2>Titolo della slide</h2> -->
+<!--       <p>Testo della slide nella colonna di sinistra.</p> -->
+<!--       <ul> -->
+<!--         <li>Lista di punti</li> -->
+<!--         <li>Altro punto</li> -->
+<!--       </ul> -->
+<!--     </div> -->
+<!--     <div class="column right"> -->
+<!--       <img src="book_bkg.jpg" alt="Immagine di sfondo"> -->
+<!--     </div> -->
+<!--   </div> -->
+<!-- </section> -->
+
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 style="color:#8A4117">Le FRAGILITÀ</h2>
   <h4 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ: inclusione, personalizzazione e individualizzazione</h4>
   <!-- <ul class="fragment">
@@ -119,10 +151,11 @@ slides:
   </table>
 </section>
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
-  <!-- <h2 style="color:#3B2F2F" class="r-fit-text">RIASSUNTIVA - RECAP </h2> -->
-  <table class="fragment" style="font-size:65%" width="95%">
+  <h4 style="color:#3B2F2F; font-size: 70%;"> Raccomandazione del Parlamento Europeo e del Consiglio del 18/12/2006 </h4>
+  <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139 del 22 agosto 2007 </h4>
+  <table class="fragment" style="font-size:60%" width="90%">
     <tr>
       <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
@@ -158,7 +191,35 @@ slides:
   </table>
 </section>
 
-<section>
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
+  <h4 style="color:#3B2F2F"> specifiche disciplinari </h4>
+  <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
+  <table style="font-size:65%" width="95%">
+    <tr>
+      <td width="40.0%"><b>competenze</b></td>
+      <td width="60.0%"><b>descrizione</b></td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>1. imparare ad imparare</em></td>
+      <td width="60.0%">organizzare il proprio apprendimento</td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>2. saper progettare</em></td>
+      <td width="60.0%">elaborare e realizzare progetti</td>  
+    </tr>
+    <tr>
+      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
+      <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>6. problem solving</em></td>
+      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+    </tr>
+  </table>
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
   <h5><b>Competenze di base - Istituti Tecnici</b></h5><em>
     <h5 style="color:#8A4117">secondo biennio e quinto anno</h5>
@@ -170,43 +231,30 @@ slides:
     </ul></em>
 </section>
 
-<section data-auto-animate>
-  <ul>
-    <li>Mercury</li>
-    <li>Jupiter</li>
-    <li>Mars</li>
-  </ul>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 style="color:#3B2F2F" class="r-fit-text">PROGRAMMAZIONE D'ISTITUTO</h2>
+    <h3 style="color:#3B2F2F" class="fragment">conoscenze</h3>
+    <ul class="fragment" style="font-size:65%">
+      <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li>
+      <li>individuare collegamenti all’interno della matematica</li>
+      <li>sviluppare l’algebra interpretandola graficamente</li>
+      <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li>
+      <br>
+    </ul>
 </section>
-<section data-auto-animate>
-  <ul>
-    <li>Mercury</li>
-    <li>Earth</li>
-    <li>Jupiter</li>
-    <li>Saturn</li>
-    <li>Mars</li>
-  </ul>
+<section  data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 style="color:#3B2F2F" class="r-fit-text">PROGRAMMAZIONE D'ISTITUTO</h2>
+    <h3 style="color:#3B2F2F">abilità</h3>
+    <ul class="fragment" style="font-size:65%">
+      <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
+      <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
+      <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
+    </ul>
 </section>
 
-<section>
-  <h2 style="color:#8A4117" class="r-fit-text">PROGRAMMAZIONE D'ISTITUTO</h2>
-  <h5 class="fragment" style="color:#8A4117">conoscenze</h5>
-  <ul class="fragment" style="font-size:65%">
-    <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li>
-    <li>individuare collegamenti all’interno della matematica</li>
-    <li>sviluppare l’algebra interpretandola graficamente</li>
-    <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li>
-    <br>
-  </ul >
-  <h5 class="fragment" style="color:#8A4117">abilità</h5>
-  <ul class="fragment" style="font-size:65%">
-    <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-    <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
-    <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
-  </ul></em>
-</section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">La VALUTAZIONE</h1>
-  <h3 style="color:#3B2F2F">Tipologie di VERIFICA</h3>
+  <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1>
+  <h3 style="color:#3B2F2F" class="fragment">Tipologie di VERIFICA</h3>
 
   <ol style="font-size:70%" class="fragment" data-transition="concave">
     <li><h4 style="color:#b82460"><b>verifica dei prerequisiti</b></h4></li>
@@ -294,7 +342,6 @@ slides:
       <td style="color:#eb432aff" width="50.0%"><em>homework</em></td>
       <td style="color:#eb432aff" width="10.0%"><em>post</em></td>
     </tr>
-
   </table>
 </section>
 
@@ -334,9 +381,33 @@ slides:
   </ul>
 </section>
 
-<section data-transition="concave">
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="concave">
   <h2 style="color:#8A4117">MINDMAPPING</h2>
   <img class="fragment r-fit-text" src="calc-lett_mindmap.png" alt="mindmapping" width="85%">
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+      <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3>
+  <div class="columns">
+    <div class="column left, fragment">
+    <h4 style="color:#3B2F2F" class="fragment">conoscenze</h4>
+    <ul class="fragment" style="font-size:60%">
+      <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li>
+      <li>individuare collegamenti all’interno della matematica</li>
+      <li>sviluppare l’algebra interpretandola graficamente</li>
+      <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li>
+      <br>
+    </ul>
+    </div>
+    <div class="column right">
+<h4 style="color:#3B2F2F" class="fragment">abilità</h4>
+    <ul class="fragment" style="font-size:60%">
+      <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
+      <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
+      <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
+    </ul>
+    </div>
+  </div>
 </section>
 
 ---
@@ -359,7 +430,7 @@ slides:
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -371,7 +442,7 @@ slides:
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li>
   </ul>
 
@@ -383,7 +454,7 @@ slides:
 <h2 style="color:#8A4117">giustificazione delle scelte didattiche <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -411,7 +482,7 @@ slides:
 <h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -423,7 +494,7 @@ slides:
 <h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -435,7 +506,7 @@ slides:
 <h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
   <ul class="fragment" style="font-size: 80%;" >
-  <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
 
@@ -459,6 +530,43 @@ slides:
       </ul>
 </section>
 
+<section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4">
+  <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 1</h3> -->
+  <!-- <h3 data-id="title" style="margin-top: 100px;">Così si ricorda</h3> -->
+  <h2 data-id="title" style="margin-top:500px;">Animate Anything</h2>
+  <div data-id="1" style="background: white; position: absolute; top: 150px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="2" style="background: white; position: absolute; top: 150px; left: 36%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="3" style="background: white; position: absolute; top: 150px; left: 56%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="4" style="background: white; position: absolute; top: 150px; left: 76%; width: 60px; height: 60px; opacity: 0.6;"></div>
+</section>
+<section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4">
+  <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 2</h3> -->
+  <!-- <h4 data-id="title" style="margin-top: 100px;">basta ripetere lo stesso concetto</h4> -->
+  <h2 data-id="title" style="margin-top: 500px">With Auto Animate</h2>
+  <div data-id="1" style="background: cyan; position: absolute; bottom: 190px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="2" style="background: magenta; position: absolute; bottom: 190px; left: 36%; width: 60px; height: 160px; opacity: 0.6;"></div>
+  <div data-id="3" style="background: yellow; position: absolute; bottom: 190px; left: 56%; width: 60px; height: 260px; opacity: 0.6;"></div>
+  <div data-id="4" style="background: red; position: absolute; bottom: 190px; left: 76%; width: 60px; height: 360px; opacity: 0.6;"></div>
+</section>
+<section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4">
+  <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 3</h3> -->
+  <!-- <h4 data-id="title" style="margin-top: 100px;">in modo diverso</h4> -->
+  <h2 data-id="title" style="margin-top: 500px;">Così si ricorda</h2>
+  <div data-id="1" style="background: cyan; position: absolute; top: 50%; left: 50%; width: 400px; height: 400px; margin: -200px 0 0 -200px; border-radius: 400px; opacity: 0.6;"></div>
+  <div data-id="2" style="background: magenta; position: absolute; top: 50%; left: 50%; width: 300px; height: 300px; margin: -150px 0 0 -150px; border-radius: 400px; opacity: 0.6;"></div>
+  <div data-id="3" style="background: yellow; position: absolute; top: 50%; left: 50%; width: 200px; height: 200px; margin: -100px 0 0 -100px; border-radius: 400px; opacity: 0.6;"></div>
+  <div data-id="4" style="background: red; position: absolute; top: 50%; left: 50%; width: 100px; height: 100px; margin: -50px 0 0 -50px; border-radius: 400px; opacity: 0.6;"></div>
+</section>
+<section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4">
+  <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 3</h3> -->
+  <!-- <h4 data-id="title" style="margin-top: 100px;">...magari al contrario</h4> -->
+  <h2 data-id="title" style="margin-top: 500px;">più facilmente</h2>
+  <div data-id="1" style="background: red; position: absolute; top: 250px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="2" style="background: yellow; position: absolute; top: 250px; left: 36%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="3" style="background: magenta; position: absolute; top: 250px; left: 56%; width: 60px; height: 60px; opacity: 0.6;"></div>
+  <div data-id="4" style="background: cyan; position: absolute; top: 250px; left: 76%; width: 60px; height: 60px; opacity: 0.6;"></div>
+</section>
+
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -477,9 +585,10 @@ slides:
 
 ---
 
-<section data-background-video="digital.mp4" data-background-opacity="0.9">
+<section data-background-video="digital.mp4" data-background-opacity="0.8">
   <h2 style="color:#ffffff" class="r-fit-text">Creare connessioni</h2>
-  <h3 class="fragment" style="color:#ffffff; font-size:55px" data-transition="convex"><em>La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#98e123"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#98e123"><b><u>spirito critico</u></b></span>.</em></h3>
+  <section>
+  <h3 class="fragment" style="color:#ffffff; font-size:55px" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#98e123"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#98e123"><b><u>spirito critico</u></b></span></h3>
 </section>
 
 ---

@@ -1,0 +1,55 @@
+.columns {
+  display: flex;
+}
+
+.column {
+  flex: 1;
+}
+
+.left {
+  padding: 10px;
+  background-color: #514D53; /* Add this line for background color */
+}
+
+.right {
+  background-size: cover;
+  background-position: center center;
+}
+
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column;
+  }
+}
+
+.forma {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.forma.animated {
+  opacity: 1;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.square {
+  background-color: red;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: yellow;
+}
+
+.rectangle {
+  background-color: green;
+}
