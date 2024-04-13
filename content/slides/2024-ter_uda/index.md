@@ -18,14 +18,29 @@ slides:
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD013 -->
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="color:#8A4117">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
+<head>
+  <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+  <title>Lezione simulata</title>
+  <link rel="stylesheet" href="style.css">
+</head>  </style>
+
+<section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#392613">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
   <!-- <h2 style="color:#1d91de">ESEMPIO</h2> -->
-  <img src="miur.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="320">
+  <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="620">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
   <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
-  <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p>
+  <h4>Concorso Straordinario Ter - DM 25.05.2021 n. 73</h4>
+  <!-- <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p> -->
+</section>
+
+<section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
+  <h2 style="color:#392613; text-align:left;"><i class='fas fa-feather'></i>
+La traccia:</h2>
+  <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua. Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+    <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320">
+      <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
 
 ---
@@ -93,6 +108,8 @@ slides:
   </table>
 </section>
 
+---
+
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.2" data-transition="concave">
   <h2 style="color:#8A4117">Le FRAGILITÀ</h2>
   <h4 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ: inclusione, personalizzazione e individualizzazione</h4>
@@ -119,47 +136,77 @@ slides:
   </table>
 </section>
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
-  <!-- <h2 style="color:#3B2F2F" class="r-fit-text">RIASSUNTIVA - RECAP </h2> -->
+---
 
-  <table class="fragment" style="font-size:65%" width="95%">
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.3" data-transition="convex">
+  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
+  <h4 style="color:#3B2F2F; font-size: 70%;"> Raccomandazione del Parlamento Europeo e del Consiglio del 18/12/2006 </h4>
+  <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139 del 22 agosto 2007 </h4>
+  <table class="fragment" style="font-size:60%" width="90%">
     <tr>
-      <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
+      <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td  width="60.0%">organizzare il proprio apprendimento</td>
+      <td width="40.0%"><em>1. imparare ad imparare</em></td>
+      <td width="60.0%">organizzare il proprio apprendimento</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>2. saper progettare</em></td>
+      <td width="40.0%"><em>2. saper progettare</em></td>
       <td width="60.0%">elaborare e realizzare progetti</td>  
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>3. saper comunicare</em></td>
+      <td width="40.0%"><em>3. saper comunicare</em></td>
       <td width="60.0%">presentare in modo efficace</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>4. collaborare e partecipare</em></td>
+      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
       <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>6. problem solving</em></td>
+      <td width="40.0%"><em>6. problem solving</em></td>
       <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>7. imparare a collegare</em></td>
+      <td width="40.0%"><em>7. imparare a collegare</em></td>
       <td width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="40.0%"><em>8. verificare l'informazione</em></td>
+      <td width="40.0%"><em>8. verificare l'informazione</em></td>
       <td width="60.0%">formare e coltivare uno spirito critico</td>
     </tr>
   </table>
 </section>
 
-<section>
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
+  <h4 style="color:#3B2F2F"> specifiche disciplinari </h4>
+  <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
+  <table style="font-size:65%; color:#0891B2" width="95%">
+    <tr>
+      <td width="40.0%"><b>competenze</b></td>
+      <td width="60.0%"><b>descrizione</b></td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>1. imparare ad imparare</em></td>
+      <td width="60.0%">organizzare il proprio apprendimento</td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>2. saper progettare</em></td>
+      <td width="60.0%">elaborare e realizzare progetti</td>  
+    </tr>
+    <tr>
+      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
+      <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>6. problem solving</em></td>
+      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+    </tr>
+  </table>
+</section>
+
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 style="color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
   <h5><b>Competenze di base - Istituti Tecnici</b></h5><em>
     <!-- <h5 style="color:#8A4117">primo biennio</h5> -->
@@ -179,6 +226,8 @@ slides:
       <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
     </ul></em>
 </section>
+
+---
 
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#8A4117" class="r-fit-text">La VALUTAZIONE</h1>

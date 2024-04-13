@@ -8,7 +8,7 @@
 
 .left {
   padding: 10px;
-  background-color: #514D53; /* Add this line for background color */
+  /* background-color: #F0EAE2; /* Add this line for background color */ */
 }
 
 .right {
@@ -53,3 +53,25 @@
 .rectangle {
   background-color: green;
 }
+
+.card-container {
+  display: flex; /* Enable Flexbox layout */
+  flex-direction: row; /* Arrange cards horizontally */
+  justify-content: space-between; /* Distribute cards with spacing */
+  width: 100%; /* Adjust width as needed */
+  margin: 10px 0; /* Add vertical margin for spacing */
+}
+
+.card {
+  flex: 1; /* Allocate equal width for each card */
+  padding: 20px; /* Add padding for content */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+  background-color: rgba(148,163,184,0.5); /* Set background color with opacity */
+  margin: 20px;
+}
+
+.card:nth-child(odd) { /* Style odd-numbered cards */
+  background-color: rgba(148,163,184,0.5); /* Alternate background color */
+}
+
