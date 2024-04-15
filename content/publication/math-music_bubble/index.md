@@ -3,8 +3,7 @@ title: "La musica nei casi di ansia e depressione: The Math Music-bubble"
 authors:
   - admin
 author_notes:
-  - Equal contribution
-  - Equal contribution
+  - Admin 
 date: 2013-07-01T00:00:00Z
 doi: ""
 publishDate: 2023-06-30T00:00:00Z
