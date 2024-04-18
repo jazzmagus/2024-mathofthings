@@ -297,8 +297,12 @@ slides:
 <!--     </tr> -->
 <!--   </table> -->
 <!-- </section> -->
-
-<section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  </section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="3.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 class="r-fit-text" style="color:#3B2F2F">PROGRAMMAZIONE</h1>
   <!-- <h1 style="color:#3B2F2F">di</h1> -->
   <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1>
@@ -427,7 +431,12 @@ slides:
 
 ---
 
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  </section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="4.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE</h1>
 </section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -529,9 +538,16 @@ slides:
 
 ---
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">STRUMENTI DIDATTICI</h1>
-  <h3 style="color:#3B2F2F" class="fragment">TIC avanzate</h3>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  </section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="5.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+  <h1 style="color:#8A4117" class="r-fit-text">STRUMENTI <br> DIDATTICI</h1>
+</section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#3B2F2F">TIC avanzate</h2>
 
   <table class="fragment" style="font-size:55%" width="95%">
     <tr>
