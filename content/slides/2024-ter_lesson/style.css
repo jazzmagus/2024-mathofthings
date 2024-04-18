@@ -139,4 +139,23 @@
   margin-right: 10px; /* Add a margin to the right for spacing */
 }
 
+iframe {
+  border: 1px solid black;
+  width: 100%; /* takes precedence over the width set with the HTML width attribute */
+}
+
+h2.r-fit-text {
+  display: flex;
+  align-items: flex-start; /* Align items at the top */
+  justify-content: center;
+}
+
+h2.r-fit-text img {
+  position: absolute; /* Use absolute positioning */
+  top: 50%; /* Position vertically at 50% */
+  /* transform: translateY(-50%); /* Adjust vertical offset */ */
+  left: 50%; /* Position horizontally at 50% */
+  /* transform: translateX(-50%); /* Adjust horizontal offset */ */
+}
+
 
