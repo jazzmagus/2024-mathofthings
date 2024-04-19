@@ -140,17 +140,17 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
 <img src="2.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
   </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
 <img src="2.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h2 class="r-fit-text" style="color:#3B2F2F">FRAGILITÀ</h2>
   <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
 </section>
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 style="color:#3B2F2F">FRAGILITÀ</h2>
   <h4 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h4>
   <table class="fragment" style="color:#342A2A; font-size:90%" width="100%">
@@ -189,6 +189,59 @@ slides:
 </section>
 
 ---
+
+<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
+<!--   <h3 style="color:#3B2F2F"><i class="fa fa-users"></i></i> PROGRAMMAZIONE D'ISTITUTO</h3> -->
+<!--   <table style="font-size:65%; width="95%"> -->
+<!--     <tr> -->
+<!--       <td width="40.0%"><h3>competenze</h3></td> -->
+<!--       <td width="60.0%"><h3>descrizione</h3></td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td width="40.0%"><em>1. imparare ad imparare</em></td> -->
+<!--       <td width="60.0%">organizzare il proprio apprendimento</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td width="40.0%"><em>2. saper progettare</em></td> -->
+<!--       <td width="60.0%">elaborare e realizzare progetti</td>   -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td width="40.0%"><em>4. collaborare e partecipare</em></td> -->
+<!--       <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td width="40.0%"><em>6. problem solving</em></td> -->
+<!--       <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td> -->
+<!--     </tr> -->
+<!--   </table> -->
+<!-- </section> -->
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  </section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<img src="3.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+  <h1 class="r-fit-text" style="color:#3B2F2F">PROGRAMMAZIONE</h1>
+  <!-- <h1 style="color:#3B2F2F">di</h1> -->
+  <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1>
+</section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3>
+  <table style="font-size:65%; width="95%">
+    <tr>
+      <td width="40.0%"><b>competenze</b></td>
+      <td width="60.0%"><b>descrizione</b></td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>1. imparare ad imparare</em></td>
+      <td width="60.0%">organizzare il proprio apprendimento</td>
+    </tr>
+    <tr>
+      <td width="40.0%"><em>6. problem solving</em></td>
+      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+    </tr>
+  </table>
+</section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
@@ -269,62 +322,6 @@ slides:
       <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
     </ul></em>
 </section>
-
----
-
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h3 style="color:#3B2F2F"><i class="fa fa-users"></i></i> PROGRAMMAZIONE D'ISTITUTO</h3> -->
-<!--   <table style="font-size:65%; width="95%"> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><h3>competenze</h3></td> -->
-<!--       <td width="60.0%"><h3>descrizione</h3></td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>1. imparare ad imparare</em></td> -->
-<!--       <td width="60.0%">organizzare il proprio apprendimento</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>2. saper progettare</em></td> -->
-<!--       <td width="60.0%">elaborare e realizzare progetti</td>   -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>4. collaborare e partecipare</em></td> -->
-<!--       <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>6. problem solving</em></td> -->
-<!--       <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td> -->
-<!--     </tr> -->
-<!--   </table> -->
-<!-- </section> -->
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="3.png" alt="2"
-    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
-  <h1 class="r-fit-text" style="color:#3B2F2F">PROGRAMMAZIONE</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1>
-</section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3>
-  <table style="font-size:65%; width="95%">
-    <tr>
-      <td width="40.0%"><b>competenze</b></td>
-      <td width="60.0%"><b>descrizione</b></td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td width="60.0%">organizzare il proprio apprendimento</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>6. problem solving</em></td>
-      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
-    </tr>
-  </table>
-</section>
-
 <!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
 <!--   <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3> -->
 <!--   <div class="columns "> -->
@@ -432,7 +429,7 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+<img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
   </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
 <img src="4.png" alt="2"
@@ -442,26 +439,30 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1> -->
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
-  <table class="fragment" style="font-size:60%; width="95%">
+  <table class="fragment" style="font-size:70%; width="95%">
     <tr>
-      <td width="30.0%"><b>competenze</b></td>
-      <td width="50.0%"><b>descrizione</b></td>
+      <td width="20.0%"><b>competenze</b></td>
+      <td width="60.0%"><b>descrizione</b></td>
       <td width="20.0%"><b>quando</b></td>
+      <td width="10.0%"><b>esempio</b></td>
     </tr>
     <tr>
       <td width="30.0%">PREDITTIVA</td>
-      <td width="50.0%">Test anonimo e di autovalutazione <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><br><em>esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></td>
+      <td width="50.0%">Test anonimo e di autovalutazione <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><br></a></td>
       <td width="20.0%">all'inizio dell'UdA</td>
+      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
     </tr>
     <tr>
       <td width="30.0%">FORMATIVA</td>
       <td width="50.0%">Peer-Tutoring | Flipped Classroom o Jigsaw <a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"><br><em>esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></td>
       <td width="20.0%">in itinere e - ove possibile - di tipo laboratoriale</td>
+      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
     </tr>
     <tr>
       <td width="30.0%">SOMMATIVA</td>
       <td width="50.0%">verifica classica: <em>Test + Esercizi</em> <a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"><br><em>esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></td>
       <td width="20.0%">alla fine dell'UdA</td>
+      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
     </tr>
     <tr>
       <td width="30.0%">interrogazioni</td>
@@ -635,8 +636,8 @@ slides:
 </section>
 
 <section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <q style="color:#b82460; font-size: 40px"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
-    <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.</q><br><br>
+  <p style="color:#b82460; text-align:left font-size: 40px"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
+    <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.</p>
   <span style="font-size: 36px; color:#b82460;">&mdash; Giorgio Parisi <br>("In un volo di storni" - ed. Rizzoli - 2021)</span>
   </em>
 </section>
@@ -713,7 +714,6 @@ slides:
     </div>
     <div class="column right">
       <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450" opacity="0.2">
-        <!-- <img src="book_bkg.jpg" alt="Immagine di sfondo"> -->
     </div>
   </div>
 </section>
@@ -737,8 +737,8 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
-  <ul class="fragment" style="font-size: 80%;" >
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3>
+  <ul class="fragment" style="font-size: 80%;">
     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
   </ul>
@@ -749,7 +749,7 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
+<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3>
   <ul class="fragment" style="font-size: 80%;" >
     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
@@ -761,22 +761,15 @@ slides:
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
-  <!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2> -->
-  <!--   <ul class="fragment" style="font-size: 80%;" > -->
-  <!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
-  <!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
-  <!--   </ul> -->
-
-  <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
+ <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
 </section>
 
 ---
 
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h2>
+  <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1>
     <h3 style="color:#3B2F2F" class="fragment">Lesson RECAP</h3>
     <ul class="fragment">
-      <!-- <h3 style="color:#8A4117"><em>Focus sulla lezione</em></h3> -->
       <ul>
         <ul style="font-size: 80%;">
           <li>qual è stato l'obiettivo della lezione?</li>
@@ -786,43 +779,6 @@ slides:
         <li style="color:#b82460; font-size: 32px"><em>in questa fase è indispensabile il coinvolgimento attivo degli studenti</em></li>
       </ul>
 </section>
-
-<!-- <section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4"> -->
-<!--   <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 1</h3> --> -->
-<!--   <!-- <h3 data-id="title" style="margin-top: 100px;">Così si ricorda</h3> --> -->
-<!--   <h2 data-id="title" style="margin-top:500px;">Animate Anything</h2> -->
-<!--   <div data-id="1" style="background: white; position: absolute; top: 150px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="2" style="background: white; position: absolute; top: 150px; left: 36%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="3" style="background: white; position: absolute; top: 150px; left: 56%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="4" style="background: white; position: absolute; top: 150px; left: 76%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!-- </section> -->
-<!-- <section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4"> -->
-<!--   <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 2</h3> --> -->
-<!--   <!-- <h4 data-id="title" style="margin-top: 100px;">basta ripetere lo stesso concetto</h4> --> -->
-<!--   <h2 data-id="title" style="margin-top: 500px">With Auto Animate</h2> -->
-<!--   <div data-id="1" style="background: cyan; position: absolute; bottom: 190px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="2" style="background: magenta; position: absolute; bottom: 190px; left: 36%; width: 60px; height: 160px; opacity: 0.6;"></div> -->
-<!--   <div data-id="3" style="background: yellow; position: absolute; bottom: 190px; left: 56%; width: 60px; height: 260px; opacity: 0.6;"></div> -->
-<!--   <div data-id="4" style="background: red; position: absolute; bottom: 190px; left: 76%; width: 60px; height: 360px; opacity: 0.6;"></div> -->
-<!-- </section> -->
-<!-- <section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4"> -->
-<!--   <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 3</h3> --> -->
-<!--   <!-- <h4 data-id="title" style="margin-top: 100px;">in modo diverso</h4> --> -->
-<!--   <h2 data-id="title" style="margin-top: 500px;">Così si ricorda</h2> -->
-<!--   <div data-id="1" style="background: cyan; position: absolute; top: 50%; left: 50%; width: 400px; height: 400px; margin: -200px 0 0 -200px; border-radius: 400px; opacity: 0.6;"></div> -->
-<!--   <div data-id="2" style="background: magenta; position: absolute; top: 50%; left: 50%; width: 300px; height: 300px; margin: -150px 0 0 -150px; border-radius: 400px; opacity: 0.6;"></div> -->
-<!--   <div data-id="3" style="background: yellow; position: absolute; top: 50%; left: 50%; width: 200px; height: 200px; margin: -100px 0 0 -100px; border-radius: 400px; opacity: 0.6;"></div> -->
-<!--   <div data-id="4" style="background: red; position: absolute; top: 50%; left: 50%; width: 100px; height: 100px; margin: -50px 0 0 -50px; border-radius: 400px; opacity: 0.6;"></div> -->
-<!-- </section> -->
-<!-- <section data-auto-animate style="height: 600px" data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4"> -->
-<!--   <!-- <h3 style="opacity: 0.3; font-size: 18px;">SLIDE 3</h3> --> -->
-<!--   <!-- <h4 data-id="title" style="margin-top: 100px;">...magari al contrario</h4> --> -->
-<!--   <h2 data-id="title" style="margin-top: 500px;">più facilmente</h2> -->
-<!--   <div data-id="1" style="background: red; position: absolute; top: 250px; left: 16%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="2" style="background: yellow; position: absolute; top: 250px; left: 36%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="3" style="background: magenta; position: absolute; top: 250px; left: 56%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!--   <div data-id="4" style="background: cyan; position: absolute; top: 250px; left: 76%; width: 60px; height: 60px; opacity: 0.6;"></div> -->
-<!-- </section> -->
 
 ---
 
@@ -842,10 +798,18 @@ slides:
 
 ---
 
-<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.8">
-  <h2 style="color:#06B6D4" class="r-fit-text">Creare connessioni</h2>
-  <section>
-    <h3 class="fragment" font-size:55px" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></h3>
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
+<img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  </section>
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
+<img src="5.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+  <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
+  <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
+</section>
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2>
+  <p style="font-size:50px" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
   </section>
 
   ---
