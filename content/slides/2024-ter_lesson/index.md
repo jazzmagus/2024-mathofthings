@@ -76,16 +76,16 @@ slides:
   </table>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2>
-  <iframe
-    id="inlineFrameExample"
-    title="Inline Frame Example"
-    width="350"
-    height="300"
-    src="../2024-ter_lesson/Divisione e Ruffini-Flipped Classroom-contest_prize.pdf">
-  </iframe>
-</section>
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2> -->
+<!--   <iframe -->
+<!--     id="inlineFrameExample" -->
+<!--     title="Inline Frame Example" -->
+<!--     width="350" -->
+<!--     height="300" -->
+<!--     src="../2024-ter_lesson/Divisione e Ruffini-Flipped Classroom-contest_prize.pdf"> -->
+<!--   </iframe> -->
+<!-- </section> -->
 
 ---
 
@@ -123,7 +123,7 @@ slides:
     </tr>
     <tr>
       <td><b>fragilità</b></td>
-      <td style="font-size:80%"><i>$\%$ e tipologiam</i></td>
+      <td style="font-size:80%"><i>$\%$ e tipologia</i></td>
     </tr>
   </table>
  <!-- <h3 class="fragment" style="color:#3B2F2F"> FRAGILITÀ</h3> -->
@@ -190,31 +190,6 @@ slides:
 
 ---
 
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h3 style="color:#3B2F2F"><i class="fa fa-users"></i></i> PROGRAMMAZIONE D'ISTITUTO</h3> -->
-<!--   <table style="font-size:65%; width="95%"> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><h3>competenze</h3></td> -->
-<!--       <td width="60.0%"><h3>descrizione</h3></td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>1. imparare ad imparare</em></td> -->
-<!--       <td width="60.0%">organizzare il proprio apprendimento</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>2. saper progettare</em></td> -->
-<!--       <td width="60.0%">elaborare e realizzare progetti</td>   -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>4. collaborare e partecipare</em></td> -->
-<!--       <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td width="40.0%"><em>6. problem solving</em></td> -->
-<!--       <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td> -->
-<!--     </tr> -->
-<!--   </table> -->
-<!-- </section> -->
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
 <img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
   </section>
@@ -243,11 +218,11 @@ slides:
   </table>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
-  <h4 style="color:#3B2F2F; font-size: 70%;"> Raccomandazione del Parlamento Europeo e del Consiglio del 18/12/2006 </h4>
-  <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139 del 22 agosto 2007 </h4>
-  <table class="fragment" style="font-size:60%" width="90%">
+  <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
+  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
+  <table class="fragment" style="font-size:55%" width="90%">
     <tr>
       <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
@@ -283,11 +258,12 @@ slides:
   </table>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
-  <h4 style="color:#3B2F2F"> specifiche disciplinari </h4>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h1 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h1>
+  <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
+  <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
   <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
-  <table style="font-size:65%; color:#0891B2" width="95%">
+  <table style="font-size:80%; color:#392613" width="95%">
     <tr>
       <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
@@ -322,43 +298,6 @@ slides:
       <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
     </ul></em>
 </section>
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3> -->
-<!--   <div class="columns "> -->
-<!--     <div class="column left, fragment"> -->
-<!--       <h4 style="color:#3B2F2F">conoscenze</h4> -->
-<!--       <ul style="font-size:60%"> -->
-<!--         <li>individuare collegamenti tra matematica e altre discipline e tra matematica e realtà <em>(modello matematico)</em></li> -->
-<!--         <li>individuare collegamenti all’interno della matematica</li> -->
-<!--         <li>sviluppare l’algebra interpretandola graficamente</li> -->
-<!--         <li>utilizzare strumenti informatici di rappresentazione geometrica e di calcolo</li> -->
-<!--         <br> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--     <div class="column right, fragment"> -->
-<!--       <h4 style="color:#3B2F2F">abilità</h4> -->
-<!--       <ul style="font-size:60%"> -->
-<!--         <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li> -->
-<!--         <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li> -->
-<!--         <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </section> -->
-
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3> -->
-<!--   <div class="columns "> -->
-<!--     <div class="column left> -->
-<!--       <h4 style="color:#3B2F2F">competenze</h4> -->
-<!--       <ul style="font-size:65%"> -->
-<!--         <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li> -->
-<!--         <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li> -->
-<!--         <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </section> -->
 
 <section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#3B2F2F">U.d.A. di</h1>
@@ -367,63 +306,9 @@ slides:
 </section>
 
 <section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="concave">
-  <h2 class="r-fit-text" style="color:#8A4117"><i class='fa fa-users'></i> U.d.A. di riferimento</h2>
+  <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2>
   <!-- <img class="fragment r-fit-text" src="map_01.png" alt="neovim" width="600"> -->
   <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p>
-</section>
-
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2>Programmazione </h2>
-
-  <div class="card-container">
-    <div class="card fragment">
-      <h4 class="fragment">conoscenze</h4>
-      <ul class="fragment" style="font-size:60%">
-        <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-        <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
-      </ul>
-    </div>
-    <div class="card fragment">
-      <h4 class="fragment">abilità</h4>
-      <ul class="fragment" style="font-size:60%">
-        <li>Utilizzare le reti e gli strumenti $y=f(x)=2x^2-5x+2$ di studio, ricerca e approfondimento disciplinare</li>
-        <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
-      </ul>
-    </div>
-  </div>
-</section>
-
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h2>Programmazione</h2> -->
-<!---->
-<!--   <div class="card-container"> -->
-<!--     <div class="card"> -->
-<!--       <h3>competenze</h3> -->
-<!--       <ul style="font-size:60%"> -->
-<!--         <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li> -->
-<!--         <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li> -->
-<!--         <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </section> -->
-
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">Progettazione</h2>
-  <h2 class="r-fit-text">Didattica</h2>
-  <div class="card-container fragment">
-    <div class="card">
-      <h3>competenze</h3>
-      <ul style="font-size:60%">
-        <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-        <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-        <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-        <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-        <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
-        <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
-      </ul>
-    </div>
-  </div>
 </section>
 
 ---
@@ -472,70 +357,6 @@ slides:
   </a></tr>
 </table>
 </section>
-<!--   <ol style="font-size:70%" class="fragment"> -->
-<!--     <li><h4 style="color:#b82460"><b>verifica dei prerequisiti</b></h4></li> -->
-<!--     <ul> -->
-<!--       <li>Test anonimo e di autovalutazione <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"> <em>- esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></li> -->
-<!--       <li>all'inizio dell'UdA </li> -->
-<!--     </ul> -->
-<!--     <li><h4 style="color:#b82460"><b>valutazione formativa</b> - <em>in funzione dell'apprendimento</em></h4></li> -->
-<!--     <ul> -->
-<!--       <li>Peer-Tutoring | Flipped Classroom o Jigsaw <a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"> <em>- esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></li> -->
-<!--       <li>in itinere e - ove possibile - di tipo laboratoriale</li> -->
-<!--     </ul> -->
-<!--     <li><h4 style="color:#b82460"><b>valutazione sommativa</b></h4></li> -->
-<!--     <ul> -->
-<!--       <li>verifica classica: <em>Test + Esercizi</em> <a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"> <em>- esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></li> -->
-<!--       <li>alla fine dell'UdA </li> -->
-<!--     </ul> -->
-<!--     <li><h4 style="color:#b82460"><b>interrogazione</b></h4> per eventuale recupero o miglioramento</li> -->
-<!--   </ol> -->
-<!-- </section> -->
-
-<!-- <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <div class="card"> -->
-<!--     <h3>Card Title 1</h3> -->
-<!--     <p class="r-fit-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed lectus euismod, fermentum eros ut, pharetra mi. In hac habitasse platea dictumst.</p> -->
-<!--     <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" class="card-link"><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a> -->
-<!--   </div> -->
-<!---->
-<!--   <div class="card"> -->
-<!--     <h3>Card Title 2</h3> -->
-<!--     <p class="r-fit-text">Donec ac augue vitae augue mollis semper. Sed ac augue eget neque placerat luctus. Proin sed nunc velit, eget vestibulum ante dictum vitae.</p> -->
-<!--     <a href="https://unsplash.com/s/photos/dark" class="card-link">Explore Now</a> -->
-<!--   </div> -->
-<!-- </section> -->
-
-<!-- <section r-fit-text data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h2 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h2> -->
-<!--   <div class="card-container"> -->
-<!--     <div class="card"> -->
-<!--       <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"> -->
-<!--         <h4 style="color:#b82460"><b>FORMATIVA</b></h4> -->
-<!--         <p class="r-fit-text">Donec ac augue vitae augue mollis semper. Sed ac augue eget neque placerat luctus. Proin sed nunc velit, eget vestibulum ante dictum vitae.</p> -->
-<!--         <a class="card-link" href="./20220224_TEST-1I-Relazioni e funzioni.pdf" >link</a> -->
-<!--       </a> -->
-<!--     </div> -->
-<!--     <div class="card"> -->
-<!--       <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf"> -->
-<!--         <h4 style="color:#b82460"><b>FORMATIVA</b></h4> -->
-<!--         <ul style="font-size:70%"> -->
-<!--           <li>Test anonimo e di autovalutazione <i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></li> -->
-<!--           <li>all'inizio dell'UdA </li> -->
-<!--         </ul> -->
-<!--       </a> -->
-<!--     </div> -->
-<!--     <div class="card"> -->
-<!--       <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"> -->
-<!--         <h4 style="color:#b82460"><b>SOMMATIVA</b></h4> -->
-<!--         <ul style="font-size:70%"> -->
-<!--           <li>Test anonimo e di autovalutazione <i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></li> -->
-<!--           <li>all'inizio dell'UdA </li> -->
-<!--         </ul> -->
-<!--       </a> -->
-<!--     </div> -->
-<!--   </div> -->
-<!-- </section> -->
 
 ---
 
@@ -583,11 +404,14 @@ slides:
 
 ---
 
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <h1 style="color:#8A4117">Le Fasi</h1>
-  <h3 style="color:#3B2F2F">ATTIVITÀ DIDATTICA </h3>
+<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.6" data-transition="convex">
+  <h1 class="r-fit-text" data-auto-animate style="color:#2B2A26">La LEZIONE</h1>
+</section>
+<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+  <!-- <h2 style="color:#22D3EE">programma</h2> -->
+  <!-- <h3 style="color:#3B2F2F">ATTIVITÀ DIDATTICA </h3> -->
 
-  <table class="fragment" style="font-size:80%" width="80%">
+  <table class="r-fit-text" style="font-size:85%" width="90%">
     <tr>
       <td style="color:#8A4117" width="20.0%"><em>Fase 1</em></td>
       <td width="50.0%">Questioning</td>
