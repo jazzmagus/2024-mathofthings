@@ -439,38 +439,38 @@ slides:
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1> -->
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
-  <table class="fragment" style="font-size:70%; width="95%">
-    <tr>
-      <td width="20.0%"><b>competenze</b></td>
-      <td width="60.0%"><b>descrizione</b></td>
-      <td width="20.0%"><b>quando</b></td>
-      <td width="10.0%"><b>esempio</b></td>
-    </tr>
-    <tr>
-      <td width="30.0%">PREDITTIVA</td>
-      <td width="50.0%">Test anonimo e di autovalutazione <a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><br></a></td>
-      <td width="20.0%">all'inizio dell'UdA</td>
-      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
-    </tr>
-    <tr>
-      <td width="30.0%">FORMATIVA</td>
-      <td width="50.0%">Peer-Tutoring | Flipped Classroom o Jigsaw <a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"><br><em>esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></td>
-      <td width="20.0%">in itinere e - ove possibile - di tipo laboratoriale</td>
-      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
-    </tr>
-    <tr>
-      <td width="30.0%">SOMMATIVA</td>
-      <td width="50.0%">verifica classica: <em>Test + Esercizi</em> <a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"><br><em>esempio </em><i style="color:#eb432aff" class="fas fa-file-pdf fa-xs"></i></a></td>
-      <td width="20.0%">alla fine dell'UdA</td>
-      <td width="20.0%"><i style="color:#eb432aff;text-align:center;" class="fas fa-file-pdf fa-2x"></i></td>
-    </tr>
-    <tr>
-      <td width="30.0%">interrogazioni</td>
-      <td width="50.0%">per eventuale recupero o miglioramento<a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"></a></td>
-      <td width="20.0%">in qualsiasi momento</td>
-    </tr>
-
-  </table>
+<table class="fragment" style="font-size:70%; width="95%">
+  <tr>
+    <td width="20.0%"><b>competenze</b></td>
+    <td width="60.0%"><b>descrizione</b></td>
+    <td width="20.0%"><b>quando</b></td>
+    <td width="10.0%"><b>esempio</b></td>
+  </tr>
+  <tr>
+    <td width="30.0%">PREDITTIVA</td>
+    <td width="50.0%">Test anonimo e di autovalutazione </td>
+    <td width="20.0%">all'inizio dell'UdA</td>
+    <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+  </tr>
+  <tr>
+    <td width="30.0%">FORMATIVA</td>
+    <td width="50.0%">Peer-Tutoring | Flipped Classroom o Jigsaw</td>
+    <td width="20.0%">in itinere </td>
+    <td width="20.0%" style="text-align: center;"><a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+  </tr>
+  <tr>
+    <td width="30.0%">SOMMATIVA</td>
+    <td width="50.0%">verifica classica:<br><em>Test + Esercizi</em> </td>
+    <td width="20.0%">alla fine dell'UdA</td>
+    <td width="20.0%" style="text-align: center;"><a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+  </tr>
+  <tr>
+    <td width="30.0%">interrogazioni</td>
+    <td width="50.0%">recupero o miglioramento</td>
+    <td width="20.0%">programmata</td>
+    <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></td>
+  </a></tr>
+</table>
 </section>
 <!--   <ol style="font-size:70%" class="fragment"> -->
 <!--     <li><h4 style="color:#b82460"><b>verifica dei prerequisiti</b></h4></li> -->
