@@ -44,11 +44,14 @@ slides:
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3>
+</section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
-  <h3 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-project-diagram'></i> ATTIVITÀ DIDATTICA</h3>
+  <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3>
 
-  <table class="fragment" style="font-size:80%" width="90%">
+  <table style="font-size:85%" width="95%">
     <!-- <tr>
 <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
 <td width="60.0%"><b>descrizione</b></td>
@@ -219,48 +222,56 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text">COMPETENZE DI CITTADINANZA</h1>
-  <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
-  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
-  <table class="fragment" style="font-size:55%" width="90%">
-    <tr>
-      <td width="40.0%"><b>competenze</b></td>
-      <td width="60.0%"><b>descrizione</b></td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td width="60.0%">organizzare il proprio apprendimento</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>2. saper progettare</em></td>
-      <td width="60.0%">elaborare e realizzare progetti</td>  
-    </tr>
-    <tr>
-      <td width="40.0%"><em>3. saper comunicare</em></td>
-      <td width="60.0%">presentare in modo efficace</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
-      <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>6. problem solving</em></td>
-      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>7. imparare a collegare</em></td>
-      <td width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>8. verificare l'informazione</em></td>
-      <td width="60.0%">formare e coltivare uno spirito critico</td>
-    </tr>
-  </table>
+  <h1 class="r-fit-text" style="color:#3B2F2F">COMPETENZE <br>DI CITTADINANZA</h1>
+  <!-- <h1 style="color:#3B2F2F">di</h1> -->
+  <!-- <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1> -->
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h5>COMPETENZE DI CITTADINANZA</h5>
+  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
+  
+<table class="fragment" style="font-size:60%" width="90%">
+  <tr>
+    <td style="font-size:120%" width="40.0%"><b>competenze</b></td>
+    <td style="font-size:120%" width="60.0%"><b>descrizione</b></td>
+  </tr>
+  <tr>
+    <td class=""width="40.0%"><em>1. imparare ad imparare</em></td>
+    <td width="60.0%">organizzare il proprio apprendimento</td>
+  </tr>
+  <tr>
+    <td width="40.0%"><em>2. saper progettare</em></td>
+    <td width="60.0%">elaborare e realizzare progetti</td>  
+  </tr>
+  <tr>
+    <td width="40.0%"><em>3. saper comunicare</em></td>
+    <td width="60.0%">presentare in modo efficace</td>
+  </tr>
+  <tr>
+    <td width="40.0%"><em>4. collaborare e partecipare</em></td>
+    <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
+  </tr>
+  <tr>
+    <td width="40.0%"><em>6. problem solving</em></td>
+    <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+  </tr>
+  <tr>
+    <td width="40.0%"><em>7. imparare a collegare</em></td>
+    <td width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
+  </tr>
+  <tr>
+    <td width="40.0%"><em>8. verificare l'informazione</em></td>
+    <td width="60.0%">formare e coltivare uno spirito critico</td>
+  </tr>
+</table>
+
+  <h5 style="color:#6D3234; font-size: 55%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h1 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h1>
-  <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
+  <!-- <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5> -->
   <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
   <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
   <table style="font-size:80%; color:#392613" width="95%">
@@ -404,8 +415,8 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.6" data-transition="convex">
-  <h1 class="r-fit-text" data-auto-animate style="color:#2B2A26">La LEZIONE</h1>
+<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h1 class="r-fit-text" data-auto-animate style="color:#4E3319">ATTIVITÀ<br>DIDATTICA</h1>
 </section>
 <section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#22D3EE">programma</h2> -->
@@ -447,14 +458,17 @@ slides:
 
 ---
 
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#8A4117"><i class='fas fa-spinner'></i> Questioning &nbsp; <span style="font-size:70%; color:#b82460">${\small{5'}}$ </span></h2>
+<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+  <h1 class="r-fit-text" style="color:#8A4117">QUESTIONING</h1>
+  </section>
+<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+  <h3 class="r-fit-text" style="color:#8A4117">QUESTIONING</h3>
   <!-- <h3 style="color:#3B2F2F" class="fragment">QUESTIONING</h3> -->
-  <ul class="fragment">
+  <ul>
     <li style="color:#b82460"><em>stimoli di diversa natura con lo scopo di catturare l'attenzione:</em></li>
     <ul style="font-size: 80%"><br>
       <li>una frase, un aforisma, un post, una foto, un video, un articolo, una <em>"provocazione"</em></li>
-      <li> tutto il materiale è preparato in anticipo e caricato su: <a style="color:#b82460" href="https://2023-mathofthings.netlify.app/"><em>The Math of Things</em></a></li>
+      <li> tutto il materiale è preparato in anticipo e caricato su: <a style="color:#b82460" href="https://2024-mathofthings.netlify.app/"><em>The Math of Things</em></a></li>
     </ul>
   </ul>
 </section>
@@ -468,8 +482,8 @@ slides:
 
 ---
 
-<section data-background-image="pile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">2. framing &nbsp; <span style="font-size: 70%; color:#b82460">${\small{5'}}$ </span></h1>
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text" style="color:#8A4117">FRAMING &nbsp; <span style="font-size: 70%; color:#b82460">${\small{5'}}$ </span></h1>
   <!-- <h2 style="color:#3B2F2F" class="fragment"> FRAMING </h2> -->
   <ul class="fragment">
     <li style="color:#b82460; font-size: 80%;"><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
@@ -481,16 +495,17 @@ slides:
   </ul>
 </section>
 
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+<section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
   <h2 style="color:#8A4117">MINDMAPPING</h2>
-  <img class="fragment r-fit-text" src="graph1.png" alt="mindmapping" width="85%">
+  <img class="fragment r-fit-text" src="map_09.png" alt="mindmapping" style="opacity:0.6" width="54%">
 </section>
 
 ---
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-  <h1 style="color:#8A4117">FASE 3 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span></h2>
-    <h2 style="color:#3B2F2F" class="fragment">ACTIVE - trasmissiva</h2>
+  <h1 class="r-fit-text" style="color:#8A4117">ACTIVE </h1>
+  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
+    <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
     <!-- <ul class="fragment" data-transition="concave">
 <li><h4>Contenuti - Lezione frontale</h4></li><br> -->
     <ul class="fragment" style="font-size: 80%;" >
@@ -522,7 +537,7 @@ slides:
     <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li>
   </ul>
 
-  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="90%">
+  <img class="fragment r-fit-text" src="scr01.png" alt="neovim" width="90%">
 </section>
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
@@ -545,8 +560,11 @@ slides:
 ---
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-  <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1>
-  <h3 style="color:#3B2F2F" class="fragment">Math LAB</h3>
+  <h1 class="r-fit-text" style="color:#8A4117">MATH <br> Lab</h1>
+  <!-- <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1> -->
+  </section>
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+  <h3 style="color:#3B2F2F">Math LAB</h3>
   <ul class="fragment" style="font-size: 80%;">
     <li>correzione esercizi assegnati</li>
     <ul style="color:#8A4117">
@@ -607,11 +625,16 @@ slides:
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117">FASE 6 &nbsp; <span style="font-size: 50%; color:#b82460"><em>post</em></span></h1>
-  <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2>
-  <ul class="fragment" style="font-size: 80%;">
-    <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li>
-    <ul>
+  <h1 class="r-fit-text" style="color:#8A4117">HOMEWORKS </h1>
+  <!-- <h1 style="color:#8A4117">FASE 6 &nbsp; <span style="font-size: 50%; color:#b82460"><em>post</em></span></h1> -->
+</section>  
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+
+<h3 class="r-fit-text" style="color:#8A4117">Lavoro in autonomia</h3>
+  <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
+  <ul style="font-size: 80%;">
+    <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
+    <!-- <ul> -->
       <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
       <li>esercizi assegnati </li>
       <li>attività collaborative - <em>cooperative learning</em></li>
@@ -622,22 +645,22 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
-<img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
-<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
-<img src="5.png" alt="2"
-    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+<!-- <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
+<!-- <img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;"> -->
+<!--   </section> -->
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+<!-- <img src="5.png" alt="2" -->
+<!--     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7"> -->
   <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
   <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
 </section>
-<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2>
-  <p style="font-size:50px" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <!-- <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2> -->
+<p style="font-family: 'Roboto Mono', monospace; font-size:40px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
   </section>
 
   ---
 
-  <section data-transition="zoom">
+  <section data-background-color="#EFEFEF" data-transition="zoom">
     <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
   </section>
