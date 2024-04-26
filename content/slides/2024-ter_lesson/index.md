@@ -43,11 +43,30 @@ slides:
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
-
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3>
-</section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<!---->
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3> -->
+<!-- </section> -->
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
+<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3> -->
+<!--   <ul style="font-size:80%"> -->
+<!--     <li class="fragment fade-in-then-semi-out" width="30.0%"><b>CONTESTO:&nbsp &nbsp</b>contesto curricolare di riferimento</li> -->
+<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>FRAGILITÀ:&nbsp</b>tipologia e frequenza</li> -->
+<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>COMPETENZE:&nbsp</b> -->
+<!--       <ul> -->
+<!--         <li>competenze di cittadinanza</li> -->
+<!--         <li>linee guida e indicazioni nazionali</li> -->
+<!--       </ul> -->
+<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>VERIFICA COMPETENZE:&nbsp</b> valutazione e autovalutazione delle competenze</li> -->
+<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>EFFICACIA DIDATTICA:&nbsp</b> strumenti, metodologie e tecnologie didattiche (TIC)</li> -->
+<!--   </ul> -->
+<!-- </section> -->
+<!---->
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3> -->
+<!-- </section> -->
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3>
 
@@ -57,23 +76,28 @@ slides:
 <td width="60.0%"><b>descrizione</b></td>
 </tr> -->
     <tr>
-      <td style="color:#8A4117" width="30.0%"><b>CONTESTO</b></em></td>
+      <td width="30.0%"><b><p style="color:#EAB29F">CONTESTO</b></td>
       <td width="70.0%">contesto curricolare di riferimento</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="30.0%"><b>FRAGILITÀ</b></em></td>
+      <td width="30.0%"><b>FRAGILITÀ</b></td>
       <td width="70.0%">tipologia e frequenza delle disabilità</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="30.0%"><b>PERCORSO DIDATTICO</b></em></td>
-      <td width="70.0%">a. competenze di cittadinanza<br>b. linee guida e indicazioni nazionali</td>
+      <td width="30.0%"><b>COMPETENZE</b></em></td>
+      <td width="70.0%">
+<ul>
+        <li>competenze di cittadinanza</li>
+           <li>linee guida e indicazioni nazionali</li>
+        </ul>
+    </td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="30.0%"><b>VERIFICA COMPETENZE</b></em></td>
+      <td width="30.0%"><b>VERIFICA COMPETENZE</b></td>
       <td width="70.0%">valutazione e autovalutazione delle competenze</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="30.0%"><b>EFFICACIA DIDATTICA</b></em></td>
+      <td width="30.0%"><b>EFFICACIA DIDATTICA</b></td>
       <td width="70.0%">strumenti, metodologie e tecnologie didattiche (TIC)</td>
     </tr>
   </table>
@@ -92,20 +116,20 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="1.png" alt="1" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="1.png" alt="1"
+<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.3" data-transition="convex">
+  <img src="1.png" alt="1" style="width:500px;height:500px;color:#3B2F2F;">
+</section>
+<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.3" data-transition="convex">
+  <img src="1.png" alt="1"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h2 class="r-fit-text" style="color:#3B2F2F">CONTESTO <br> DIDATTICO</h2>
   <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
 </section>
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
-<br>
- <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
+  <br>
+  <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
       <td>Istituto Tecnico Industriale<br>Meccatronica</td>
@@ -129,33 +153,23 @@ slides:
       <td style="font-size:80%"><i>$\%$ e tipologia</i></td>
     </tr>
   </table>
- <!-- <h3 class="fragment" style="color:#3B2F2F"> FRAGILITÀ</h3> -->
- <!--  <h4>contesto curricolare di riferimento</h4> -->
- <!--  <h3 class="fragment" style="color:#3B2F2F"> PERCORSO DIDATTICO</h3> -->
- <!--  <h4>tipologia e frequenza delle disabilità</h4> -->
- <!--  <h3 style="color:#3B2F2F"> VERIFICA delle COMPETENZE</h3> -->
- <!--  <h4>a. competenze di cittadinanza <br> b. linee guida e indicazioni nazionali</h4> -->
- <!--  <h3 style="color:#3B2F2F"> VERIFICA delle COMPETENZE</h3> -->
- <!--  <h4>valutazione e autovalutazione delle competenze</h4> -->
- <!--  <h3 style="color:#3B2F2F"> CONTESTO DIDATTICO</h3> -->
- <!--  <h4>strumenti, metodologie e tecnologie didattiche (TIC)</h4> -->
 </section>
 
 ---
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-<img src="2.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
+  <img src="2.png" alt="2" style="width:500px;height:500px;color:#B91C1C;">
+</section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-<img src="2.png" alt="2"
-    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
-  <h2 class="r-fit-text" style="color:#3B2F2F">FRAGILITÀ</h2>
+  <img src="2.png" alt="2"
+    style="color:#B91C1C;width:200px;height:200px;opacity:0.7">
+  <h2 class="r-fit-text" style="color:#B91C1C">FRAGILITÀ</h2>
   <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 style="color:#3B2F2F">FRAGILITÀ</h2>
-  <h4 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h4>
+  <!-- <h2 style="color:#3B2F2F">FRAGILITÀ</h2> -->
+  <h3 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h3>
   <table class="fragment" style="color:#342A2A; font-size:90%" width="100%">
     <tr>
       <td><b>tipologia<br>documentazione</b></td>
@@ -173,8 +187,8 @@ slides:
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 style="color:#8A4117">Le FRAGILITÀ</h2>
-  <h4 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h4>
+  <!-- <h2 style="color:#8A4117">Le FRAGILITÀ</h2> -->
+  <h3 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h3>
   <table class="fragment" style="color:#342A2A; font-size:90%" width="100%">
     <tr>
       <td><b>tipologia<br>documentazione</b></td>
@@ -194,83 +208,57 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="3.png" alt="2"
-    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
-  <h1 class="r-fit-text" style="color:#3B2F2F">PROGRAMMAZIONE</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1>
+  <img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
 </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h3 style="color:#3B2F2F">PROGRAMMAZIONE D'ISTITUTO</h3>
-  <table style="font-size:65%; width="95%">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <img src="3.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+  <h1 class="r-fit-text" style="color:#3B2F2F">COMPETENZE</h1>
+  </section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3>
+  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
+  <h3 style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h3>
+  <table class="fragment" width="100%">
     <tr>
-      <td width="40.0%"><b>competenze</b></td>
-      <td width="60.0%"><b>descrizione</b></td>
+      <td style="font-size:60%" width="40.0%"><b>competenze</b></td>
+      <td style="font-size:60%" width="60.0%"><b>descrizione</b></td>
     </tr>
     <tr>
-      <td width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td width="60.0%">organizzare il proprio apprendimento</td>
+      <td style="font-size:55%" width="40.0%"><em>imparare ad imparare</em></td>
+      <td style="font-size:50%" width="60.0%">organizzare il proprio apprendimento</td>
     </tr>
     <tr>
-      <td width="40.0%"><em>6. problem solving</em></td>
-      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+      <td style="font-size:55%" width="40.0%"><em>saper progettare</em></td>
+      <td style="font-size:50%" width="60.0%">elaborare e realizzare progetti</td>  
+    </tr>
+    <tr>
+      <td style="font-size:55%" width="40.0%"><em>saper comunicare</em></td>
+      <td style="font-size:50%" width="60.0%">presentare in modo efficace</td>
+    </tr>
+    <tr>
+      <td style="font-size:55%" width="40.0%"><em>collaborare e partecipare</em></td>
+      <td style="font-size:50%" width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
+    </tr>
+    <tr>
+      <td style="font-size:55%" width="40.0%"><em>problem solving</em></td>
+      <td style="font-size:50%" width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
+    </tr>
+    <tr>
+      <td style="font-size:55%" width="40.0%"><em>imparare a collegare</em></td>
+      <td style="font-size:50%" width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
+    </tr>
+    <tr>
+      <td style="font-size:55%" width="40.0%"><em>verificare l'informazione</em></td>
+      <td style="font-size:50%" width="60.0%">formare e coltivare uno spirito critico</td>
     </tr>
   </table>
 </section>
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#3B2F2F">COMPETENZE <br>DI CITTADINANZA</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <!-- <h1 class="r-fit-text" style="color:#3B2F2F">DISCIPLINARE</h1> -->
-</section>
-
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h5>COMPETENZE DI CITTADINANZA</h5>
-  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
-  
-<table class="fragment" style="font-size:60%" width="90%">
-  <tr>
-    <td style="font-size:120%" width="40.0%"><b>competenze</b></td>
-    <td style="font-size:120%" width="60.0%"><b>descrizione</b></td>
-  </tr>
-  <tr>
-    <td class=""width="40.0%"><em>1. imparare ad imparare</em></td>
-    <td width="60.0%">organizzare il proprio apprendimento</td>
-  </tr>
-  <tr>
-    <td width="40.0%"><em>2. saper progettare</em></td>
-    <td width="60.0%">elaborare e realizzare progetti</td>  
-  </tr>
-  <tr>
-    <td width="40.0%"><em>3. saper comunicare</em></td>
-    <td width="60.0%">presentare in modo efficace</td>
-  </tr>
-  <tr>
-    <td width="40.0%"><em>4. collaborare e partecipare</em></td>
-    <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
-  </tr>
-  <tr>
-    <td width="40.0%"><em>6. problem solving</em></td>
-    <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
-  </tr>
-  <tr>
-    <td width="40.0%"><em>7. imparare a collegare</em></td>
-    <td width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
-  </tr>
-  <tr>
-    <td width="40.0%"><em>8. verificare l'informazione</em></td>
-    <td width="60.0%">formare e coltivare uno spirito critico</td>
-  </tr>
-</table>
-
-  <h5 style="color:#6D3234; font-size: 55%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5>
-</section>
-
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h1>
+  <!-- <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
+  <h4 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h4>
   <!-- <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5> -->
   <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
   <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
@@ -318,64 +306,64 @@ slides:
 
 <section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="concave">
   <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2>
-  <!-- <img class="fragment r-fit-text" src="map_01.png" alt="neovim" width="600"> -->
-  <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p>
+  <img class="fragment r-fit-text" src="mappo.png" alt="neovim">
+  <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
 
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
-  </section>
+  <img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
+</section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="4.png" alt="2"
+  <img src="4.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE</h1>
 </section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1> -->
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
-<table class="fragment" style="font-size:70%; width="95%">
-  <tr>
-    <td width="20.0%"><b>competenze</b></td>
-    <td width="60.0%"><b>descrizione</b></td>
-    <td width="20.0%"><b>quando</b></td>
-    <td width="10.0%"><b>esempio</b></td>
-  </tr>
-  <tr>
-    <td width="30.0%">PREDITTIVA</td>
-    <td width="50.0%">Test anonimo e di autovalutazione </td>
-    <td width="20.0%">all'inizio dell'UdA</td>
-    <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
-  </tr>
-  <tr>
-    <td width="30.0%">FORMATIVA</td>
-    <td width="50.0%">Peer-Tutoring | Flipped Classroom o Jigsaw</td>
-    <td width="20.0%">in itinere </td>
-    <td width="20.0%" style="text-align: center;"><a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
-  </tr>
-  <tr>
-    <td width="30.0%">SOMMATIVA</td>
-    <td width="50.0%">verifica classica:<br><em>Test + Esercizi</em> </td>
-    <td width="20.0%">alla fine dell'UdA</td>
-    <td width="20.0%" style="text-align: center;"><a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
-  </tr>
-  <tr>
-    <td width="30.0%">interrogazioni</td>
-    <td width="50.0%">recupero o miglioramento</td>
-    <td width="20.0%">programmata</td>
-    <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></td>
-  </a></tr>
-</table>
+  <table class="fragment" style="font-size:70%; width="95%">
+    <tr>
+      <td width="20.0%"><b>competenze</b></td>
+      <td width="60.0%"><b>descrizione</b></td>
+      <td width="20.0%"><b>quando</b></td>
+      <td width="10.0%"><b>esempio</b></td>
+    </tr>
+    <tr>
+      <td width="30.0%">PREDITTIVA</td>
+      <td width="50.0%">Test anonimo e di autovalutazione </td>
+      <td width="20.0%">all'inizio dell'UdA</td>
+      <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+    </tr>
+    <tr>
+      <td width="30.0%">FORMATIVA</td>
+      <td width="50.0%">Peer-Tutoring | Flipped Classroom o Jigsaw</td>
+      <td width="20.0%">in itinere </td>
+      <td width="20.0%" style="text-align: center;"><a href="./Divisione e Ruffini-Flipped Classroom-contest_prize.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+    </tr>
+    <tr>
+      <td width="30.0%">SOMMATIVA</td>
+      <td width="50.0%">verifica classica:<br><em>Test + Esercizi</em> </td>
+      <td width="20.0%">alla fine dell'UdA</td>
+      <td width="20.0%" style="text-align: center;"><a href="./202122-ESEMPIO_VERIFICA_classica-soluzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
+    </tr>
+    <tr>
+      <td width="30.0%">interrogazioni</td>
+      <td width="50.0%">recupero o miglioramento</td>
+      <td width="20.0%">programmata</td>
+      <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></td>
+      </a></tr>
+  </table>
 </section>
 
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
-  </section>
+  <img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+</section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-<img src="5.png" alt="2"
+  <img src="5.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 style="color:#8A4117" class="r-fit-text">STRUMENTI <br> DIDATTICI</h1>
 </section>
@@ -460,7 +448,7 @@ slides:
 
 <section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text" style="color:#8A4117">QUESTIONING</h1>
-  </section>
+</section>
 <section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
   <h3 class="r-fit-text" style="color:#8A4117">QUESTIONING</h3>
   <!-- <h3 style="color:#3B2F2F" class="fragment">QUESTIONING</h3> -->
@@ -505,16 +493,16 @@ slides:
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text" style="color:#8A4117">ACTIVE </h1>
   <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
-    <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
-    <!-- <ul class="fragment" data-transition="concave">
+  <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
+  <!-- <ul class="fragment" data-transition="concave">
 <li><h4>Contenuti - Lezione frontale</h4></li><br> -->
-    <ul class="fragment" style="font-size: 80%;" >
-      <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-      <li><b>consultazione: </b>libro di testo in formato digitale</li>
-      <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
-      <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
-    </ul>
-    <!-- </ul> -->
+  <ul class="fragment" style="font-size: 80%;" >
+    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
+    <li><b>consultazione: </b>libro di testo in formato digitale</li>
+    <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
+    <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
+  </ul>
+  <!-- </ul> -->
 </section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
@@ -562,7 +550,7 @@ slides:
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text" style="color:#8A4117">MATH <br> Lab</h1>
   <!-- <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1> -->
-  </section>
+</section>
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
   <h3 style="color:#3B2F2F">Math LAB</h3>
   <ul class="fragment" style="font-size: 80%;">
@@ -603,23 +591,23 @@ slides:
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
 <h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
- <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
-</section>
+<img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
+  </section>
 
 ---
 
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1>
-    <h3 style="color:#3B2F2F" class="fragment">Lesson RECAP</h3>
-    <ul class="fragment">
-      <ul>
-        <ul style="font-size: 80%;">
-          <li>qual è stato l'obiettivo della lezione?</li>
-          <li>cos'è rimasto della trattazione?</li>
-          <li>consigli per lo studio individuale</li>
-        </ul><br>
-        <li style="color:#b82460; font-size: 32px"><em>in questa fase è indispensabile il coinvolgimento attivo degli studenti</em></li>
-      </ul>
+  <h3 style="color:#3B2F2F" class="fragment">Lesson RECAP</h3>
+  <ul class="fragment">
+    <ul>
+      <ul style="font-size: 80%;">
+        <li>qual è stato l'obiettivo della lezione?</li>
+        <li>cos'è rimasto della trattazione?</li>
+        <li>consigli per lo studio individuale</li>
+      </ul><br>
+      <li style="color:#b82460; font-size: 32px"><em>in questa fase è indispensabile il coinvolgimento attivo degli studenti</em></li>
+    </ul>
 </section>
 
 ---
@@ -635,11 +623,11 @@ slides:
   <ul style="font-size: 80%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
     <!-- <ul> -->
-      <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
-      <li>esercizi assegnati </li>
-      <li>attività collaborative - <em>cooperative learning</em></li>
-    </ul><br>
-    <li style="color:#b82460"><em>tutti i materiali vengono condivisi su Google Classroom</em></li>
+    <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
+    <li>esercizi assegnati </li>
+    <li>attività collaborative - <em>cooperative learning</em></li>
+  </ul><br>
+  <li style="color:#b82460"><em>tutti i materiali vengono condivisi su Google Classroom</em></li>
   </ul>
 </section>
 
@@ -649,18 +637,18 @@ slides:
 <!-- <img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;"> -->
 <!--   </section> -->
 <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-<!-- <img src="5.png" alt="2" -->
-<!--     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7"> -->
+  <!-- <img src="5.png" alt="2" -->
+  <!--     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7"> -->
   <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
   <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
 </section>
 <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
   <!-- <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2> -->
-<p style="font-family: 'Roboto Mono', monospace; font-size:40px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
-  </section>
+  <p style="font-family: 'Roboto Mono', monospace; font-size:40px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
+</section>
 
-  ---
+---
 
-  <section data-background-color="#EFEFEF" data-transition="zoom">
-    <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
-  </section>
+<section data-background-color="#EFEFEF" data-transition="zoom">
+  <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
+</section>

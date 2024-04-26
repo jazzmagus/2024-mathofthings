@@ -158,13 +158,15 @@ h2.r-fit-text img {
   /* transform: translateX(-50%); /* Adjust horizontal offset */ */
 }
 
-p {
-  text-align: left; /* Center text horizontally */
-  /* display: flex; /* Enable flexbox layout */ */
-  /* flex-direction: column; /* Align items vertically */ */
-  /* align-items: center; /* Center items horizontally */ */
-  /* justify-content: center; /* Center items vertically */ */
-  /* padding: 20px; */
-  background-color: transparent; /* Remove background color */
-  border: none; /* Remove border */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+tr {
+  border: none;
+}
+
+td {
+  border: none;
 }
