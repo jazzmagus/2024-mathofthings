@@ -117,7 +117,7 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.3" data-transition="convex">
-  <img src="1.png" alt="1" style="width:500px;height:500px;color:#3B2F2F;">
+  <img src="1.png" alt="1" style="opacity:0.6;width:500px;height:500px;color:#3B2F2F;">
 </section>
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.3" data-transition="convex">
   <img src="1.png" alt="1"
@@ -126,7 +126,7 @@ slides:
   <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
 </section>
 
-<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
+<section data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
   <br>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
@@ -158,7 +158,8 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <img src="2.png" alt="2" style="width:500px;height:500px;color:#B91C1C;">
+  <img src="2.png" alt="2"
+    style="color:#DC2626;width:500px;height:500px;color:#B91C1C;opacity:0.6;">
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <img src="2.png" alt="2"
@@ -169,19 +170,19 @@ slides:
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F">FRAGILITÀ</h2> -->
-  <h3 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h3>
-  <table class="fragment" style="color:#342A2A; font-size:90%" width="100%">
+  <h3 style="color:#b82460;">La Classe come COMUNITÀ</h3>
+  <table class="fragment" style="color:#342A2A; font-size:100%" width="100%">
     <tr>
       <td><b>tipologia<br>documentazione</b></td>
-      <td style="font-size:80%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td>
+      <td style="font-size:90%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td>
     </tr>
     <tr>
       <td><b>collaborazione</b></td>
-      <td style="font-size:80%"><i><em>percorso di supporto con studente, CdC, GLO, famiglia ed eventuale sostegno</em><br><i></td>
+      <td style="font-size:90%"><i><em>percorso di supporto con studente, CdC, GLO, famiglia ed eventuale sostegno</em><br><i></td>
     </tr>
     <tr>
       <td><b>strumenti di lavoro</b></td>
-      <td style="font-size:80%"><i>strumenti compensativi e dispensativi: PEI e PDP<i></td>
+      <td style="font-size:90%"><i>strumenti compensativi e dispensativi: PEI e PDP<i></td>
     </tr>
   </table>
 </section>
@@ -208,7 +209,7 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  <img src="3.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
 </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <img src="3.png" alt="2"
@@ -298,29 +299,32 @@ slides:
     </ul></em>
 </section>
 
-<section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+---
+
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#3B2F2F">U.d.A. di</h1>
   <!-- <h1 style="color:#3B2F2F">di</h1> -->
   <h1 style="color:#3B2F2F">Riferimento</h1>
 </section>
 
-<section data-background-image="net_bkg.jpg" data-background-opacity="0.4" data-transition="concave">
-  <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2>
-  <img class="fragment r-fit-text" src="mappo.png" alt="neovim">
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
+  <img class="fragment r-fit-text" src="mappo.png" alt="neovim"
+    style="opacity:0.8">
   <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
 
 ---
 
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="puzzle.jpg" data-background-opacity="0.4" data-transition="convex">
   <img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
 </section>
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <img src="4.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE</h1>
 </section>
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1> -->
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
   <table class="fragment" style="font-size:70%; width="95%">
@@ -360,7 +364,7 @@ slides:
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;">
+  <img src="5.png" alt="2" style="opacity:0.6;width:500px;height:500px;color:#3B2F2F;">
 </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <img src="5.png" alt="2"
@@ -403,10 +407,10 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-background-image="pile.jpg" data-background-opacity="0.5" data-transition="convex">
   <h1 class="r-fit-text" data-auto-animate style="color:#4E3319">ATTIVITÀ<br>DIDATTICA</h1>
 </section>
-<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#22D3EE">programma</h2> -->
   <!-- <h3 style="color:#3B2F2F">ATTIVITÀ DIDATTICA </h3> -->
 
@@ -446,11 +450,13 @@ slides:
 
 ---
 
-<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">QUESTIONING</h1>
+<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+  <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
+  <h1 class="r-fit-text" style="color:#4E3319">QUESTIONING</h1>
+  <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
 </section>
-<section data-auto-animate data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <h3 class="r-fit-text" style="color:#8A4117">QUESTIONING</h3>
+<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+  <!-- <h3 class="r-fit-text" style="color:#8A4117">QUESTIONING</h3> -->
   <!-- <h3 style="color:#3B2F2F" class="fragment">QUESTIONING</h3> -->
   <ul>
     <li style="color:#b82460"><em>stimoli di diversa natura con lo scopo di catturare l'attenzione:</em></li>
