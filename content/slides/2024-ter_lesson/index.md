@@ -302,14 +302,14 @@ slides:
 ---
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#3B2F2F">U.d.A. di</h1>
+  <h1 style="color:#3B2F2F">UNITÀ DIDATTICA</h1>
   <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <h1 style="color:#3B2F2F">Riferimento</h1>
+  <h2 class="fragment fade-left r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2>
 </section>
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
-  <img class="fragment r-fit-text" src="mappo.png" alt="neovim"
+  <img class="r-fit-text" src="mappo.png" alt="neovim"
     style="opacity:0.8">
   <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
@@ -477,7 +477,10 @@ slides:
 ---
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">FRAMING &nbsp; <span style="font-size: 70%; color:#b82460">${\small{5'}}$ </span></h1>
+  <img src="2.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
+  <h1 class="r-fit-text" style="color:#4E3319">FRAMING
+  <h2 <span style="color:#b82460">${\small{15'}}$ </span></h2>
+ </span></h1>
   <!-- <h2 style="color:#3B2F2F" class="fragment"> FRAMING </h2> -->
   <ul class="fragment">
     <li style="color:#b82460; font-size: 80%;"><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
@@ -490,6 +493,7 @@ slides:
 </section>
 
 <section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
+  <img src="3.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
   <h2 style="color:#8A4117">MINDMAPPING</h2>
   <img class="fragment r-fit-text" src="map_09.png" alt="mindmapping" style="opacity:0.6" width="54%">
 </section>
