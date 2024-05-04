@@ -39,7 +39,7 @@ slides:
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h2 style="color:#392613; text-align:left;"><i class='fas fa-feather'></i>
     La traccia:</h2>
-  <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua. Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+  <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
@@ -126,9 +126,9 @@ slides:
   <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
 </section>
 
-<section data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
+<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
-  <br>
+  <h3 style="color:#3B2F2F"> la scuola</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
@@ -140,6 +140,16 @@ slides:
         fortemente orientato all'agricoltura e alla piccola
         industria/artigianato<b></td>
     </tr>
+    <tr>
+      <td><b>classe</b></td>
+      <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
+    </tr>
+  </table>
+</section>
+<section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
+  <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
+  <h3 style="color:#3B2F2F"> la classe</h3>
+  <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
     <tr>
       <td><b>classe</b></td>
       <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
@@ -189,21 +199,35 @@ slides:
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 style="color:#8A4117">Le FRAGILITÀ</h2> -->
-  <h3 class="fragment" style="color:#b82460;">La Classe come COMUNITÀ</h3>
-  <table class="fragment" style="color:#342A2A; font-size:90%" width="100%">
-    <tr>
-      <td><b>tipologia<br>documentazione</b></td>
-      <td style="font-size:80%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td>
-    </tr>
-    <tr>
-      <td><b>collaborazione</b></td>
-      <td style="font-size:80%"><i><em>percorso di supporto con studente, CdC, GLO, famiglia ed eventuale sostegno</em><br><i></td>
-    </tr>
-    <tr>
-      <td><b>strumenti di lavoro</b></td>
-      <td style="font-size:80%"><i>strumenti compensativi e dispensativi: PEI e PDP<i></td>
-    </tr>
-  </table>
+  <h2 class="r-fit-text">approccio didattico</h2>
+  <!-- <table class="fragment" style="color:#342A2A; font-size:90%" width="100%"> -->
+  <!--   <tr> -->
+  <!--     <td><b>tipologia<br>documentazione</b></td> -->
+  <!--     <td style="font-size:80%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td> -->
+  <!--   </tr> -->
+  <!--   <tr> -->
+  <!--     <td><b>collaborazione</b></td> -->
+  <!--     <td style="font-size:80%"><i><em>percorso di supporto con studente, CdC, GLO, famiglia ed eventuale sostegno</em><br><i></td> -->
+  <!--   </tr> -->
+  <!--   <tr> -->
+  <!--     <td><b>strumenti di lavoro</b></td> -->
+  <!--     <td style="font-size:80%"><i>strumenti compensativi e dispensativi: PEI e PDP<i></td> -->
+  <!--   </tr> -->
+  <!-- </table> -->
+  <ul style="font-size:90%">
+<li class="fragment"><h3>approccio aperto allo studente</h3></li>
+    <ul>
+<li class="fragment"><h4>personalizzazione</h4></li>
+<li class="fragment"><h4>supporto extra</h4></li>
+<li class="fragment"><h4>condivisione e partecipazione</h4></li>
+    </ul>
+<li class="fragment "><h3>seconda regola</h3></li>
+    <ul>
+<li class="fragment"><h4>personalizzazione</h4></li>
+<li class="fragment"><h4>condivisione e partecipazione</h4></li>
+    </ul>
+<li class="fragment "><h3>terza regola</h3></li>
+  </ul>
 </section>
 
 ---
@@ -220,7 +244,7 @@ slides:
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3>
   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
-  <h3 style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h3>
+  <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
   <table class="fragment" width="100%">
     <tr>
       <td style="font-size:60%" width="40.0%"><b>competenze</b></td>
@@ -450,12 +474,13 @@ slides:
 
 ---
 
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
-  <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
+<section data-background-image="qmark.jpg" data-background-opacity="0.5" data-transition="convex">
+  <!-- <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
+  <h2 style="color:#4E3319">Fase 1</h2>
   <h1 class="r-fit-text" style="color:#4E3319">QUESTIONING</h1>
   <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
 </section>
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+<section data-background-image="qmark.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h3 class="r-fit-text" style="color:#8A4117">QUESTIONING</h3> -->
   <!-- <h3 style="color:#3B2F2F" class="fragment">QUESTIONING</h3> -->
   <ul>
@@ -467,7 +492,7 @@ slides:
   </ul>
 </section>
 
-<section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
+<section data-background-image="qmark.jpg" data-background-opacity="0.3" data-transition="convex">
   <p style="color:#b82460; text-align:left font-size: 40px"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
     <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.</p>
   <span style="font-size: 36px; color:#b82460;">&mdash; Giorgio Parisi <br>("In un volo di storni" - ed. Rizzoli - 2021)</span>
@@ -476,13 +501,15 @@ slides:
 
 ---
 
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <img src="2.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
-  <h1 class="r-fit-text" style="color:#4E3319">FRAMING
-  <h2 <span style="color:#b82460">${\small{15'}}$ </span></h2>
- </span></h1>
+<section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
+  <!-- <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
+  <h2 style="color:#4E3319">Fase 2</h2>
+  <h1 class="r-fit-text" style="color:#4E3319">FRAMING</h1>
+  <h2 <span style="color:#b82460">${\small{10'}}$ </span></h2>
+</section>
+<section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F" class="fragment"> FRAMING </h2> -->
-  <ul class="fragment">
+  <ul>
     <li style="color:#b82460; font-size: 80%;"><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
     <ul class="fragment" style="font-size: 82%;">
       <li><b><em>prerequisiti</b>: da dove veniamo</em></li>
@@ -493,16 +520,20 @@ slides:
 </section>
 
 <section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
-  <img src="3.png" alt="2" style="width:200px;height:200px;color:#4E3319;">
+  <!-- <img src="3.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
   <h2 style="color:#8A4117">MINDMAPPING</h2>
-  <img class="fragment r-fit-text" src="map_09.png" alt="mindmapping" style="opacity:0.6" width="54%">
+  <img class="fragment r-fit-text" src="map08.png" alt="mindmapping" style="opacity:0.8">
 </section>
 
 ---
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">ACTIVE </h1>
-  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
+  <!-- <img src="3.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
+  <h2 style="color:#4E3319">Fase 3</h2>
+  <h1 class="r-fit-text" style="color:#4E3319">ACTIVE</h1>
+  <h2 <span style="color:#b82460">${\small{20'}}$ </span></h2>  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
+</section>
+<section data-background-image="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
   <!-- <ul class="fragment" data-transition="concave">
 <li><h4>Contenuti - Lezione frontale</h4></li><br> -->
@@ -542,26 +573,28 @@ slides:
   <h1 class="r-fit-text">elaborazione delle idee</h1>
   <div class="columns">
     <div class="column left">
-      <h3 class="fragment">Titolo della slide</h3>
+      <h3 class="fragment">Titolo</h3>
       <p class="fragment">Testo della slide nella colonna di sinistra.</p>
       <ul class="fragment">
         <li>Lista di punti</li>
         <li>Altro punto</li>
+        <li>Altro punto</li>
+        <li>Altro punto</li>
       </ul>
     </div>
     <div class="column right">
-      <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450" opacity="0.2">
+      <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" opacity="0.2">
     </div>
   </div>
 </section>
 
 ---
 
-<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+<section data-background-video="study.mp4" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text" style="color:#8A4117">MATH <br> Lab</h1>
   <!-- <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1> -->
 </section>
-<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+<section data-background-video="study.mp4" data-background-opacity="0.2" data-transition="convex">
   <h3 style="color:#3B2F2F">Math LAB</h3>
   <ul class="fragment" style="font-size: 80%;">
     <li>correzione esercizi assegnati</li>
@@ -606,9 +639,15 @@ slides:
 
 ---
 
+<section data-background-image="calm_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <!-- <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
+  <h2 style="color:#4E3319">Fase 5</h2>
+  <h1 class="r-fit-text" style="color:#4E3319">RECAP</h1>
+  <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
+</section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1>
-  <h3 style="color:#3B2F2F" class="fragment">Lesson RECAP</h3>
+  <h3 style="color:#3B2F2F">Recap</h3>
   <ul class="fragment">
     <ul>
       <ul style="font-size: 80%;">
@@ -640,6 +679,44 @@ slides:
   <li style="color:#b82460"><em>tutti i materiali vengono condivisi su Google Classroom</em></li>
   </ul>
 </section>
+
+---
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<h2>bibliografia</h2>
+<ul class="r-fit-text" style="font-size: 80%;">
+<li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
+<li>D.P.R. $89 / 2010$ (Regolamento licei)</li>
+<li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
+<li>L.107/2015 (Buona Scuola)</li>
+<li>D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li>
+
+<li>DPR 122/2009 (valutazioni)</li>
+<li>DPR 275/99 (autonomia istituzioni scolastiche)</li>
+<li>L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li>
+
+<li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li>
+<li>Zanichelli, Matematica Blu 2.0, vol. 4</li>
+</ul>
+</section>
+
+<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
+<!-- <h2>bibliografia</h2> -->
+<!-- <ul class="r-fit-text" style="font-size: 80%;"> -->
+<!-- <li style="color:#8A4117; font-size: 50%">RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li> -->
+<!-- <li style="font-size: 80%">D.P.R. $89 / 2010$ (Regolamento licei)</li> -->
+<!-- <li style="color:#8A4117">P.N.S.D. (Piano Nazionale Scuola Digitale)</li> -->
+<!-- <li style="color:#8A4117">L.107/2015 (Buona Scuola)</li> -->
+<!-- <li style="font-size: 80%">D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li> -->
+<!---->
+<!-- <li style="font-size: 80%">DPR 122/2009 (valutazioni)</li> -->
+<!-- <li style="color:#8A4117">DPR 275/99 (autonomia istituzioni scolastiche)</li> -->
+<!-- <li style="font-size: 80%">L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li> -->
+<!---->
+<!-- <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li> -->
+<!-- <li>Zanichelli, Matematica Blu 2.0, vol. 4</li> -->
+<!-- </ul> -->
+<!-- </section> -->
 
 ---
 
