@@ -23,7 +23,10 @@ slides:
   <!-- <link rel="stylesheet" href="carte.css"> -->
   <!-- <link rel="stylesheet" href="circular-cards.css"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>  </style>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+</head>
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="color:#392613">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
@@ -40,7 +43,7 @@ slides:
   <h2 style="color:#392613; text-align:left;"><i class='fas fa-feather'></i>
     La traccia:</h2>
   <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
-  <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320">
+  <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
 <!---->
@@ -86,11 +89,11 @@ slides:
     <tr>
       <td width="30.0%"><b>COMPETENZE</b></em></td>
       <td width="70.0%">
-<ul>
-        <li>competenze di cittadinanza</li>
-           <li>linee guida e indicazioni nazionali</li>
+        <ul>
+          <li>competenze di cittadinanza</li>
+          <li>linee guida e indicazioni nazionali</li>
         </ul>
-    </td>
+      </td>
     </tr>
     <tr>
       <td width="30.0%"><b>VERIFICA COMPETENZE</b></td>
@@ -197,36 +200,30 @@ slides:
   </table>
 </section>
 
-<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 style="color:#8A4117">Le FRAGILITÀ</h2> -->
-  <h2 class="r-fit-text">approccio didattico</h2>
-  <!-- <table class="fragment" style="color:#342A2A; font-size:90%" width="100%"> -->
-  <!--   <tr> -->
-  <!--     <td><b>tipologia<br>documentazione</b></td> -->
-  <!--     <td style="font-size:80%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td> -->
-  <!--   </tr> -->
-  <!--   <tr> -->
-  <!--     <td><b>collaborazione</b></td> -->
-  <!--     <td style="font-size:80%"><i><em>percorso di supporto con studente, CdC, GLO, famiglia ed eventuale sostegno</em><br><i></td> -->
-  <!--   </tr> -->
-  <!--   <tr> -->
-  <!--     <td><b>strumenti di lavoro</b></td> -->
-  <!--     <td style="font-size:80%"><i>strumenti compensativi e dispensativi: PEI e PDP<i></td> -->
-  <!--   </tr> -->
-  <!-- </table> -->
-  <ul style="font-size:90%">
-<li class="fragment"><h3>approccio aperto allo studente</h3></li>
-    <ul>
-<li class="fragment"><h4>personalizzazione</h4></li>
-<li class="fragment"><h4>supporto extra</h4></li>
-<li class="fragment"><h4>condivisione e partecipazione</h4></li>
-    </ul>
-<li class="fragment "><h3>seconda regola</h3></li>
-    <ul>
-<li class="fragment"><h4>personalizzazione</h4></li>
-<li class="fragment"><h4>condivisione e partecipazione</h4></li>
-    </ul>
-<li class="fragment "><h3>terza regola</h3></li>
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+  <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
+  <ul style="color:#392613; text-align:left;">
+    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
+    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
+  </ul>
+</section>
+
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+  <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
+  <ul style="color:#392613; text-align:left;">
+    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
+    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
+  </ul>
+</section>
+
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
+  <ul style="color:#392613; text-align:left;">
+    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
+    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
   </ul>
 </section>
 
@@ -239,7 +236,7 @@ slides:
   <img src="3.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
   <h1 class="r-fit-text" style="color:#3B2F2F">COMPETENZE</h1>
-  </section>
+</section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3>
@@ -335,7 +332,7 @@ slides:
   <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
   <img class="r-fit-text" src="mappo.png" alt="neovim"
     style="opacity:0.8">
-  <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
+    <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
 
 ---
@@ -635,7 +632,7 @@ slides:
 
 <h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
 <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
-  </section>
+</section>
 
 ---
 
@@ -646,7 +643,7 @@ slides:
   <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
 </section>
 <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1>
+  <!-- <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1> -->
   <h3 style="color:#3B2F2F">Recap</h3>
   <ul class="fragment">
     <ul>
@@ -683,21 +680,21 @@ slides:
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-<h2>bibliografia</h2>
-<ul class="r-fit-text" style="font-size: 80%;">
-<li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
-<li>D.P.R. $89 / 2010$ (Regolamento licei)</li>
-<li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
-<li>L.107/2015 (Buona Scuola)</li>
-<li>D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li>
+  <h2>bibliografia</h2>
+  <ul class="r-fit-text" style="font-size: 80%;">
+    <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
+    <li>D.P.R. $89 / 2010$ (Regolamento licei)</li>
+    <li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
+    <li>L.107/2015 (Buona Scuola)</li>
+    <li>D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li>
 
-<li>DPR 122/2009 (valutazioni)</li>
-<li>DPR 275/99 (autonomia istituzioni scolastiche)</li>
-<li>L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li>
+    <li>DPR 122/2009 (valutazioni)</li>
+    <li>DPR 275/99 (autonomia istituzioni scolastiche)</li>
+    <li>L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li>
 
-<li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li>
-<li>Zanichelli, Matematica Blu 2.0, vol. 4</li>
-</ul>
+    <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li>
+    <li>Zanichelli, Matematica Blu 2.0, vol. 4</li>
+  </ul>
 </section>
 
 <!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
@@ -729,12 +726,18 @@ slides:
   <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
   <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
 </section>
-<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <!-- <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2> -->
-  <p style="font-family: 'Roboto Mono', monospace; font-size:40px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></p>
+<!-- <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
+<!--   <!-- <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2> -->
+<!--   <p style="font-family: 'Josefin Slab'; font-size:60px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p> -->
+<!-- </section> -->
+
+<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <q style="font-family: 'Josefin Slab'; font-size:50px; text-align: justify-left;" data-transition="convex">La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. La potenza di un modello matematico è nella sua semplicità e generalità. - Carl Boyer</q>
 </section>
 
----
+<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <q style="font-family: 'Josefin Slab'; font-size:50px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></q>
+</section>
 
 <section data-background-color="#EFEFEF" data-transition="zoom">
   <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
