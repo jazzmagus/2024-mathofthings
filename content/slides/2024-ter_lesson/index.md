@@ -23,9 +23,9 @@ slides:
   <!-- <link rel="stylesheet" href="carte.css"> -->
   <!-- <link rel="stylesheet" href="circular-cards.css"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Slabo+13px&display=swap" rel="stylesheet">
 </head>
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
@@ -40,54 +40,32 @@ slides:
 </section>
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
-  <h2 style="color:#392613; text-align:left;"><i class='fas fa-feather'></i>
-    La traccia:</h2>
+  <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
+     traccia n. $25$:</h3>
   <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
-<!---->
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3> -->
-<!-- </section> -->
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
-<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3> -->
-<!--   <ul style="font-size:80%"> -->
-<!--     <li class="fragment fade-in-then-semi-out" width="30.0%"><b>CONTESTO:&nbsp &nbsp</b>contesto curricolare di riferimento</li> -->
-<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>FRAGILITÀ:&nbsp</b>tipologia e frequenza</li> -->
-<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>COMPETENZE:&nbsp</b> -->
-<!--       <ul> -->
-<!--         <li>competenze di cittadinanza</li> -->
-<!--         <li>linee guida e indicazioni nazionali</li> -->
-<!--       </ul> -->
-<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>VERIFICA COMPETENZE:&nbsp</b> valutazione e autovalutazione delle competenze</li> -->
-<!--     <li  class="fragment fade-in-then-semi-out" width="30.0%"><b>EFFICACIA DIDATTICA:&nbsp</b> strumenti, metodologie e tecnologie didattiche (TIC)</li> -->
-<!--   </ul> -->
-<!-- </section> -->
-<!---->
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ <br>DIDATTICA</h3> -->
-<!-- </section> -->
+
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
   <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3>
 
-  <table style="font-size:85%" width="95%">
+  <table class="r-fit-text" style="font-size:72%" width="95%">
     <!-- <tr>
 <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
 <td width="60.0%"><b>descrizione</b></td>
 </tr> -->
     <tr>
-      <td width="30.0%"><b><p style="color:#EAB29F">CONTESTO</b></td>
+      <td width="30.0%"><p style="color:#EA580C">CONTESTO</p></td>
       <td width="70.0%">contesto curricolare di riferimento</td>
     </tr>
     <tr>
-      <td width="30.0%"><b>FRAGILITÀ</b></td>
+      <td width="30.0%"><p style="color:#EA580C">FRAGILITÀ</p></td>
       <td width="70.0%">tipologia e frequenza delle disabilità</td>
     </tr>
     <tr>
-      <td width="30.0%"><b>COMPETENZE</b></em></td>
+      <td width="30.0%"><p style="color:#EA580C">COMPETENZE</p></td>
       <td width="70.0%">
         <ul>
           <li>competenze di cittadinanza</li>
@@ -96,11 +74,11 @@ slides:
       </td>
     </tr>
     <tr>
-      <td width="30.0%"><b>VERIFICA COMPETENZE</b></td>
+      <td width="30.0%"><p style="color:#EA580C">VERIFICA COMPETENZE</p></td>
       <td width="70.0%">valutazione e autovalutazione delle competenze</td>
     </tr>
     <tr>
-      <td width="30.0%"><b>EFFICACIA DIDATTICA</b></td>
+      <td width="30.0%"><p style="color:#EA580C">EFFICACIA DIDATTICA</p></td>
       <td width="70.0%">strumenti, metodologie e tecnologie didattiche (TIC)</td>
     </tr>
   </table>
@@ -204,8 +182,9 @@ slides:
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
   <ul style="color:#392613; text-align:left;">
-    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
-    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
+    <li>La diagnosi clinica viene redatta da professionisti esperti</li>
+    <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
+    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-square-up-right"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul>
 </section>
 
@@ -214,7 +193,7 @@ slides:
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
     <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
-    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
+    <li><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
   </ul>
 </section>
 
@@ -222,8 +201,9 @@ slides:
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
   <ul style="color:#392613; text-align:left;">
-    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
-    <li>Etiam ut efficitur purus. Phasellus tellus elit, convallis id leo ac, ornare scelerisque tellus.</li>
+    <li>contatto personale continuo, anche e soprattutto extra-scolastico:
+      <em>"come va?"</em></li>
+    <li>collaborazione attiva con eventuali figure di supporto extra-scolastico</li>
   </ul>
 </section>
 
@@ -490,9 +470,9 @@ slides:
 </section>
 
 <section data-background-image="qmark.jpg" data-background-opacity="0.3" data-transition="convex">
-  <p style="color:#b82460; text-align:left font-size: 40px"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
-    <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.</p>
-  <span style="font-size: 36px; color:#b82460;">&mdash; Giorgio Parisi <br>("In un volo di storni" - ed. Rizzoli - 2021)</span>
+  <p style="color:#392613; text-align:left font-size: 40px"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
+    <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".</p>
+  <span style="font-size: 36px;">&mdash; Giorgio Parisi <br>("In un volo di storni" - ed. Rizzoli - 2021)</span>
   </em>
 </section>
 
@@ -588,7 +568,9 @@ slides:
 ---
 
 <section data-background-video="study.mp4" data-background-opacity="0.3" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">MATH <br> Lab</h1>
+  <h2 style="color:#4E3319">Fase 4</h2>
+  <h1 class="r-fit-text" style="color:#4E3319">MATH LAB</h1>
+  <h2 <span style="color:#b82460">${\small{20'}}$ </span></h2>  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
   <!-- <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1> -->
 </section>
 <section data-background-video="study.mp4" data-background-opacity="0.2" data-transition="convex">
@@ -636,13 +618,13 @@ slides:
 
 ---
 
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-background-image="recap.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <img src="1.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
   <h2 style="color:#4E3319">Fase 5</h2>
   <h1 class="r-fit-text" style="color:#4E3319">RECAP</h1>
   <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
 </section>
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-image="recap.jpg" data-background-opacity="0.2" data-transition="convex">
   <!-- <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1> -->
   <h3 style="color:#3B2F2F">Recap</h3>
   <ul class="fragment">
@@ -658,11 +640,11 @@ slides:
 
 ---
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-image="homework.jpg" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text" style="color:#8A4117">HOMEWORKS </h1>
   <!-- <h1 style="color:#8A4117">FASE 6 &nbsp; <span style="font-size: 50%; color:#b82460"><em>post</em></span></h1> -->
 </section>  
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-image="homework.jpg" data-background-opacity="0.2" data-transition="convex">
 
 <h3 class="r-fit-text" style="color:#8A4117">Lavoro in autonomia</h3>
   <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
@@ -681,62 +663,34 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2>bibliografia</h2>
-  <ul class="r-fit-text" style="font-size: 80%;">
+  <ul class="r-fit-text" style="font-size: 70%;">
     <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
-    <li>D.P.R. $89 / 2010$ (Regolamento licei)</li>
+    <li>D.P.R. 89 / 2010 (Regolamento licei)</li>
     <li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
     <li>L.107/2015 (Buona Scuola)</li>
     <li>D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li>
-
     <li>DPR 122/2009 (valutazioni)</li>
     <li>DPR 275/99 (autonomia istituzioni scolastiche)</li>
     <li>L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li>
-
     <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li>
     <li>Zanichelli, Matematica Blu 2.0, vol. 4</li>
   </ul>
 </section>
 
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!-- <h2>bibliografia</h2> -->
-<!-- <ul class="r-fit-text" style="font-size: 80%;"> -->
-<!-- <li style="color:#8A4117; font-size: 50%">RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li> -->
-<!-- <li style="font-size: 80%">D.P.R. $89 / 2010$ (Regolamento licei)</li> -->
-<!-- <li style="color:#8A4117">P.N.S.D. (Piano Nazionale Scuola Digitale)</li> -->
-<!-- <li style="color:#8A4117">L.107/2015 (Buona Scuola)</li> -->
-<!-- <li style="font-size: 80%">D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li> -->
-<!---->
-<!-- <li style="font-size: 80%">DPR 122/2009 (valutazioni)</li> -->
-<!-- <li style="color:#8A4117">DPR 275/99 (autonomia istituzioni scolastiche)</li> -->
-<!-- <li style="font-size: 80%">L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li> -->
-<!---->
-<!-- <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li> -->
-<!-- <li>Zanichelli, Matematica Blu 2.0, vol. 4</li> -->
-<!-- </ul> -->
-<!-- </section> -->
-
 ---
 
-<!-- <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
-<!-- <img src="5.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;"> -->
-<!--   </section> -->
 <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <!-- <img src="5.png" alt="2" -->
-  <!--     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7"> -->
   <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
   <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
 </section>
-<!-- <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
-<!--   <!-- <h2 style="color:#8A4117" class="r-fit-text">CREARE CONNESSIONI</h2> -->
-<!--   <p style="font-family: 'Josefin Slab'; font-size:60px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p> -->
-<!-- </section> -->
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <q style="font-family: 'Josefin Slab'; font-size:50px; text-align: justify-left;" data-transition="convex">La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. La potenza di un modello matematico è nella sua semplicità e generalità. - Carl Boyer</q>
+ <p style="font-size:42px; text-align: justify-left;"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <q style="font-family: 'Josefin Slab'; font-size:50px; text-align: justify-left;" data-transition="convex">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b></span></q>
+<p style="font-size:42px; text-align:justify-left;">La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b>collegare concetti</b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b>spirito critico</b></span></p>
 </section>
 
 <section data-background-color="#EFEFEF" data-transition="zoom">

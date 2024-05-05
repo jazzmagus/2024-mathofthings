@@ -170,3 +170,10 @@ tr {
 td {
   border: none;
 }
+
+.slabo-13px-regular {
+  font-family: "Slabo 13px", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
