@@ -7,7 +7,7 @@
   flex: 1; /* Existing rule for equal column width */
   border-radius: 5px; /* Existing rule for border radius */
   padding: 10px; /* Existing rule for padding */
-  text-align: justify-left; /* Existing rule for text justification */
+  text-align: left; /* Existing rule for text justification */
   margin: 0 5px; /* Existing rule for margin */
   backdrop-filter: blur(5px); /* Existing rule for blurred background */
 }
@@ -22,7 +22,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .columns {
     flex-direction: column;
   }
