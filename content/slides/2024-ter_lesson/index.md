@@ -84,17 +84,6 @@ slides:
   </table>
 </section>
 
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2> -->
-<!--   <iframe -->
-<!--     id="inlineFrameExample" -->
-<!--     title="Inline Frame Example" -->
-<!--     width="350" -->
-<!--     height="300" -->
-<!--     src="../2024-ter_lesson/Divisione e Ruffini-Flipped Classroom-contest_prize.pdf"> -->
-<!--   </iframe> -->
-<!-- </section> -->
-
 ---
 
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.3" data-transition="convex">
@@ -117,9 +106,7 @@ slides:
     </tr>
     <tr>
       <td><b>contesto territoriale</b></td>
-      <td style="font-size:75%">L'itituto è inserito in un territorio
-        fortemente orientato all'agricoltura e alla piccola
-        industria/artigianato<b></td>
+      <td style="font-size:75%">L'itituto è inserito in un territorio fortemente orientato all'agricoltura e alla piccola industria/artigianato<b></td>
     </tr>
     <tr>
       <td><b>classe</b></td>
@@ -177,19 +164,29 @@ slides:
     </tr>
   </table>
 </section>
-
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+</section>
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+<ul style="color:#392613; text-align:left;">
+    <li>La diagnosi clinica viene redatta da professionisti esperti</li>
+    <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
+    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-link fa-sm"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+  </ul></section>
+
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
   <ul style="color:#392613; text-align:left;">
     <li>La diagnosi clinica viene redatta da professionisti esperti</li>
     <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-square-up-right"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+    allo studenti li conosce lo studente</li>
   </ul>
 </section>
 
-<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
     <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
@@ -197,8 +194,8 @@ slides:
   </ul>
 </section>
 
-<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
   <ul style="color:#392613; text-align:left;">
     <li>contatto personale continuo, anche e soprattutto extra-scolastico:
@@ -207,11 +204,17 @@ slides:
   </ul>
 </section>
 
-<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
-  <h4 style="color:#392613; text-align:left;">teorema fondamentele
-    dell'inclusione</h4>
+  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
+
+ <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
+ <div class="card">
+  <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una
+    scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
+<h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4>
+  <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
+</div>
 </section>
 
 ---
@@ -229,7 +232,7 @@ slides:
   <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3>
   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
   <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
-  <table class="fragment" width="100%">
+  <table style="font-size:80%; color:#392613" width="95%">
     <tr>
       <td style="font-size:60%" width="40.0%"><b>competenze</b></td>
       <td style="font-size:60%" width="60.0%"><b>descrizione</b></td>
@@ -265,13 +268,13 @@ slides:
   </table>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
   <h4 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h4>
   <!-- <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5> -->
   <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
   <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
-  <table style="font-size:80%; color:#392613" width="95%">
+  <table style="font-size:70%; color:#392613" width="95%">
     <tr>
       <td width="40.0%"><b>competenze</b></td>
       <td width="60.0%"><b>descrizione</b></td>
@@ -296,14 +299,55 @@ slides:
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
-  <h5><b>Competenze di base - Istituti Tecnici</b></h5><em>
-    <h5 style="color:#8A4117">secondo biennio e quinto anno</h5>
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
+  <h5 style="text-align:left;"><b>Competenze di base - Istituti Tecnici</b></h5><em>
+    <h5 style="text-align:left; color:#8A4117">secondo biennio e quinto anno</h5>
     <ul style="font-size:70%">
       <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
       <li>Utilizzare le strategie del pensiero razionale negli aspetti dialettici e algoritmici per affrontare situazioni problematiche, elaborando opportune soluzioni</li>
       <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
       <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
+    </ul></em>
+</section>
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
+  </section>
+
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h4 style="text-align:left; color:#8A4117" >COMPETENZE CURRICOLARI</h4> -->
+<!--   <h5 style="text-align:left;"><b>conoscenze</b></h5><em> -->
+<!--     <ul style="font-size:70%"> -->
+<!--       <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li> -->
+<!--       <li>Rappresentazione degli insiemi numerici su una retta orientata.</li> -->
+<!--     </ul></em> -->
+<!-- </section> -->
+
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
+  <div class="fragment">
+<div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
+    <ul style="font-size:70%">
+      <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li>
+      <li>Rappresentazione degli insiemi numerici su una retta orientata.</li>
+    </ul></em>
+</div>
+  <div class="fragment">
+<div class="card"><h5 style="text-align:left;"><b>abilità</b></h5><em>
+    <ul style="font-size:70%">
+      <li>Eseguire i calcoli con i numeri degli insiemi numerici $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$</li>
+      <li>Scomporre un numero naturale in fattori primi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.</li>
+      <li>Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.</li>
+    </ul></em>
+    </div>
+</div>
+</section>
+
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
+<div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
+    <ul style="font-size:70%">
+      <li>Utilizzare le tecniche e le procedure del calcolo aritmetico e algebrico, rappresentandole anche sotto forma grafica.</li>
+      <li>Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio di rappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.</li>
     </ul></em>
 </section>
 
@@ -424,34 +468,34 @@ slides:
 
   <table class="r-fit-text" style="font-size:85%" width="90%">
     <tr>
-      <td style="color:#8A4117" width="20.0%"><em>Fase 1</em></td>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 1</td>
       <td width="50.0%">Questioning</td>
       <td width="10.0%">$5^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="20.0%"><em>Fase 2</em></td>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 2</td>
       <td width="50.0%">Framing - <em>mindmapping</em></td>
       <td width="10.0%">$5^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="20.0%"><em>Fase 3</em></td>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 3</td>
       <td width="50.0%">Active</td>
       <td width="10.0%">$15^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="20.0%"><em>Fase 4</em></td>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 4</td>
       <td width="50.0%">Lab & Cooperative-learning</td>
       <td width="10.0%">$20^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117" width="20.0%"><em>Fase 5</em></td>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 5</td>
       <td width="50.0%">Recap</td>
       <td width="10.0%">$10^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#eb432aff" width="20.0%"><em>Fase 6</em></td>
-      <td style="color:#eb432aff" width="50.0%"><em>homework</em></td>
-      <td style="color:#eb432aff" width="10.0%"><em>post</em></td>
+      <td style="color:#eb432aff; font-size:70%" width="20.0%">Fase 6</td>
+      <td style="color:#eb432aff" width="50.0%"><em>homeworks</em></td>
+      <td style="color:#eb432aff" width="10.0%"><em>post lesson</em></td>
     </tr>
   </table>
 </section>
@@ -623,6 +667,17 @@ slides:
 <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
 </section>
 
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2>
+  <iframe
+    id="inlineFrameExample"
+    title="Inline Frame Example"
+    width="450"
+    height="400"
+    src="https://www.geogebra.org/m/zzedcypj">
+  </iframe>
+</section>
+
 ---
 
 <section data-background-image="recap.jpg" data-background-opacity="0.3" data-transition="convex">
@@ -648,7 +703,7 @@ slides:
 ---
 
 <section data-background-image="homework.jpg" data-background-opacity="0.3" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#8A4117">HOMEWORKS </h1>
+  <h1 class="r-fit-text" style="color:#EB442A">HOMEWORKS </h1>
   <!-- <h1 style="color:#8A4117">FASE 6 &nbsp; <span style="font-size: 50%; color:#b82460"><em>post</em></span></h1> -->
 </section>  
 <section data-background-image="homework.jpg" data-background-opacity="0.2" data-transition="convex">
@@ -670,7 +725,7 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2>bibliografia</h2>
-  <ul class="r-fit-text" style="font-size: 70%;">
+  <ul style="font-size:64%;">
     <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
     <li>D.P.R. 89 / 2010 (Regolamento licei)</li>
     <li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
@@ -700,9 +755,9 @@ slides:
  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
   <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
-<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <p style="font-size:50px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p>
-</section>
+<!-- <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
+<!--   <p style="font-size:50px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p> -->
+<!-- </section> -->
 
 <section data-background-color="#EFEFEF" data-transition="zoom">
   <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
