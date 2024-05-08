@@ -23,9 +23,9 @@ slides:
   <!-- <link rel="stylesheet" href="carte.css"> -->
   <!-- <link rel="stylesheet" href="circular-cards.css"> -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Slabo+13px&display=swap" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Slabo+13px&display=swap" rel="stylesheet">
 </head>
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
@@ -41,7 +41,7 @@ slides:
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
-     traccia n. $25$:</h3>
+    traccia n. $25$:</h3>
   <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
@@ -169,10 +169,10 @@ slides:
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-<ul style="color:#392613; text-align:left;">
+  <ul style="color:#392613; text-align:left;">
     <li>La diagnosi clinica viene redatta da professionisti esperti</li>
     <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-link fa-sm"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+      allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-link fa-sm"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul></section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -181,7 +181,7 @@ slides:
   <ul style="color:#392613; text-align:left;">
     <li>La diagnosi clinica viene redatta da professionisti esperti</li>
     <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-    allo studenti li conosce lo studente</li>
+      allo studenti li conosce lo studente</li>
   </ul>
 </section>
 
@@ -209,12 +209,12 @@ slides:
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
 
  <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
- <div class="card">
-  <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una
-    scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
-<h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4>
-  <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
-</div>
+  <div class="card">
+    <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una
+      scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
+    <h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4>
+    <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
+  </div>
 </section>
 
 ---
@@ -228,45 +228,159 @@ slides:
   <h1 class="r-fit-text" style="color:#3B2F2F">COMPETENZE</h1>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3>
-  <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
-  <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
-  <table style="font-size:80%; color:#392613" width="95%">
-    <tr>
-      <td style="font-size:60%" width="40.0%"><b>competenze</b></td>
-      <td style="font-size:60%" width="60.0%"><b>descrizione</b></td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>imparare ad imparare</em></td>
-      <td style="font-size:50%" width="60.0%">organizzare il proprio apprendimento</td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>saper progettare</em></td>
-      <td style="font-size:50%" width="60.0%">elaborare e realizzare progetti</td>  
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>saper comunicare</em></td>
-      <td style="font-size:50%" width="60.0%">presentare in modo efficace</td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>collaborare e partecipare</em></td>
-      <td style="font-size:50%" width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>problem solving</em></td>
-      <td style="font-size:50%" width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>imparare a collegare</em></td>
-      <td style="font-size:50%" width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td>
-    </tr>
-    <tr>
-      <td style="font-size:55%" width="40.0%"><em>verificare l'informazione</em></td>
-      <td style="font-size:50%" width="60.0%">formare e coltivare uno spirito critico</td>
-    </tr>
-  </table>
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h1 class="r-fit-text"> COMPETENZE CHIAVE</h1>
+  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
+  <div class="columns">
+    <div class="column left">
+      <h4 style="text-align:left;"><b>EUROPEE</b></h4>
+      <ul style="font-size:58%">
+        <li>competenza alfabetica funzionale;</li>
+        <li>competenza multilinguistica;</li>
+        <li>competenza matematica e competenza di base in scienze e tecnologie;</li>
+        <li>competenza digitale;</li>
+        <li>competenza personale, sociale e capacità di imparare ad imparare;</li>
+        <li>competenza sociale e civica in materia di cittadinanza;</li>
+        <li>competenza imprenditoriale;</li>
+        <li>competenza in materia di consapevolezza ed espressione culturali.</li>
+      </ul>
+    </div>
+    <div class="column right">
+      <img src="keys.png" alt="2" style="text-align:center;height:500px;">
+    </div>
+  </div>
 </section>
+<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h1 class="r-fit-text"> COMPETENZE CHIAVE</h1>
+  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
+  <div class="columns">
+    <div class="column left">
+      <img src="comunity.png" alt="2" style="text-align:center;width:500px;height:500px;opacity:0.7">
+    </div>
+    <div class="column right">
+      <h4 style="text-align:left;"><b>DI CITTADINANZA</b></h4>
+      <ul style="font-size:58%">
+        <li>competenza alfabetica funzionale;</li>
+        <li>competenza multilinguistica;</li>
+        <li>competenza matematica e competenza di base in scienze e tecnologie;</li>
+        <li>competenza digitale;</li>
+        <li>competenza personale, sociale e capacità di imparare ad imparare;</li>
+        <li>competenza sociale e civica in materia di cittadinanza;</li>
+        <li>competenza imprenditoriale;</li>
+        <li>competenza in materia di consapevolezza ed espressione culturali.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE -->
+<!--     CHIAVE</h2> -->
+<!--   <div class="fragment"> -->
+<!-- <div class="card"> -->
+<!--       <h5 style="text-align:left;"><b>europee</b></h5> -->
+<!--     <ul style="font-size:58%"> -->
+<!--       <li>competenza alfabetica funzionale;</li> -->
+<!--         <li>competenza multilinguistica;</li> -->
+<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
+<!--         <li>competenza digitale;</li> -->
+<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
+<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
+<!--         <li>competenza imprenditoriale;</li> -->
+<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
+<!--     </ul> -->
+<!-- </div> -->
+<!--   <div class="fragment"> -->
+<!-- <div class="card"> -->
+<!--         <h5 style="text-align:left;"><b>di cittadinanza</b></h5> -->
+<!--     <ul style="font-size:58%"> -->
+<!--       <li>imparare ad imparare</li> -->
+<!--         <li>competenza multilinguistica;</li> -->
+<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
+<!--         <li>competenza digitale;</li> -->
+<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
+<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
+<!--         <li>competenza imprenditoriale;</li> -->
+<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
+<!--     </ul> -->
+<!--     </div> -->
+<!-- </div> -->
+<!-- </section> -->
+
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h3 class="r-fit-text">COMPETENZE CHIAVE </h3> -->
+<!--   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> All. 2 D.M. n. 139 del 22.08.2007 </h4> -->
+<!--   <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
+<!--    <!-- <h1 class="r-fit-text">elaborazione delle idee</h1> -->
+<!--   <div class="columns, r-fit-text"> -->
+<!--     <div class="column left"> -->
+<!--       <h3 class="r-fit-text; fragment">EUROPEE</h3> -->
+<!--       <!-- <p class="fragment">Testo della slide nella colonna di sinistra.</p> -->
+<!--       <ul class="r-fit-text; fragment"> -->
+<!--         <li>competenza alfabetica funzionale;</li> -->
+<!--         <li>competenza multilinguistica;</li> -->
+<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
+<!--         <li>competenza digitale;</li> -->
+<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
+<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
+<!--         <li>competenza imprenditoriale;</li> -->
+<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
+<!--       </ul> -->
+<!--     </div> -->
+<!--     <div class="column right"> -->
+<!--       <h3 class="r-fit-text; fragment">DI CITTADINANZA</h3> -->
+<!-- <ul class="r-fit-text; fragment"> -->
+<!--         <li>imparare ad imparare</li> -->
+<!--         <li>competenza multilinguistica;</li> -->
+<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
+<!--         <li>competenza digitale;</li> -->
+<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
+<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
+<!--         <li>competenza imprenditoriale;</li> -->
+<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
+<!--       </ul> -->
+<!--     </div> -->
+<!--   </div></section> -->
+
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
+<!--   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
+<!--   <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
+<!--   <table style="font-size:80%; color:#392613" width="95%"> -->
+<!--     <tr> -->
+<!--       <td style="font-size:60%" width="40.0%"><b>competenze</b></td> -->
+<!--       <td style="font-size:60%" width="60.0%"><b>descrizione</b></td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>imparare ad imparare</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">organizzare il proprio apprendimento</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>saper progettare</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">elaborare e realizzare progetti</td>   -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>saper comunicare</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">presentare in modo efficace</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>collaborare e partecipare</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>problem solving</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>imparare a collegare</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td> -->
+<!--     </tr> -->
+<!--     <tr> -->
+<!--       <td style="font-size:55%" width="40.0%"><em>verificare l'informazione</em></td> -->
+<!--       <td style="font-size:50%" width="60.0%">formare e coltivare uno spirito critico</td> -->
+<!--     </tr> -->
+<!--   </table> -->
+<!-- </section> -->
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
@@ -311,7 +425,7 @@ slides:
 </section>
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
-  </section>
+</section>
 
 <!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
 <!--   <h4 style="text-align:left; color:#8A4117" >COMPETENZE CURRICOLARI</h4> -->
@@ -325,26 +439,26 @@ slides:
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
   <div class="fragment">
-<div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
-    <ul style="font-size:70%">
-      <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li>
-      <li>Rappresentazione degli insiemi numerici su una retta orientata.</li>
-    </ul></em>
-</div>
-  <div class="fragment">
-<div class="card"><h5 style="text-align:left;"><b>abilità</b></h5><em>
-    <ul style="font-size:70%">
-      <li>Eseguire i calcoli con i numeri degli insiemi numerici $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$</li>
-      <li>Scomporre un numero naturale in fattori primi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.</li>
-      <li>Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.</li>
-    </ul></em>
+    <div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
+      <ul style="font-size:70%">
+        <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li>
+        <li>Rappresentazione degli insiemi numerici su una retta orientata.</li>
+      </ul></em>
     </div>
-</div>
+    <div class="fragment">
+      <div class="card"><h5 style="text-align:left;"><b>abilità</b></h5><em>
+        <ul style="font-size:70%">
+          <li>Eseguire i calcoli con i numeri degli insiemi numerici $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$</li>
+          <li>Scomporre un numero naturale in fattori primi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.</li>
+          <li>Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.</li>
+        </ul></em>
+      </div>
+    </div>
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-<div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
+  <div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
     <ul style="font-size:70%">
       <li>Utilizzare le tecniche e le procedure del calcolo aritmetico e algebrico, rappresentandole anche sotto forma grafica.</li>
       <li>Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio di rappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.</li>
@@ -421,7 +535,7 @@ slides:
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <img src="5.png" alt="2"
     style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
-  <h1 style="color:#8A4117" class="r-fit-text">STRUMENTI <br> DIDATTICI</h1>
+  <h1 style="color:#4E3319" class="r-fit-text">STRUMENTI <br> DIDATTICI</h1>
 </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="color:#3B2F2F">TIC avanzate</h2>
@@ -538,7 +652,7 @@ slides:
 <section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F" class="fragment"> FRAMING </h2> -->
   <ul>
-    <li style="color:#b82460; font-size: 80%;"><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
+    <li><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
     <ul class="fragment" style="font-size: 82%;">
       <li><b><em>prerequisiti</b>: da dove veniamo</em></li>
       <li><b><em>obiettivi</b>: dove dobbiamo andare</em></li>
@@ -670,8 +784,8 @@ slides:
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2>
   <iframe
-    id="inlineFrameExample"
-    title="Inline Frame Example"
+    id="inlineFrame_01"
+    title="Geogebra - diego fantinelli"
     width="450"
     height="400"
     src="https://www.geogebra.org/m/zzedcypj">
@@ -691,7 +805,7 @@ slides:
   <h3 style="color:#3B2F2F">Recap</h3>
   <ul class="fragment">
     <ul>
-      <ul style="font-size: 80%;">
+      <ul style="font-size: 90%;">
         <li>qual è stato l'obiettivo della lezione?</li>
         <li>cos'è rimasto della trattazione?</li>
         <li>consigli per lo studio individuale</li>
@@ -747,12 +861,12 @@ slides:
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
- <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
   <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
- <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
   <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
 <!-- <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
