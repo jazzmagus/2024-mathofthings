@@ -177,3 +177,13 @@ td {
   font-style: normal;
 }
 
+body {
+  counter-reset: theorem;
+}
+p.theorem {
+  display: block;
+}
+p.theorem::before {
+  counter-increment: theorem;
+  content: "Theorem " counter(theorem) " \2014 ";
+}

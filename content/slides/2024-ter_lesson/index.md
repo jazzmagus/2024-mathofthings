@@ -34,7 +34,7 @@ slides:
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="620">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
-  <h4 style="color##342A2A">Diego Fantinelli - C.d.C. MATEMATICA A026</h4>
+  <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
   <h4>Concorso Straordinario Ter - DM 25.05.2021 n. 73</h4>
   <!-- <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p> -->
 </section>
@@ -130,7 +130,7 @@ slides:
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
   <h3 style="color:#3B2F2F"> la classe</h3>
-  <table style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
+  <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
     <tr>
       <td><b>classe</b></td>
       <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
@@ -162,7 +162,7 @@ slides:
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F">FRAGILITÀ</h2> -->
   <h3 style="color:#b82460;">La Classe come COMUNITÀ</h3>
-  <table class="fragment" style="color:#342A2A;" width="100%">
+  <table class="fragment" style="color:#342A2A; font-size:100%" width="100%">
     <tr>
       <td><b>tipologia<br>documentazione</b></td>
       <td style="font-size:90%"><i></b><em>analisi delle certificazioni: <br>BES, L.104/1992, sostegno, GLO, DSA L.170/2010, D.M. 27/12/2012 e C.M. 08/2013</em><i></td>
@@ -179,22 +179,19 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#EA580C;">OLTRE il<br>P.d.P.</h1>
-</section>
-<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
-  <ul style="color:#392613; font-size:86%; text-align:left;">
+  <ul style="color:#392613; text-align:left;">
     <li>La diagnosi clinica viene redatta da professionisti esperti</li>
     <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-square-up-right"></i><a style="font-size:80%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+    allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-square-up-right"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul>
 </section>
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
-  <ul style="color:#392613; font-size:86%; text-align:left;">
+  <ul style="color:#392613; text-align:left;">
     <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
     <li><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
   </ul>
@@ -203,7 +200,7 @@ slides:
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
-  <ul style="color:#392613; font-size:86%; text-align:left;">
+  <ul style="color:#392613; text-align:left;">
     <li>contatto personale continuo, anche e soprattutto extra-scolastico:
       <em>"come va?"</em></li>
     <li>collaborazione attiva con eventuali figure di supporto extra-scolastico</li>
@@ -211,14 +208,10 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-file-signature'></i>
-    VALUTAZIONE EMPATICA</h3>
-  <ul style="color:#392613; font-size:86%; text-align:left;">
-    <li>contatto personale continuo, anche e soprattutto extra-scolastico:
-      <em>"Come va? Cosa ti ha messo più in difficoltà nell'ultima verifica? "</em></li>
-    <li><em>valutazione empatica</em>: "...in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma" $\neq$ <em> effetto alone</em><br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
-  </ul>
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
+  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
+  <h4 style="color:#392613; text-align:left;">teorema fondamentele
+    dell'inclusione</h4>
 </section>
 
 ---
@@ -317,49 +310,11 @@ slides:
 ---
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text">COMPETENZE<br>DISCIPLINARI</h1>
-</section>
-<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h2 class="r-fit-text">COMPETENZE DISCIPLINARI</h2>
-  <div class="columns">
-    <div class="column left, fragment">
-      <h4>ABILITÀ</h4>
-      <p>Testo della slide nella colonna di sinistra.</p>
-      <ul style="font-size:80%" text-align:left">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-      </ul>
-    </div>
-    <div class="column right, fragment">
-      <h4>CONOSCENZE</h4>
-      <p>Testo della slide nella colonna di sinistra.</p>
-      <ul style="font-size:80%, text-align:left">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-      </ul>
-    </div>
-  </div>
-</section>
-
-<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h2 class="r-fit-text">COMPETENZE DISCIPLINARI</h2>
-      <h3>COMPETENZE</h3>
-      <p>Testo della slide nella colonna di sinistra.</p>
-      <ul style="font-size:80%" text-align:left">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-      </ul>
-</section>
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#3B2F2F">UNITÀ<br>DIDATTICA</h1>
+  <h1 style="color:#3B2F2F">UNITÀ DIDATTICA</h1>
+  <!-- <h1 style="color:#3B2F2F">di</h1> -->
   <h2 class="fragment fade-left r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2>
 </section>
+
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
   <img class="r-fit-text" src="mappo.png" alt="neovim"
@@ -692,8 +647,8 @@ slides:
 
 ---
 
-<section data-background-image="homework.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#4E3319">HOMEWORKS </h1>
+<section data-background-image="homework.jpg" data-background-opacity="0.3" data-transition="convex">
+  <h1 class="r-fit-text" style="color:#8A4117">HOMEWORKS </h1>
   <!-- <h1 style="color:#8A4117">FASE 6 &nbsp; <span style="font-size: 50%; color:#b82460"><em>post</em></span></h1> -->
 </section>  
 <section data-background-image="homework.jpg" data-background-opacity="0.2" data-transition="convex">
@@ -737,8 +692,16 @@ slides:
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
- <p style="font-size:42px; text-align:justify-left;"><em>La matematica è una scienza di modelli.<br>Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali.<br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+ <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
   <span style="font-size: 36px;">&mdash; Carl Boyer</span>
+</section>
+
+<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+ <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <span style="font-size: 36px;">&mdash; Carl Boyer</span>
+</section>
+<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <p style="font-size:50px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p>
 </section>
 
 <section data-background-color="#EFEFEF" data-transition="zoom">
