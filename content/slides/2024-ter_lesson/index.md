@@ -467,21 +467,6 @@ slides:
 
 ---
 
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 style="color:#3B2F2F">UNITÀ DIDATTICA</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <h2 class="fragment fade-left r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2>
-</section>
-
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
-  <img class="r-fit-text" src="mappo.png" alt="neovim"
-    style="opacity:0.8">
-    <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
-</section>
-
----
-
 <section data-auto-animate data-background-image="puzzle.jpg" data-background-opacity="0.4" data-transition="convex">
   <img src="4.png" alt="2" style="width:500px;height:500px;color:#3B2F2F;opacity:0.7">
 </section>
@@ -573,13 +558,65 @@ slides:
 
 ---
 
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE<br>DIDATTICA</h1>
+  <!-- <h1 style="color:#3B2F2F">di</h1> -->
+  <!-- <h2 class="fragment fade-left r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2> -->
+</section>
+
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
+  <!-- <h1 style="color:#3B2F2F">di</h1> -->
+  <h2 class="r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2>
+  <table class="r-fit-text" style="font-size:70%" width="90%">
+    <tr>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 1</td>
+      <td width="50.0%">Questioning</td>
+      <td width="10.0%">$5^{\prime}$</td>
+    </tr>
+    <tr>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 2</td>
+      <td width="50.0%">Framing - <em>mindmapping</em></td>
+      <td width="10.0%">$5^{\prime}$</td>
+    </tr>
+    <tr>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 3</td>
+      <td width="50.0%">Active</td>
+      <td width="10.0%">$15^{\prime}$</td>
+    </tr>
+    <tr>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 4</td>
+      <td width="50.0%">Lab & Cooperative-learning</td>
+      <td width="10.0%">$20^{\prime}$</td>
+    </tr>
+    <tr>
+      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 5</td>
+      <td width="50.0%">Recap</td>
+      <td width="10.0%">$10^{\prime}$</td>
+    </tr>
+    <tr>
+      <td style="color:#eb432aff; font-size:70%" width="20.0%">Fase 6</td>
+      <td style="color:#eb432aff" width="50.0%"><em>homeworks</em></td>
+      <td style="color:#eb432aff" width="10.0%"><em>post lesson</em></td>
+    </tr>
+  </table>
+</section>
+
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
+  <img class="r-fit-text" src="mappo.png" alt="neovim"
+    style="opacity:0.8">
+    <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
+</section>
+
+---
+
 <section data-background-image="pile.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h1 class="r-fit-text" data-auto-animate style="color:#4E3319">ATTIVITÀ<br>DIDATTICA</h1>
+  <h1 data-auto-animate style="color:#4E3319">ATTIVITÀ<br>DIDATTICA</h1>
 </section>
 <section data-background-image="pile.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#22D3EE">programma</h2> -->
-  <!-- <h3 style="color:#3B2F2F">ATTIVITÀ DIDATTICA </h3> -->
-
+  <h3 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-list'></i> PROGETTAZIONE ATTIVITÀ DIDATTICA </h3>
   <table class="r-fit-text" style="font-size:85%" width="90%">
     <tr>
       <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 1</td>

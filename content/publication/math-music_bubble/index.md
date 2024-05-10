@@ -100,6 +100,7 @@ L'**educazione inclusiva** prevede l'utilizzo di una serie di strategie e tecnic
 
 #### **Studio di caso: La Math-Music Bubble per le verifiche di matematica**
 
+![anx](anx_01.jpeg)
 Nella didattica della matematica ho sempre cercato riferimenti, spunti o metodologie che potessero rendere più efficace la mia azione didattica, soprattutto quando si tratta di supportare studenti con situazioni di rendimento condizionate da certificazioni BES.
 
 Il collegamento tra matematica e musica d’altro canto ha radici molto lontane nel tempo, basti pensare alle riflessioni di Pitagora (575 ca. - 490 a.C.) sulla rilevanza etica ed educativa della musica nella formazione del cittadino e nelle sue attività quotidiane.
@@ -153,6 +154,8 @@ Purtroppo non è trascurabile – e va pertanto messo in conto - lo scetticismo 
 Le sensibilità dei ragazzi in età scolare sono cambiate molto nel corso degli ultimi anni, e continueranno a farlo, adeguandosi ai ritmi della società la quale è, di per sé, frustrante: essere attenti alle sfumature delle loro personalità, alle loro frustrazioni e angosce, ai cambiamenti che vivono gli studenti è un’abilità fondamentale per l’insegnante che ambisca ad essere anche un buon educatore.
 
 Dal canto suo la scuola, forte di un’autonomia che concede ampi spazi di manovra, potrebbe osare di più nel deviare dai parametri standard, perché prendersi a cuore il percorso scolastico di uno studente, con particolare attenzione agli ostacoli che egli incontra, raramente porta a risultati deludenti.
+
+![anx](anx_02.jpeg)
 
 ---
 
