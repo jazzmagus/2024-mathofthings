@@ -98,8 +98,9 @@ slides:
 
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
-  <h3 style="color:#3B2F2F"> la scuola</h3>
+  <h4 style="text-align:left;color:#3B2F2F"> la scuola</h4>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
+  <p style="text-align:left;font-size:64%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al temitorio con if pieno coinvolgimento delle istituzioni e delle realtà locali.</em> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
       <td>Istituto Tecnico Industriale<br>Meccatronica</td>
@@ -116,7 +117,7 @@ slides:
 </section>
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
-  <h3 style="color:#3B2F2F"> la classe</h3>
+  <h3 style="text-align:left;color:#3B2F2F"> la classe</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
     <tr>
       <td><b>classe</b></td>
@@ -143,9 +144,21 @@ slides:
   <img src="2.png" alt="2"
     style="color:#B91C1C;width:200px;height:200px;opacity:0.7">
   <h2 class="r-fit-text" style="color:#B91C1C">FRAGILITÀ</h2>
-  <!-- <h2 class="r-fit-text" style="color:#3B2F2F">DIDATTICO</h2> -->
+  <h4 class="r-fit-text" style="color:#3B2F2F"><q>Bisogna amare ciò che si insegna,
+  e le persone a cui si insegna</q> &mdash; Platone</h4>
 </section>
 
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
+  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
+
+  <div class="card">
+ <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
+    <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
+      </div>
+    <h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4><p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
+    <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
+</section>
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F">FRAGILITÀ</h2> -->
   <h3 style="color:#b82460;">La Classe come COMUNITÀ</h3>
@@ -164,8 +177,47 @@ slides:
     </tr>
   </table>
 </section>
+
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h3 class="r-fit-text" style="text-align:left;">AUSILI COMPENSATIVI E DISPENSATIVI</h3>
+  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
+  <div class="columns">
+    <div class="column left">
+      <h5 style="text-align:left;"><b>STRUMENTI COMPENSATIVI</b></h5>
+      <ul style="font-size:50%">
+<li>libri digitali, audiolibri;</li>
+<li>libri con testi ridotti;</li>
+<li>tabelle, schemi, scalette e mappe;</li>
+<li>calcolatrice o computer con foglio di calcolo;</li>
+<li>computer con videoscrittura e correttore ortografico;</li>
+<li>computer con sintetizzatore vocale;</li>
+<li>computer con programmi per elaborazione di mappe/schemi;</li>
+<li>vocabolari multimediali/digitali;</li>
+<li>Uso di mappe/ formulari/tabelle/schemi riepilogativi con i nuclei fondanti dell'argomento trattato forniti dal docente;</li>
+<li>predisposizione di testi scritti utilizzando caratteri senza grazie (es. Verdana/Arial) di dimensione 14/16, interlinea almeno 1,5;</li>
+<li>sintesi delle lezioni da parte del docente.</li>
+      </ul>
+    </div>
+    <div class="column right">
+      <h5 style="text-align:left;"><b>MISURE DISPENSATIVE</b></h5>
+<ul style="font-size:50%">
+<li>dalla lettura ad alta voce;</li>
+<li>dal prendere appunti;</li>
+<li>dalla dettatura di testi o appunti;</li>
+<li>dal copiare dalla lavagna;</li>
+<li>dalla scrittura in corsivo;</li>
+<li>dai tempi standard (prevedere tempi più lunghi per le prove o riduzione quantitativa della consegna pur mantenendo gli stessi obiettivi);</li>
+<li>dal carico eccessivo di compiti assegnati per casa;</li>
+<li>dall'effettuazione di più prove valutative in tempi ravicinati;</li>
+<li>dallo studio mnemonico di formule, tabelle, definizioni.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
+  <h4 class="fragment r-fit-text">Le mie azioni per l'inclusione</h4>
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
@@ -204,19 +256,6 @@ slides:
   </ul>
 </section>
 
-<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
-
- <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
-  <div class="card">
-    <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una
-      scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
-    <h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4>
-    <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
-  </div>
-</section>
-
 ---
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
@@ -229,12 +268,14 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h1 class="r-fit-text"> COMPETENZE CHIAVE</h1>
+  <h3 style="text-align:left;"> COMPETENZE CHIAVE</h3>
   <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
+  <p style="text-align:left;font-size:35%"><i class='far fa-bookmark'></i> Combinazione di conoscenze, abilità e attitudini appropriate al contesto. Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personale, la cittadinanza attiva, l'inclusione sociale e l'occupazione.</p>
+  <p style="text-align:left;font-size:40%">Raccomandazione del Parlamento Europeo (18 dicembre 2006, aggiornate il 22 maggio 2018) Quadro Europeo delle Qualifiche (2008)</p>
   <div class="columns">
     <div class="column left">
       <h4 style="text-align:left;"><b>EUROPEE</b></h4>
-      <ul style="font-size:58%">
+      <ol style="font-size:50%">
         <li>competenza alfabetica funzionale;</li>
         <li>competenza multilinguistica;</li>
         <li>competenza matematica e competenza di base in scienze e tecnologie;</li>
@@ -243,148 +284,41 @@ slides:
         <li>competenza sociale e civica in materia di cittadinanza;</li>
         <li>competenza imprenditoriale;</li>
         <li>competenza in materia di consapevolezza ed espressione culturali.</li>
-      </ul>
+      </ol>
     </div>
     <div class="column right">
-      <img src="keys.png" alt="2" style="text-align:center;height:500px;">
+      <img src="key.png" alt="2" style="text-align:center;width:450px;">
     </div>
   </div>
+  <!-- <p style="text-align:left;font-size:40%">Raccomandazione del Parlamento Europeo (18 dicembre 2006, aggiornate il 22 maggio 2018) Quadro Europeo delle Qualifiche (2008)</p> -->
 </section>
 <section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h1 class="r-fit-text"> COMPETENZE CHIAVE</h1>
-  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
+  <h3 style="text-align:left;"> COMPETENZE CHIAVE</h3>
+  <p style="text-align:left;font-size:35%"><i class='far fa-bookmark'></i> Combinazione di conoscenze, abilità e attitudini appropriate al contesto. Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personale, la cittadinanza attiva, l'inclusione sociale e l'occupazione.</p>
+  <p style="text-align:left;font-size:40%">D.M. 139/2019</p>  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
   <div class="columns">
     <div class="column left">
-      <img src="comunity.png" alt="2" style="text-align:center;width:500px;height:500px;opacity:0.7">
+      <img src="comunity.png" alt="2" style="text-align:center;width:400px;opacity:0.7">
     </div>
     <div class="column right">
       <h4 style="text-align:left;"><b>DI CITTADINANZA</b></h4>
-      <ul style="font-size:58%">
-        <li>competenza alfabetica funzionale;</li>
-        <li>competenza multilinguistica;</li>
-        <li>competenza matematica e competenza di base in scienze e tecnologie;</li>
-        <li>competenza digitale;</li>
-        <li>competenza personale, sociale e capacità di imparare ad imparare;</li>
-        <li>competenza sociale e civica in materia di cittadinanza;</li>
-        <li>competenza imprenditoriale;</li>
-        <li>competenza in materia di consapevolezza ed espressione culturali.</li>
-      </ul>
+      <ol style="font-size:58%">
+        <li>Imparare ad imparare</li>
+        <li>Progettare</li>
+        <li>Comunicare</li>
+        <li>Collaborare e partecipare</li>
+        <li>Agire in modo autonomo e responsabile</li>
+        <li>Problem solving</li>
+        <li>Individuare collegamenti e relazioni</li>
+        <li>Acquisire ed interpretare l'informazione</li>
+      </ol>
     </div>
   </div>
 </section>
 
-<!-- <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE -->
-<!--     CHIAVE</h2> -->
-<!--   <div class="fragment"> -->
-<!-- <div class="card"> -->
-<!--       <h5 style="text-align:left;"><b>europee</b></h5> -->
-<!--     <ul style="font-size:58%"> -->
-<!--       <li>competenza alfabetica funzionale;</li> -->
-<!--         <li>competenza multilinguistica;</li> -->
-<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
-<!--         <li>competenza digitale;</li> -->
-<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
-<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
-<!--         <li>competenza imprenditoriale;</li> -->
-<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
-<!--     </ul> -->
-<!-- </div> -->
-<!--   <div class="fragment"> -->
-<!-- <div class="card"> -->
-<!--         <h5 style="text-align:left;"><b>di cittadinanza</b></h5> -->
-<!--     <ul style="font-size:58%"> -->
-<!--       <li>imparare ad imparare</li> -->
-<!--         <li>competenza multilinguistica;</li> -->
-<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
-<!--         <li>competenza digitale;</li> -->
-<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
-<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
-<!--         <li>competenza imprenditoriale;</li> -->
-<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
-<!--     </ul> -->
-<!--     </div> -->
-<!-- </div> -->
-<!-- </section> -->
-
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h3 class="r-fit-text">COMPETENZE CHIAVE </h3> -->
-<!--   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> All. 2 D.M. n. 139 del 22.08.2007 </h4> -->
-<!--   <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
-<!--    <!-- <h1 class="r-fit-text">elaborazione delle idee</h1> -->
-<!--   <div class="columns, r-fit-text"> -->
-<!--     <div class="column left"> -->
-<!--       <h3 class="r-fit-text; fragment">EUROPEE</h3> -->
-<!--       <!-- <p class="fragment">Testo della slide nella colonna di sinistra.</p> -->
-<!--       <ul class="r-fit-text; fragment"> -->
-<!--         <li>competenza alfabetica funzionale;</li> -->
-<!--         <li>competenza multilinguistica;</li> -->
-<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
-<!--         <li>competenza digitale;</li> -->
-<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
-<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
-<!--         <li>competenza imprenditoriale;</li> -->
-<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--     <div class="column right"> -->
-<!--       <h3 class="r-fit-text; fragment">DI CITTADINANZA</h3> -->
-<!-- <ul class="r-fit-text; fragment"> -->
-<!--         <li>imparare ad imparare</li> -->
-<!--         <li>competenza multilinguistica;</li> -->
-<!--         <li>competenza matematica e competenza di base in scienze e tecnologie;</li> -->
-<!--         <li>competenza digitale;</li> -->
-<!--         <li>competenza personale, sociale e capacità di imparare ad imparare;</li> -->
-<!--         <li>competenza sociale e civica in materia di cittadinanza;</li> -->
-<!--         <li>competenza imprenditoriale;</li> -->
-<!--         <li>competenza in materia di consapevolezza ed espressione culturali.</li> -->
-<!--       </ul> -->
-<!--     </div> -->
-<!--   </div></section> -->
-
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
-<!--   <!-- <h4 style="color:#3B2F2F; font-size:70%;"> D.M. n. 139/ del 22 agosto 2007 </h4> -->
-<!--   <!-- <p style="color:#6D3234; font-size: 50%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </p> -->
-<!--   <table style="font-size:80%; color:#392613" width="95%"> -->
-<!--     <tr> -->
-<!--       <td style="font-size:60%" width="40.0%"><b>competenze</b></td> -->
-<!--       <td style="font-size:60%" width="60.0%"><b>descrizione</b></td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>imparare ad imparare</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">organizzare il proprio apprendimento</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>saper progettare</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">elaborare e realizzare progetti</td>   -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>saper comunicare</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">presentare in modo efficace</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>collaborare e partecipare</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>problem solving</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>imparare a collegare</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">a. mappe concettuali <br>b. formulare percorsi</td> -->
-<!--     </tr> -->
-<!--     <tr> -->
-<!--       <td style="font-size:55%" width="40.0%"><em>verificare l'informazione</em></td> -->
-<!--       <td style="font-size:50%" width="60.0%">formare e coltivare uno spirito critico</td> -->
-<!--     </tr> -->
-<!--   </table> -->
-<!-- </section> -->
-
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
-  <h4 class="r-fit-text">COMPETENZE SPECIFICHE DISCIPLINARI</h4>
+  <h4 class="r-fit-text">COMPETENZE CHIAVE DISCIPLINARI</h4>
   <!-- <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5> -->
   <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
   <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
@@ -478,15 +412,18 @@ slides:
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <!-- <h1 style="color:#3B2F2F" class="r-fit-text">La VALUTAZIONE</h1> -->
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
-  <table class="fragment" style="font-size:70%; width="95%">
+  <p style="text-align:left; font-size:64%"><em>"La valutazione <b>precede, accompagna e segue</b> i percorsi
+    curricolari. Assume una funzione formativa e di <b>stimolo al miglioramento
+    continuo</b>..."</em> &mdash; MIUR, 2012</p>
+  <table class="fragment" style="font-size:60%; width="95%">
     <tr>
-      <td width="20.0%"><b>competenze</b></td>
+      <td width="20.0%"><b>tipologia</b></td>
       <td width="60.0%"><b>descrizione</b></td>
       <td width="20.0%"><b>quando</b></td>
       <td width="10.0%"><b>esempio</b></td>
     </tr>
     <tr>
-      <td width="30.0%">PREDITTIVA</td>
+      <td width="30.0%">DIAGNOSTICA</td>
       <td width="50.0%">Test anonimo e di autovalutazione </td>
       <td width="20.0%">all'inizio dell'UdA</td>
       <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></a></td>
@@ -567,35 +504,35 @@ slides:
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
   <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <h2 class="r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2>
-  <table class="r-fit-text" style="font-size:70%" width="90%">
+  <!-- <h3 style="text-align:left;color:#3B2F2F">Le equazioni esponenziali</h3> -->
+  <table class="r-fit-text" style="font-size:64%" width="83%">
     <tr>
-      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 1</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 1</td>
       <td width="50.0%">Questioning</td>
       <td width="10.0%">$5^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 2</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 2</td>
       <td width="50.0%">Framing - <em>mindmapping</em></td>
       <td width="10.0%">$5^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 3</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 3</td>
       <td width="50.0%">Active</td>
       <td width="10.0%">$15^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 4</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 4</td>
       <td width="50.0%">Lab & Cooperative-learning</td>
       <td width="10.0%">$20^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:70%" width="20.0%">Fase 5</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 5</td>
       <td width="50.0%">Recap</td>
       <td width="10.0%">$10^{\prime}$</td>
     </tr>
     <tr>
-      <td style="color:#eb432aff; font-size:70%" width="20.0%">Fase 6</td>
+      <td style="color:#eb432aff; font-size:65%" width="20.0%">Fase 6</td>
       <td style="color:#eb432aff" width="50.0%"><em>homeworks</em></td>
       <td style="color:#eb432aff" width="10.0%"><em>post lesson</em></td>
     </tr>
@@ -603,9 +540,9 @@ slides:
 </section>
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2> -->
-  <img class="r-fit-text" src="mappo.png" alt="neovim"
-    style="opacity:0.8">
+  <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2>
+  <img src="prj.png" alt="neovim"
+    style="opacity:1.0">
     <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
 
@@ -712,19 +649,18 @@ slides:
   <h1 class="r-fit-text" style="color:#4E3319">ACTIVE</h1>
   <h2 <span style="color:#b82460">${\small{20'}}$ </span></h2>  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
 </section>
-<section data-background-image="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
   <!-- <ul class="fragment" data-transition="concave">
 <li><h4>Contenuti - Lezione frontale</h4></li><br> -->
-  <ul class="fragment" style="font-size: 80%;" >
+  <ul style="font-size: 90%;" >
     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
     <li><b>consultazione: </b>libro di testo in formato digitale</li>
     <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
     <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
   </ul>
-  <!-- </ul> -->
 </section>
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
 
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
@@ -736,7 +672,7 @@ slides:
   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
 </section>
 
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
 
 <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
 <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
@@ -861,14 +797,17 @@ slides:
 
 <h3 class="r-fit-text" style="color:#8A4117">Lavoro in autonomia</h3>
   <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
-  <ul style="font-size: 80%;">
+  <ul class="fragment" style="font-size: 90%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
-    <!-- <ul> -->
+    <ul style="font-size: 90%;">
     <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
     <li>esercizi assegnati </li>
     <li>attività collaborative - <em>cooperative learning</em></li>
-  </ul><br>
-  <li style="color:#b82460"><em>tutti i materiali vengono condivisi su Google Classroom</em></li>
+  </ul>
+  <br>
+  <li style="color:#EB442A">tutti i materiali vengono condivisi su Google Classroom</li>
+  <li style="color:#EB442A">la modalità "compito" consente un controllo del
+      lavoro dello studente</li>
   </ul>
 </section>
 
