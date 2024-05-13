@@ -42,7 +42,8 @@ slides:
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
     traccia n. $25$:</h3>
-  <h5 class="r-fit-text" style="color:#392613; text-align: justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+  <h6 style="font-size:46%; color:#392613; text-align:justify;"><i class="fas fa-bookmark"></i> PROCEDURA CONCORSUALE STRAORDINARIA 2021 PER DOCENTI NELLA SCUOLA SECONDARIA (ARTICOLO 59, COMMA 9-BIS, DEL DECRETO-LEGGE 25 MAGGIO 2021, N. 73, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 23 LUGLIO 2021, N. 106)</h6>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
 </section>
@@ -65,7 +66,7 @@ slides:
         <ul>
           <li>tipologia e frequenza delle disabilità</li>
           <li>metodologie e scelte didattiche</li>
-          <li>Oltre il P.d.P.</li>
+          <li style="font-size:80%; color:#6D3234"><b>ALLEGATO1: OLTRE IL P.d.P.</b></li>
         </ul>
         </td>
       </tr>
@@ -88,7 +89,7 @@ slides:
       <td width="60.0%">strumenti, metodologie e tecnologie didattiche </td>
     </tr>
     <tr>
-      <td width="40.0%"><p style="color:#EA580C">6. CONTENUTI DELLA LEZIONE</p></td>
+      <td width="40.0%"><p style="color:#EA580C"><b>6. CONTENUTI DELLA LEZIONE</b></p></td>
       <td width="60.0%">contenuti disciplinari relativi all'attività didattica</td>
     </tr>
   </table>
@@ -458,13 +459,155 @@ slides:
       </a></tr>
   </table>
 </section>
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h1 class="r-fit-text" style="color:#3B2F2F;text-align:left">VALUTAZIONE <br> SOMMATIVA</h3>
+</section>
+
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE DELLA PROVA SCRITTA</h4>
+<table style="font-size:35%" border="0">
+    <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
+  <thead>
+    <tr>
+      <th scope="col">Livello</th>
+      <th scope="col">Descrittori</th>
+      <th scope="col">Voto/10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gravemente insufficiente</td>
+      <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Decisamente insufficiente</td>
+      <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
+      <td>3+4</td>
+    </tr>
+    <tr>
+      <td>Insufficiente</td>
+      <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
+      <td>4+5</td>
+    </tr>
+    <tr>
+      <td>Non del tutto insufficiente</td>
+      <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
+      <td>5++6-</td>
+    </tr>
+    <tr>
+      <td>Sufficiente</td>
+      <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Discreto</td>
+      <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
+      <td>6++7</td>
+    </tr>
+    <tr>
+      <td>Buono</td>
+      <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
+      <td>7+÷8</td>
+    </tr>
+    <tr>
+      <td>Ottimo</td>
+      <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
+      <td>8++9</td>
+    </tr>
+    <tr>
+      <td>Eccellente</td>
+      <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
+      <td>9++10</td>
+    </tr>
+  </tbody>
+</table>
+</section>
+
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE STUDENTI</h4>
+  <img class="fragment" src="tab_pt.png" alt="tabella punteggi" width="90%">
+</section>
+
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</h4>
+<table style="font-size:35%" border="0">
+    <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
+  <thead>
+    <tr>
+      <th scope="col">Livello</th>
+      <th scope="col">Descrittori</th>
+      <th scope="col">Voto/10</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Gravemente insufficiente</td>
+      <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Decisamente insufficiente</td>
+      <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
+      <td>3+4</td>
+    </tr>
+    <tr>
+      <td>Insufficiente</td>
+      <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
+      <td>4+5</td>
+    </tr>
+    <tr>
+      <td>Non del tutto insufficiente</td>
+      <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
+      <td>5++6-</td>
+    </tr>
+    <tr>
+      <td>Sufficiente</td>
+      <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Discreto</td>
+      <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
+      <td>6++7</td>
+    </tr>
+    <tr>
+      <td>Buono</td>
+      <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
+      <td>7+÷8</td>
+    </tr>
+    <tr>
+      <td>Ottimo</td>
+      <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
+      <td>8++9</td>
+    </tr>
+    <tr>
+      <td>Eccellente</td>
+      <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
+      <td>9++10</td>
+    </tr>
+  </tbody>
+</table></section>
 
 <section data-background-image="prof.png" data-background-opacity="0.5" data-transition="convex">
   <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1>
   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 </section>
+<section data-bcackground-image="prof.png" data-background-opacity="0.5" data-transition="convex">
+  <h3 style="color:#4E3319" class="r-fit-text">VALUTAZIONE</h3>
+<!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+</section>
+
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h1 class="r-fit-text">elaborazione delle idee</h1>
+  <h1 class="r-fit-text">VALUTAZIONE </h1>
   <div class="columns">
     <div class="column left">
       <h3 class="fragment">Titolo</h3>
@@ -484,6 +627,34 @@ slides:
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
+</section>
+
+<section data-bcackground-image="prof.png" data-background-opacity="0.5" data-transition="convex">
+  <h3 style="color:#4E3319" class="r-fit-text">AUTOVALUTAZIONE</h3>
+<!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+</section>
+<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h2 class="r-fit-text">DEBRIEFING</h2>
+  <div class="columns">
+    <div class="column left">
+      <h3 class="fragment">Titolo</h3>
+      <p class="fragment">Testo della slide nella colonna di sinistra.</p>
+      <ul class="fragment">
+        <li>Lista di punti</li>
+        <li>Altro punto</li>
+        <li>Altro punto</li>
+        <li>Altro punto</li>
+      </ul>
+    </div>
+    <div class="column right">
+      <img class="fragment r-fit-text" src="prof2.png" alt="neovim" height="500" opacity="0.2">
+    </div>
+  </div>
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <!-- <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> --> -->
+  <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 </section>
 
 ---
