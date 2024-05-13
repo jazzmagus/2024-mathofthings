@@ -49,37 +49,47 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
-  <h3 class="r-fit-text" style="color:#3B2F2F"> ATTIVITÀ DIDATTICA</h3>
-
-  <table class="r-fit-text" style="font-size:72%" width="95%">
+  <h3 style="color:#3B2F2F;text-align:left"> ATTIVITÀ DIDATTICA</h3>
+  <table class="r-fit-text" style="font-size:71%" width="100%">
     <!-- <tr>
 <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
 <td width="60.0%"><b>descrizione</b></td>
 </tr> -->
     <tr>
-      <td width="30.0%"><p style="color:#EA580C">CONTESTO</p></td>
-      <td width="70.0%">contesto curricolare di riferimento</td>
+      <td width="40.0%"><p style="color:#EA580C">1. CONTESTO</p></td>
+      <td width="60.0%">destinatari e contesto curricolare di riferimento</td>
     </tr>
     <tr>
-      <td width="30.0%"><p style="color:#EA580C">FRAGILITÀ</p></td>
-      <td width="70.0%">tipologia e frequenza delle disabilità</td>
-    </tr>
-    <tr>
-      <td width="30.0%"><p style="color:#EA580C">COMPETENZE</p></td>
-      <td width="70.0%">
+      <td width="40.0%"><p style="color:#EA580C">2. FRAGILITÀ</p></td>
+      <td width="60.0%">
         <ul>
-          <li>competenze di cittadinanza</li>
+          <li>tipologia e frequenza delle disabilità</li>
+          <li>metodologie e scelte didattiche</li>
+          <li>Oltre il P.d.P.</li>
+        </ul>
+        </td>
+      </tr>
+    <tr>
+      <td width="40.0%"><p style="color:#EA580C">3. COMPETENZE</p></td>
+      <td width="60.0%">
+        <ul>
+          <li>competenze chiave europee e di cittadinanza</li>
           <li>linee guida e indicazioni nazionali</li>
+          <li>progettazione curricolare</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td width="30.0%"><p style="color:#EA580C">VERIFICA COMPETENZE</p></td>
-      <td width="70.0%">valutazione e autovalutazione delle competenze</td>
+      <td width="40.0%"><p style="color:#EA580C">4. VERIFICA COMPETENZE</p></td>
+      <td width="60.0%">valutazione e autovalutazione delle competenze</td>
     </tr>
     <tr>
-      <td width="30.0%"><p style="color:#EA580C">EFFICACIA DIDATTICA</p></td>
-      <td width="70.0%">strumenti, metodologie e tecnologie didattiche (TIC)</td>
+      <td width="40.0%"><p style="color:#EA580C">5. EFFICACIA DIDATTICA</p></td>
+      <td width="60.0%">strumenti, metodologie e tecnologie didattiche </td>
+    </tr>
+    <tr>
+      <td width="40.0%"><p style="color:#EA580C">6. CONTENUTI DELLA LEZIONE</p></td>
+      <td width="60.0%">contenuti disciplinari relativi all'attività didattica</td>
     </tr>
   </table>
 </section>
@@ -98,16 +108,16 @@ slides:
 
 <section data-auto-animate data-background-image="class03.jpg" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
-  <h4 style="text-align:left;color:#3B2F2F"> la scuola</h4>
+  <h3 style="text-align:left;color:#3B2F2F"> la scuola</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
-  <p style="text-align:left;font-size:64%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al temitorio con if pieno coinvolgimento delle istituzioni e delle realtà locali.</em> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
+  <p style="text-align:left;font-size:64%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al territorio con il pieno coinvolgimento delle istituzioni e delle realtà locali.</em><br> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
       <td>Istituto Tecnico Industriale<br>Meccatronica</td>
     </tr>
     <tr>
       <td><b>contesto territoriale</b></td>
-      <td style="font-size:75%">L'itituto è inserito in un territorio fortemente orientato all'agricoltura e alla piccola industria/artigianato<b></td>
+      <td style="font-size:75%">L'istituto è inserito in un territorio fortemente orientato all'agricoltura e alla piccola industria/artigianato<b></td>
     </tr>
     <tr>
       <td><b>classe</b></td>
@@ -148,17 +158,6 @@ slides:
   e le persone a cui si insegna</q> &mdash; Platone</h4>
 </section>
 
-<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
-
-  <div class="card">
- <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
-    <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
-      </div>
-    <h4 style="color:#392613; text-align:left;"><b><em>dimostrazione:</em></b></h4><p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p>
-    <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
-</section>
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 style="color:#3B2F2F">FRAGILITÀ</h2> -->
   <h3 style="color:#b82460;">La Classe come COMUNITÀ</h3>
@@ -217,23 +216,33 @@ slides:
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-  <h4 class="fragment r-fit-text">Le mie azioni per l'inclusione</h4>
+  <h4 class="r-fit-text">Le mie azioni quotidiane per l'inclusione</h4>
+<!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
+  </section>
+<section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
+  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
+  <div class="card">
+ <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
+    <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
+      </div>
+    <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
+    <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <ul style="color:#392613; text-align:left;">
-    <li>La diagnosi clinica viene redatta da professionisti esperti</li>
-    <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-      allo studenti li conosce lo studente<br><i style="color:#0891B2" class="fas fa-link fa-sm"></i><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+    <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi,
+    psichiatri, etc. - e non può essere trattata con leggerezza</li>
+    <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul></section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
   <ul style="color:#392613; text-align:left;">
-    <li>La diagnosi clinica viene redatta da professionisti esperti</li>
-    <li>I bisogni e gli eventuali ausili - compensativi e/o dispensativi - utili
-      allo studenti li conosce lo studente</li>
+    <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, psichiatri, etc. - e non può essere trattata con leggerezza.</li>
+    <li class="fragment">gli eventuali ausili - compensativi e/o dispensativi - più efficaci sono quelli suggeriti dallo studente stesso.</li>
   </ul>
 </section>
 
@@ -241,8 +250,8 @@ slides:
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
-    <li>Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
-    <li><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
+    <li class="fragment">Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
+    <li class="fragment"><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
   </ul>
 </section>
 
@@ -250,9 +259,10 @@ slides:
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
   <ul style="color:#392613; text-align:left;">
-    <li>contatto personale continuo, anche e soprattutto extra-scolastico:
-      <em>"come va?"</em></li>
-    <li>collaborazione attiva con eventuali figure di supporto extra-scolastico</li>
+    <li class="fragment"><b>contatto personale continuo</b>, anche e soprattutto extra-scolastico:
+      <em>"Come va? Come procede la preparazione della verifica? Quali
+        difficoltà hai incontrato durante l'ultima interrogazione? etc. "</em></li>
+    <li class="fragment"><b>collaborazione attiva </b>con eventuali figure di supporto extra-scolastico</li>
   </ul>
 </section>
 
@@ -444,9 +454,36 @@ slides:
       <td width="30.0%">interrogazioni</td>
       <td width="50.0%">recupero o miglioramento</td>
       <td width="20.0%">programmata</td>
-      <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></td>
+      <!-- <td width="20.0%" style="text-align: center;"><a href="./20220224_TEST-1I-Relazioni e funzioni.pdf" target="_blank"><i style="color:#eb432aff;" class="fas fa-file-pdf fa-2x"></i></td> -->
       </a></tr>
   </table>
+</section>
+
+<section data-background-image="prof.png" data-background-opacity="0.5" data-transition="convex">
+  <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1>
+  <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+</section>
+<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h1 class="r-fit-text">elaborazione delle idee</h1>
+  <div class="columns">
+    <div class="column left">
+      <h3 class="fragment">Titolo</h3>
+      <p class="fragment">Testo della slide nella colonna di sinistra.</p>
+      <ul class="fragment">
+        <li>Lista di punti</li>
+        <li>Altro punto</li>
+        <li>Altro punto</li>
+        <li>Altro punto</li>
+      </ul>
+    </div>
+    <div class="column right">
+      <img class="fragment r-fit-text" src="prof2.png" alt="neovim" height="500" opacity="0.2">
+    </div>
+  </div>
+</section>
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
 </section>
 
 ---
@@ -795,7 +832,7 @@ slides:
 </section>  
 <section data-background-image="homework.jpg" data-background-opacity="0.2" data-transition="convex">
 
-<h3 class="r-fit-text" style="color:#8A4117">Lavoro in autonomia</h3>
+<h3 class="r-fit-text" style="color:#4E3319">Lavoro in autonomia</h3>
   <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
   <ul class="fragment" style="font-size: 90%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
@@ -814,7 +851,7 @@ slides:
 ---
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2>bibliografia</h2>
+  <h2 style="text-align:left">bibliografia</h2>
   <ul style="font-size:64%;">
     <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
     <li>D.P.R. 89 / 2010 (Regolamento licei)</li>
@@ -837,14 +874,14 @@ slides:
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>"La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali". <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
   <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
 
-<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
-  <span style="font-size: 36px;">&mdash; Carl Boyer</span>
-</section>
+<!-- <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
+<!--   <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali. <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p> -->
+<!--   <span style="font-size: 36px;">&mdash; Carl Boyer</span> -->
+<!-- </section> -->
 <!-- <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
 <!--   <p style="font-size:50px; text-align: justify-left;" data-transition="convex">"La matematica non ha come finalità quella di imparare formule e/o dimostrazioni a memoria, bensì di imparare a <span style="color:#06B6D4"><b><u>collegare concetti</u></b></span>, per stimolare la formazione di uno <span style="color:#06B6D4"><b><u>spirito critico</u></b>"</span></p> -->
 <!-- </section> -->
