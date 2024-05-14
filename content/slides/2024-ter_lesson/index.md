@@ -777,7 +777,7 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
+  <h2 style="text-align:left; color:#4E3319" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
 <h6 style="text-align:left; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [Matematica.verde 3ed. con Tutor, vol. 4B, capitolo 25, §.1,2,3,4,5]</h6>
     <h6 style="font-size:46%;text-align:left;color:#164E63"><i class="fas fa-highlighter"></i><b> PREREQUISITI:</b> Calcolo algebrico; Teoria degli insiemi</h6>
           <div class="fragment">
@@ -800,7 +800,7 @@ slides:
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>TRASVERSALI</h2>
+  <h2 style="text-align:left;  color:#514D53" class="r-fit-text">COMPETENZE<br>TRASVERSALI</h2>
 </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h3 style="text-align:left; color:#514D53">COMPETENZE TRASVERSALI</h3>
