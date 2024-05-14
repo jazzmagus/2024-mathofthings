@@ -42,8 +42,8 @@ slides:
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
     traccia n. $7$:</h3>
-  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Il candidato esponga una progettazione di attività didattica comprensiva dell'illustrazione delle scelte contenutistiche, didattiche e metodologiche compiute e di esempi di utilizzo delle TIC, relativamente all'argomento "Introduzione al concetto di PROBABILITÀ".
-Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti di un Istituto Tecnico, motivando la scelta della classe a cui rivolgere la lezione. II candidato ha la facoltà di ipotizzare le indicazioni non presenti.</h5>
+  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Il candidato esponga una progettazione di attività didattica comprensiva dell'illustrazione delle scelte contenutistiche, didattiche e metodologiche compiute e di esempi di utilizzo delle TIC, relativamente all'argomento "<b>Introduzione al concetto di PROBABILITÀ</b>".<br>
+    Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti di un Istituto Tecnico, motivando la scelta della classe a cui rivolgere la lezione. II candidato ha la facoltà di ipotizzare le indicazioni non presenti.</h5>
   <h6 style="font-size:46%; color:#392613; text-align:justify;"><i class="fas fa-bookmark"></i> PROCEDURA CONCORSUALE STRAORDINARIA 2021 PER DOCENTI NELLA SCUOLA SECONDARIA (ARTICOLO 59, COMMA 9-BIS, DEL DECRETO-LEGGE 25 MAGGIO 2021, N. 73, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 23 LUGLIO 2021, N. 106)</h6>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
@@ -69,8 +69,8 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
           <li>metodologie e scelte didattiche</li>
           <li style="font-size:80%; color:#6D3234"><b>ALLEGATO1: OLTRE IL P.d.P.</b></li>
         </ul>
-        </td>
-      </tr>
+      </td>
+    </tr>
     <tr>
       <td width="40.0%"><p style="color:#EA580C">3. COMPETENZE</p></td>
       <td width="60.0%">
@@ -90,7 +90,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
       <td width="60.0%">strumenti, metodologie e tecnologie didattiche </td>
     </tr>
     <tr>
-      <td width="40.0%"><p style="color:#EA580C"><b>6. CONTENUTI DELLA LEZIONE</b></p></td>
+      <td width="40.0%"><p style="color:#EA580C"><b>6. ATTIVITÀ DIDATTICA</b></p></td>
       <td width="60.0%">contenuti disciplinari relativi all'attività didattica</td>
     </tr>
   </table>
@@ -112,7 +112,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
   <h3 style="text-align:left;color:#3B2F2F"> la scuola</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
-  <p style="text-align:left;font-size:55%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al territorio con il pieno coinvolgimento delle istituzioni e delle realtà locali.</em><br> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
+    <p style="text-align:left;font-size:55%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al territorio con il pieno coinvolgimento delle istituzioni e delle realtà locali.</em><br> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
       <td>Istituto Tecnico Industriale<br>Meccatronica</td>
@@ -143,14 +143,14 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
       <td><b>fragilità</b></td>
       <td style="font-size:80%"><i>$\%$ e tipologia</i></td>
     </tr>
- <tr>
+    <tr>
       <td><b>la comunità-classe</b></td>
       <td style="font-size:70%"><i>la classe si presenta piuttosto eterogenea in
-      termini di competenze disciplinari acquisite; si distingue la presenza di
-      gruppo di 4/5 studenti particolarmente brillanti che fungono da traino per
-      gli altri, fornendo supporto anche a livello extra-scolastico</i></td>
+        termini di competenze disciplinari acquisite; si distingue la presenza di
+        gruppo di 4/5 studenti particolarmente brillanti che fungono da traino per
+        gli altri, fornendo supporto anche a livello extra-scolastico</i></td>
     </tr>
- </table>
+  </table>
 </section>
 
 ---
@@ -164,7 +164,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
     style="color:#B91C1C;width:200px;height:200px;opacity:0.7">
   <h2 class="r-fit-text" style="color:#B91C1C">FRAGILITÀ</h2>
   <h4 class="r-fit-text" style="color:#3B2F2F"><q>Bisogna amare ciò che si insegna,
-  e le persone a cui si insegna</q> &mdash; Platone</h4>
+    e le persone a cui si insegna</q> &mdash; Platone</h4>
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -193,31 +193,31 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
     <div class="column left">
       <h5 style="text-align:left;"><b>STRUMENTI COMPENSATIVI</b></h5>
       <ul style="font-size:50%">
-<li>libri digitali, audiolibri;</li>
-<li>libri con testi ridotti;</li>
-<li>tabelle, schemi, scalette e mappe;</li>
-<li>calcolatrice o computer con foglio di calcolo;</li>
-<li>computer con videoscrittura e correttore ortografico;</li>
-<li>computer con sintetizzatore vocale;</li>
-<li>computer con programmi per elaborazione di mappe/schemi;</li>
-<li>vocabolari multimediali/digitali;</li>
-<li>Uso di mappe/ formulari/tabelle/schemi riepilogativi con i nuclei fondanti dell'argomento trattato forniti dal docente;</li>
-<li>predisposizione di testi scritti utilizzando caratteri senza grazie (es. Verdana/Arial) di dimensione 14/16, interlinea almeno 1,5;</li>
-<li>sintesi delle lezioni da parte del docente.</li>
+        <li>libri digitali, audiolibri;</li>
+        <li>libri con testi ridotti;</li>
+        <li>tabelle, schemi, scalette e mappe;</li>
+        <li>calcolatrice o computer con foglio di calcolo;</li>
+        <li>computer con videoscrittura e correttore ortografico;</li>
+        <li>computer con sintetizzatore vocale;</li>
+        <li>computer con programmi per elaborazione di mappe/schemi;</li>
+        <li>vocabolari multimediali/digitali;</li>
+        <li>Uso di mappe/ formulari/tabelle/schemi riepilogativi con i nuclei fondanti dell'argomento trattato forniti dal docente;</li>
+        <li>predisposizione di testi scritti utilizzando caratteri senza grazie (es. Verdana/Arial) di dimensione 14/16, interlinea almeno 1,5;</li>
+        <li>sintesi delle lezioni da parte del docente.</li>
       </ul>
     </div>
     <div class="column right">
       <h5 style="text-align:left;"><b>MISURE DISPENSATIVE</b></h5>
-<ul style="font-size:50%">
-<li>dalla lettura ad alta voce;</li>
-<li>dal prendere appunti;</li>
-<li>dalla dettatura di testi o appunti;</li>
-<li>dal copiare dalla lavagna;</li>
-<li>dalla scrittura in corsivo;</li>
-<li>dai tempi standard (prevedere tempi più lunghi per le prove o riduzione quantitativa della consegna pur mantenendo gli stessi obiettivi);</li>
-<li>dal carico eccessivo di compiti assegnati per casa;</li>
-<li>dall'effettuazione di più prove valutative in tempi ravicinati;</li>
-<li>dallo studio mnemonico di formule, tabelle, definizioni.</li>
+      <ul style="font-size:50%">
+        <li>dalla lettura ad alta voce;</li>
+        <li>dal prendere appunti;</li>
+        <li>dalla dettatura di testi o appunti;</li>
+        <li>dal copiare dalla lavagna;</li>
+        <li>dalla scrittura in corsivo;</li>
+        <li>dai tempi standard (prevedere tempi più lunghi per le prove o riduzione quantitativa della consegna pur mantenendo gli stessi obiettivi);</li>
+        <li>dal carico eccessivo di compiti assegnati per casa;</li>
+        <li>dall'effettuazione di più prove valutative in tempi ravicinati;</li>
+        <li>dallo studio mnemonico di formule, tabelle, definizioni.</li>
       </ul>
     </div>
   </div>
@@ -227,25 +227,25 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <h4 style="text-align:left;color:#EB442A">ALLEGATO 1</h4>
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h4 class="r-fit-text">Le mie azioni quotidiane per l'inclusione</h4>
-<!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
-  </section>
+  <!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
+</section>
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
   <div class="card">
- <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
+    <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
     <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
-      </div>
-    <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
-    <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
+  </div>
+  <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
+  <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
 <!-- <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex"> -->
 <!--   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-  <!-- <ul style="color:#392613; text-align:left;"> -->
-  <!--   <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, -->
-  <!--   psichiatri, etc. - e non può essere trattata con leggerezza</li> -->
-  <!--   <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li> -->
-  <!-- </ul> -->
+<!-- <ul style="color:#392613; text-align:left;"> -->
+<!--   <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, -->
+<!--   psichiatri, etc. - e non può essere trattata con leggerezza</li> -->
+<!--   <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li> -->
+<!-- </ul> -->
 <!-- </section> -->
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -343,16 +343,12 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <h4 style="color:#8A4117">&mdash; specifiche disciplinari &mdash;</h4>
   <div class="columns">
     <div class="column left">
-<h4 style="text-align:left;"><i style="color:#8A4117" class="far fa-bookmark"></i><b>  CHIAVE</b></h4>
+      <h4 style="text-align:left;"><i style="color:#8A4117" class="far fa-bookmark"></i><b>  EUROPEE</b></h4>
       <ol style="font-size:58%">
-        <li>Imparare ad imparare</li>
-        <li>Progettare</li>
-        <li>Comunicare</li>
-        <li>Collaborare e partecipare</li>
-        <li>Agire in modo autonomo e responsabile</li>
-        <li>Problem solving</li>
-        <li>Individuare collegamenti e relazioni</li>
-        <li>Acquisire ed interpretare l'informazione</li>
+        <li>competenza matematica e competenza di base in scienze e tecnologie;</li>
+        <li>competenza digitale;</li>
+        <li>competenza personale, sociale e capacità di imparare ad imparare;</li>
+        <li>competenza imprenditoriale;</li>
       </ol>
     </div>
     <div class="column right">
@@ -360,9 +356,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
       <ol style="font-size:58%">
         <li>Imparare ad imparare</li>
         <li>Progettare</li>
-        <li>Comunicare</li>
         <li>Collaborare e partecipare</li>
-        <li>Agire in modo autonomo e responsabile</li>
         <li>Problem solving</li>
         <li>Individuare collegamenti e relazioni</li>
         <li>Acquisire ed interpretare l'informazione</li>
@@ -382,38 +376,6 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
       <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
     </ul></em>
 </section>
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
-</section>
-
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-  <div class="fragment">
-    <div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
-      <ul style="font-size:70%">
-        <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li>
-        <li>Rappresentazione degli insiemi numerici su una retta orientata.</li>
-      </ul></em>
-    </div>
-    <div class="fragment">
-      <div class="card"><h5 style="text-align:left;"><b>abilità</b></h5><em>
-        <ul style="font-size:70%">
-          <li>Eseguire i calcoli con i numeri degli insiemi numerici $\mathbb{N}$, $\mathbb{Z}$ e $\mathbb{Q}$</li>
-          <li>Scomporre un numero naturale in fattori primi e calcolare il `mcm` e il `MCD` tra due o più numeri naturali.</li>
-          <li>Trasformare la scrittura di un numero naturale dalla base $10$ alla base $b$ e viceversa.</li>
-        </ul></em>
-      </div>
-    </div>
-</section>
-
-<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-  <div class="card"><h5 style="text-align:left;"><b>conoscenze</b></h5><em>
-    <ul style="font-size:70%">
-      <li>Utilizzare le tecniche e le procedure del calcolo aritmetico e algebrico, rappresentandole anche sotto forma grafica.</li>
-      <li>Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio di rappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.</li>
-    </ul></em>
-</section>
 
 ---
 
@@ -430,7 +392,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <h2 class="r-fit-text" style="color:#3B2F2F" >Tipologie di VERIFICA</h2>
   <p style="text-align:left; font-size:64%"><em>"La valutazione <b>precede, accompagna e segue</b> i percorsi
     curricolari. Assume una funzione formativa e di <b>stimolo al miglioramento
-    continuo</b>..."</em> &mdash; MIUR, 2012</p>
+      continuo</b>..."</em> &mdash; MIUR, 2012</p>
   <table class="fragment" style="font-size:60%; width="95%">
     <tr>
       <td width="20.0%"><b>tipologia</b></td>
@@ -474,63 +436,63 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
   <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE - PROVA SCRITTA</h4>
-<table style="font-size:35%" border="0">
+  <table style="font-size:35%" border="0">
     <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
-  <thead>
-    <tr>
-      <th scope="col">Livello</th>
-      <th scope="col">Descrittori</th>
-      <th scope="col">Voto/10</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gravemente insufficiente</td>
-      <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Decisamente insufficiente</td>
-      <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
-      <td>3+4</td>
-    </tr>
-    <tr>
-      <td>Insufficiente</td>
-      <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
-      <td>4+5</td>
-    </tr>
-    <tr>
-      <td>Non del tutto insufficiente</td>
-      <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
-      <td>5++6-</td>
-    </tr>
-    <tr>
-      <td>Sufficiente</td>
-      <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Discreto</td>
-      <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
-      <td>6++7</td>
-    </tr>
-    <tr>
-      <td>Buono</td>
-      <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
-      <td>7+÷8</td>
-    </tr>
-    <tr>
-      <td>Ottimo</td>
-      <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
-      <td>8++9</td>
-    </tr>
-    <tr>
-      <td>Eccellente</td>
-      <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
-      <td>9++10</td>
-    </tr>
-  </tbody>
-</table>
+    <thead>
+      <tr>
+        <th scope="col">Livello</th>
+        <th scope="col">Descrittori</th>
+        <th scope="col">Voto/10</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Gravemente insufficiente</td>
+        <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Decisamente insufficiente</td>
+        <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
+        <td>3+4</td>
+      </tr>
+      <tr>
+        <td>Insufficiente</td>
+        <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
+        <td>4+5</td>
+      </tr>
+      <tr>
+        <td>Non del tutto insufficiente</td>
+        <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
+        <td>5++6-</td>
+      </tr>
+      <tr>
+        <td>Sufficiente</td>
+        <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Discreto</td>
+        <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
+        <td>6++7</td>
+      </tr>
+      <tr>
+        <td>Buono</td>
+        <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
+        <td>7+÷8</td>
+      </tr>
+      <tr>
+        <td>Ottimo</td>
+        <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
+        <td>8++9</td>
+      </tr>
+      <tr>
+        <td>Eccellente</td>
+        <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
+        <td>9++10</td>
+      </tr>
+    </tbody>
+  </table>
 </section>
 
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
@@ -544,63 +506,63 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
   <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE - PROVA ORALE</h4>
-<table style="font-size:35%" border="0">
+  <table style="font-size:35%" border="0">
     <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
-  <thead>
-    <tr>
-      <th scope="col">Livello</th>
-      <th scope="col">Descrittori</th>
-      <th scope="col">Voto/10</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Gravemente insufficiente</td>
-      <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>Decisamente insufficiente</td>
-      <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
-      <td>3+4</td>
-    </tr>
-    <tr>
-      <td>Insufficiente</td>
-      <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
-      <td>4+5</td>
-    </tr>
-    <tr>
-      <td>Non del tutto insufficiente</td>
-      <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
-      <td>5++6-</td>
-    </tr>
-    <tr>
-      <td>Sufficiente</td>
-      <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <td>Discreto</td>
-      <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
-      <td>6++7</td>
-    </tr>
-    <tr>
-      <td>Buono</td>
-      <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
-      <td>7+÷8</td>
-    </tr>
-    <tr>
-      <td>Ottimo</td>
-      <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
-      <td>8++9</td>
-    </tr>
-    <tr>
-      <td>Eccellente</td>
-      <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
-      <td>9++10</td>
-    </tr>
-  </tbody>
-</table>
+    <thead>
+      <tr>
+        <th scope="col">Livello</th>
+        <th scope="col">Descrittori</th>
+        <th scope="col">Voto/10</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Gravemente insufficiente</td>
+        <td>Conoscenze estremamente frammentarie; gravi errori concettuali; palese incapacità di avviare procedure e calcoli; linguaggio ed esposizione inadeguati</td>
+        <td>1</td>
+      </tr>
+      <tr>
+        <td>Decisamente insufficiente</td>
+        <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
+        <td>3+4</td>
+      </tr>
+      <tr>
+        <td>Insufficiente</td>
+        <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
+        <td>4+5</td>
+      </tr>
+      <tr>
+        <td>Non del tutto insufficiente</td>
+        <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
+        <td>5++6-</td>
+      </tr>
+      <tr>
+        <td>Sufficiente</td>
+        <td>Conoscenze adeguate, pur con qualche imprecisione; padronanza nel calcolo, anche con qualche lentezza e capacità di gestire e organizzare procedure se opportunamente guidato; linguaggio accettabile</td>
+        <td>6</td>
+      </tr>
+      <tr>
+        <td>Discreto</td>
+        <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
+        <td>6++7</td>
+      </tr>
+      <tr>
+        <td>Buono</td>
+        <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
+        <td>7+÷8</td>
+      </tr>
+      <tr>
+        <td>Ottimo</td>
+        <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
+        <td>8++9</td>
+      </tr>
+      <tr>
+        <td>Eccellente</td>
+        <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
+        <td>9++10</td>
+      </tr>
+    </tbody>
+  </table>
 </section>
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
 
@@ -611,47 +573,47 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
   <h4 style="color:#3B2F2F;text-align:left">GRIGLIA VALUTAZIONE FORMATIVA</h4>
-<table style="font-size:38%" border="0">
-  <thead>
-        <tr>
-            <th>Categoria</th>
-            <th>4</th>
-            <th>3</th>
-            <th>2</th>
-            <th>1</th>
-        </tr>
+  <table style="font-size:38%" border="0">
+    <thead>
+      <tr>
+        <th>Categoria</th>
+        <th>4</th>
+        <th>3</th>
+        <th>2</th>
+        <th>1</th>
+      </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Contributo al lavoro di gruppo</td>
-            <td>Condivide costantemente e attivamente conoscenze, opinioni e capacità senza essere sollecitato.</td>
-            <td>Condivide conoscenze, opinioni e capacità senza essere sollecitato.</td>
-            <td>Condivide informazioni con il gruppo con occasionale sollecitazione.</td>
-            <td>Condivide informazioni con il gruppo solo quando invitato a farlo.</td>
-        </tr>
-        <tr>
-            <td>Interazione con il gruppo</td>
-            <td>Aiuta il gruppo a identificare i cambiamenti richiesti e azioni necessarie; il lavoro del gruppo che favoriscono il cambiamento; svolge il lavoro senza essere sollecitato.</td>
-            <td>Partecipa volentieri ai cambiamenti necessari; si impegna nel lavoro assegnato e raramente ha bisogno di essere sollecitato.</td>
-            <td>Partecipa ai cambiamenti richiesti con occasionali sollecitazioni; ha spesso bisogno di essere sollecitato a svolgere il lavoro.</td>
-            <td>Partecipa ai cambiamenti richiesti quando viene sollecitato; e inclinato a seguire piuttosto che a proporsi per svolgere il lavoro.</td>
-        </tr>
-        <tr>
-            <td>Contributo agli obiettivi del gruppo</td>
-            <td>Lavora costantemente e attentamente per gli obiettivi del gruppo; svolge volontariamente il proprio ruolo all'interno del gruppo.</td>
-            <td>Lavora per gli obiettivi del gruppo senza sollecitazioni; accetta e svolge il proprio ruolo individuale all'interno del gruppo.</td>
-            <td>Lavora per gli obiettivi del gruppo con occasionale sollecitazione.</td>
-            <td>Lavora per gli obiettivi del gruppo solo quando invitato a farlo.</td>
-        </tr>
-        <tr>
-            <td>Valutazione dei membri</td>
-            <td>Mostra sensibilità per i sentimenti e per i bisogni formativi degli altri; valorizza la conoscenza, le opinioni e le capacità di tutti i membri del gruppo.</td>
-            <td>Mostra ed esprime sensibilità per i sentimenti degli altri; incoraggia la partecipazione degli altri.</td>
-            <td>Mostra sensibilità per i sentimenti degli altri.</td>
-            <td>Ha bisogno di essere sollecitato a prestare attenzione ai sentimenti degli altri.</td>
-        </tr>
+      <tr>
+        <td>Contributo al lavoro di gruppo</td>
+        <td>Condivide costantemente e attivamente conoscenze, opinioni e capacità senza essere sollecitato.</td>
+        <td>Condivide conoscenze, opinioni e capacità senza essere sollecitato.</td>
+        <td>Condivide informazioni con il gruppo con occasionale sollecitazione.</td>
+        <td>Condivide informazioni con il gruppo solo quando invitato a farlo.</td>
+      </tr>
+      <tr>
+        <td>Interazione con il gruppo</td>
+        <td>Aiuta il gruppo a identificare i cambiamenti richiesti e azioni necessarie; il lavoro del gruppo che favoriscono il cambiamento; svolge il lavoro senza essere sollecitato.</td>
+        <td>Partecipa volentieri ai cambiamenti necessari; si impegna nel lavoro assegnato e raramente ha bisogno di essere sollecitato.</td>
+        <td>Partecipa ai cambiamenti richiesti con occasionali sollecitazioni; ha spesso bisogno di essere sollecitato a svolgere il lavoro.</td>
+        <td>Partecipa ai cambiamenti richiesti quando viene sollecitato; e inclinato a seguire piuttosto che a proporsi per svolgere il lavoro.</td>
+      </tr>
+      <tr>
+        <td>Contributo agli obiettivi del gruppo</td>
+        <td>Lavora costantemente e attentamente per gli obiettivi del gruppo; svolge volontariamente il proprio ruolo all'interno del gruppo.</td>
+        <td>Lavora per gli obiettivi del gruppo senza sollecitazioni; accetta e svolge il proprio ruolo individuale all'interno del gruppo.</td>
+        <td>Lavora per gli obiettivi del gruppo con occasionale sollecitazione.</td>
+        <td>Lavora per gli obiettivi del gruppo solo quando invitato a farlo.</td>
+      </tr>
+      <tr>
+        <td>Valutazione dei membri</td>
+        <td>Mostra sensibilità per i sentimenti e per i bisogni formativi degli altri; valorizza la conoscenza, le opinioni e le capacità di tutti i membri del gruppo.</td>
+        <td>Mostra ed esprime sensibilità per i sentimenti degli altri; incoraggia la partecipazione degli altri.</td>
+        <td>Mostra sensibilità per i sentimenti degli altri.</td>
+        <td>Ha bisogno di essere sollecitato a prestare attenzione ai sentimenti degli altri.</td>
+      </tr>
     </tbody>
-</table>
+  </table>
 </section>
 
 <section data-background-image="prof.png" data-background-opacity="0.5" data-transition="convex">
@@ -689,7 +651,7 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <h3 style="color:#4E3319" class="r-fit-text">AUTOVALUTAZIONE</h3>
   <!-- <h3 style="text-align:left" class="fragment">DEBRIEFING</h3> -->
-<!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+  <!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 </section>
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <h3 style="text-align:left">DEBRIEFING</h3>
@@ -698,20 +660,20 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
       <h5 class="fragment">DIARIO DI BORDO</h5>
       <p style="font-size:70%" class="fragment">Attività di <em>journaling</em> meditato post lezione sull'efficacia dell'azione didattica</p>
       <ul style="font-size:60%" >
-      <li class="fragment">Lo strumento scelto è <a href="https://obsidian.md/"><b>obsidian.md</b></a>, un software <em>opensource</em> di <em>notetaking</em> molto potente e flessibile, particolarmente indicato per la manipolazione di testi scientifici consentendo l'utilizzo di LaTeX, HTML, Python, JavaScript, etc.</li>
-</ul>
+        <li class="fragment">Lo strumento scelto è <a href="https://obsidian.md/"><b>obsidian.md</b></a>, un software <em>opensource</em> di <em>notetaking</em> molto potente e flessibile, particolarmente indicato per la manipolazione di testi scientifici consentendo l'utilizzo di LaTeX, HTML, Python, JavaScript, etc.</li>
+      </ul>
       <img class="fragment" src="obsidian.png" alt="obsidian">
     </div>
     <div class="column right">
       <h5 class="fragment">OBIETTIVI</h5>
-<img class="fragment" style="text-align:center;opacity:0.9;width:600px;"src="val.png" alt="autovalutazione">
+      <img class="fragment" style="text-align:center;opacity:0.9;width:600px;"src="val.png" alt="autovalutazione">
     </div>
   </div>
 </section>
 
 <!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-  <!-- <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
-  <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+<!-- <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
+<!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 <!-- </section> -->
 
 ---
@@ -752,24 +714,23 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   </table>
 </section>
 
-<!-- iframe -->
 <section data-background-iframe="https://2024-mathofthings.netlify.app/"
   data-background-interactive>
-  <!-- <h2>Iframe</h2> -->
 </section>
 
 ---
 
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE<br>DIDATTICA</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <!-- <h2 class="fragment fade-left r-fit-text" style="color:#3B2F2F">Le equazioni esponenziali</h2> -->
+<section data-auto-animate data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <img src="6.png" alt="2" style="opacity:0.6;width:500px;height:500px;color:#3B2F2F;">
+</section>
+<section data-auto-animate data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <img src="6.png" alt="2"
+    style="width:200px;height:200px;color:#3B2F2F;opacity:0.7">
+  <h1 style="color:#4E3319" class="r-fit-text">PROGETTAZIONE <br> DIDATTICA</h1>
 </section>
 
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+<section>
   <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
-  <!-- <h1 style="color:#3B2F2F">di</h1> -->
-  <!-- <h3 style="text-align:left;color:#3B2F2F">Le equazioni esponenziali</h3> -->
   <table class="r-fit-text" style="font-size:64%" width="83%">
     <tr>
       <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 1</td>
@@ -809,6 +770,84 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <img src="prj.png" alt="neovim"
     style="opacity:1.0">
     <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
+</section>
+
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
+<h6 style="text-align:left; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [Matematica.verde 3ed. con Tutor, vol. 4B, capitolo 25, §.1,2,3,4,5]</h6>
+    <h6 style="font-size:46%;text-align:left;color:#164E63"><i class="fas fa-highlighter"></i><b> PREREQUISITI:</b> Calcolo algebrico; Teoria degli insiemi</h6>
+          <div class="fragment">
+    <div class="card"><h6 style="text-align:left;"><b>CONOSCENZE</b></h6>
+      <ul style="font-size:40%">
+        <li><strong>Concetti fondamentali:</strong> eventi elementari, certi, impossibili e aleatori $(\S 1)$</li>
+<li><strong>Eventi e probabilità: </strong>definizione classica di probabilità ed evento contrario, definizione statistica di probabilità e frequenza relativa, legge empirica del caso $(\S 2)$ escluse probabilità e calcolo combinatorio, definizione soggettiva di probabilità, definizione assiomatica di probabilità).</li>
+        <li><strong>Operazioni e Teoremi sulla probabilità:</strong> Somma logica di eventi  $(\S 3)$, probabilità condizionata, eventi dipendenti e indipendenti (§4), Prodotto logico di eventi $(\S 5)$ escluso problema delle prove ripetute).</li>
+      </ul>
+    </div>
+    <div class="fragment">
+      <div class="card"><h6 style="text-align:left;"><b>ABILITÀ</b></h6>
+        <ul style="font-size:40%">
+          <li>Saper distinguere eventi certi, impossibili ed aleatori; calcolare la probabilità di un evento utilizzando la definizione e i teoremi sulla probabilità relativi all'obiettivo minimo indicato nelle conoscenze</li>
+        </ul>
+      </div>
+    </div>
+    <h6 class="fragment" style="font-size:42%;text-align:left;color:#164E63"><b> COMPETENZE:</b><br><b>M7</b> - Utilizzare i concetti e i modelli delle scienze sperimentali per investigare fenomeni sociali e naturali e per interpretare dati;<br><b>M8</b> - Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare;</h6>
+
+</section>
+
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>TRASVERSALI</h2>
+</section>
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h3 style="text-align:left; color:#514D53">COMPETENZE TRASVERSALI</h3>
+  <div class="columns">
+    <div class="column left fragment">
+      <h4><i class="fas fa-laptop"> INFORMATICA</i></h4>
+      <h6 style="font-size:60%">Un programma in Python che simula una slot machine</h6>
+      <img class="r-fit-text" src="py.webp" alt="neovim" opacity="0.2">
+    </div>
+    <div class="column right fragment">
+      <img class="r-fit-text" src="code.png" alt="neovim" opacity="0.2">
+    </div>
+</section>
+
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h3 style="text-align:left; color:#514D53">COMPETENZE TRASVERSALI</h3>
+  <div class="columns">
+    <div class="column left fragment">
+      <h4><i class="fas fa-users fa-sm"> EDUCAZIONE CIVICA</i></h4>
+      <h6 style="font-size:60%">Il gioco d'azzardo: collegamenti con il calcolo delle probabilità e i problemi legati alla ludopatia</h6>
+      <img class="r-fit-text" src="py.webp" alt="neovim" opacity="0.2">
+    </div>
+    <div class="column right fragment">
+<h6>PROBABILITÀ E LUDOPATIA</h6>
+    <ol style="font-size:40%">
+        <li>
+            <strong>Calcolo delle Probabilità e Gioco d'Azzardo</strong>:
+            Il gioco d'azzardo si basa sul calcolo delle probabilità, determinando le probabilità di vincita e perdita in giochi come poker, roulette e slot machine.
+        </li>
+        <li>
+            <strong>Illusione del Controllo</strong>:
+            I giocatori spesso sovrastimano la loro capacità di influenzare i risultati, ignorando la casualità e le reali probabilità di vincita.
+        </li>
+        <li>
+            <strong>Margine della Casa</strong>:
+            I casinò e le piattaforme di gioco d'azzardo sono progettati per avere un vantaggio matematico, garantendo profitti nel lungo periodo indipendentemente dalle singole vincite dei giocatori.
+        </li>
+        <li>
+            <strong>Ludopatia</strong>:
+            La dipendenza dal gioco d'azzardo, o ludopatia, è un disturbo comportamentale che porta a gravi conseguenze economiche, sociali e psicologiche per gli individui colpiti.
+        </li>
+        <li>
+            <strong>Prevenzione e Trattamento</strong>:
+            È essenziale educare sui rischi del gioco d'azzardo e fornire supporto psicologico e terapeutico per trattare la ludopatia, promuovendo consapevolezza e misure preventive.
+        </li>
+    </ol>
+    </div>
 </section>
 
 ---
@@ -1065,13 +1104,13 @@ Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti
   <ul class="fragment" style="font-size: 90%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
     <ul style="font-size: 90%;">
-    <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
-    <li>esercizi assegnati </li>
-    <li>attività collaborative - <em>cooperative learning</em></li>
-  </ul>
-  <br>
-  <li style="color:#EB442A">tutti i materiali vengono condivisi su Google Classroom</li>
-  <li style="color:#EB442A">la modalità "compito" consente un controllo del
+      <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
+      <li>esercizi assegnati </li>
+      <li>attività collaborative - <em>cooperative learning</em></li>
+    </ul>
+    <br>
+    <li style="color:#EB442A">tutti i materiali vengono condivisi su Google Classroom</li>
+    <li style="color:#EB442A">la modalità "compito" consente un controllo del
       lavoro dello studente</li>
   </ul>
 </section>
