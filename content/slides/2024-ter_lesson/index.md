@@ -122,8 +122,8 @@ slides:
       <td style="font-size:60%">L'Istituto è situato in un contesto produttivo dinamico imprese; un tempo il distretto era prevalentemente diversificato con una prevalenza di aziende meccaniche tecnologia (domotica, nanotecnologie, energie rinnovabili).<b></td>
     </tr>
     <tr>
-      <td><b>classe</b></td>
-      <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
+      <td><b>periodo</b></td>
+      <td style="font-size:80%"><i>Classe seconda - fine secondo quadrimestre</i></td>
     </tr>
   </table>
 </section>
@@ -131,24 +131,28 @@ slides:
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
   <h3 style="text-align:left;color:#3B2F2F"> la classe</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
-    <tr>
-      <td><b>classe</b></td>
-      <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td>
-    </tr>
+    <!-- <tr> -->
+    <!--   <td><b>classe</b></td> -->
+    <!--   <td style="font-size:80%"><i>es. seconda - fine primo quadrimestre</i></td> -->
+    <!-- </tr> -->
     <tr>
       <td><b>composizione</b></td>
-      <td style="font-size:80%"><i>n. studenti: $\%$ maschi e $\%$ femmine</i></td>
+      <td style="font-size:80%"><i>n. studenti: 22, tutti maschi</i></td>
     </tr>
     <tr>
       <td><b>fragilità</b></td>
-      <td style="font-size:80%"><i>$\%$ e tipologia</i></td>
+      <td style="font-size:80%"><i>2 studenti B.E.S.: 1 con discalculia e
+        disgrafia; 1 Difficoltà emozionali, di autostima e autoefficacia</i></td>
     </tr>
     <tr>
       <td><b>la comunità-classe</b></td>
-      <td style="font-size:70%"><i>la classe si presenta piuttosto eterogenea in
+      <td style="font-size:66%"><i>La classe si presenta piuttosto eterogenea in
         termini di competenze disciplinari acquisite; si distingue la presenza di
         gruppo di 4/5 studenti particolarmente brillanti che fungono da traino per
-        gli altri, fornendo supporto anche a livello extra-scolastico</i></td>
+        gli altri, fornendo supporto anche a livello extra-scolastico.
+        Permangono dei nuclei di turbolenza, ma nel complesso la classe permette
+      di lavorare in un ambiente stimolante e costruttivo. Il livello medio di
+        attenzione si attesta intorno ai 25÷30 minuti.</i></td>
     </tr>
   </table>
 </section>
@@ -239,14 +243,21 @@ slides:
   <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
   <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
-<!-- <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!--   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-<!-- <ul style="color:#392613; text-align:left;"> -->
-<!--   <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, -->
-<!--   psichiatri, etc. - e non può essere trattata con leggerezza</li> -->
+<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h2 class="r-fit-text">Gli "ALTRI" B.E.S.</h2>
+<ul style="color:#392613;font-size:80%; text-align:left;">
+  <li>Difficoltà emozionali: (timidezza, collera, ansia, inibizione, depressione)</li>
+  <li>Difficoltà relazionali e del comportamento
+( aggressività, oppositività, disturbi della condotta, bullismo)</li>
+  <li>Disagi familiari (separazioni, maltrattamenti, abusi, lutti etc)</li>
+  <li>Difficoltà fisiche (traumi)/malattie croniche o acute (epilessia, allergie)</li>
+  <li>Alunni immigrati</li>
+  <li>Difficoltà di autostima, autoefficacia</li>
+  <li>Svantaggio economico e sociale (deprivazione culturale, ecc.)</li>
+  <li>Eterogeneità degli stili di pensiero e di apprendimento</li>
 <!--   <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li> -->
-<!-- </ul> -->
-<!-- </section> -->
+</ul>
+</section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
@@ -261,7 +272,7 @@ slides:
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
-    <li class="fragment">Nunc ac scelerisque sem, viverra condimentum turpis. Nulla lacinia pellentesque purus, a egestas nisi consectetur in.</li>
+    <li class="fragment"><i>"Tra gli ingredienti necessari a un buon insegnante c’è l’empatia, la capacità di comprendere le emozioni degli studenti e di rispondere con compassione"</i><br>&mdash;Haim Ginott</li>
     <li class="fragment"><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
   </ul>
 </section>
@@ -454,17 +465,17 @@ slides:
       <tr>
         <td>Decisamente insufficiente</td>
         <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
-        <td>3+4</td>
+        <td>3÷4</td>
       </tr>
       <tr>
         <td>Insufficiente</td>
         <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
-        <td>4+5</td>
+        <td>4÷5</td>
       </tr>
       <tr>
         <td>Non del tutto insufficiente</td>
         <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
-        <td>5++6-</td>
+        <td>5÷6</td>
       </tr>
       <tr>
         <td>Sufficiente</td>
@@ -474,22 +485,22 @@ slides:
       <tr>
         <td>Discreto</td>
         <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
-        <td>6++7</td>
+        <td>6÷7</td>
       </tr>
       <tr>
         <td>Buono</td>
         <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
-        <td>7+÷8</td>
+        <td>7÷8</td>
       </tr>
       <tr>
         <td>Ottimo</td>
         <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
-        <td>8++9</td>
+        <td>8÷9</td>
       </tr>
       <tr>
         <td>Eccellente</td>
         <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
-        <td>9++10</td>
+        <td>9÷10</td>
       </tr>
     </tbody>
   </table>
@@ -524,17 +535,17 @@ slides:
       <tr>
         <td>Decisamente insufficiente</td>
         <td>Conoscenze molto frammentarie; errori concettuali; scarsa capacità di gestire procedure e calcoli; incapacità di stabilire collegamenti, anche elementari; linguaggio inadeguato</td>
-        <td>3+4</td>
+        <td>3÷4</td>
       </tr>
       <tr>
         <td>Insufficiente</td>
         <td>Conoscenze frammentarie, non strutturate, confuse; modesta capacità di gestire procedure e calcoli; applicazione di regole in forma mnemonica; insicurezza nei collegamenti; linguaggio accettabile, non sempre adeguato</td>
-        <td>4+5</td>
+        <td>4÷5</td>
       </tr>
       <tr>
         <td>Non del tutto insufficiente</td>
         <td>Conoscenze modeste, viziate da lacune; poca fluidità nello sviluppo e controllo dei calcoli; difficoltà nello stabilire collegamenti fra contenuti; linguaggio non del tutto adeguato</td>
-        <td>5++6-</td>
+        <td>5÷6</td>
       </tr>
       <tr>
         <td>Sufficiente</td>
@@ -544,22 +555,22 @@ slides:
       <tr>
         <td>Discreto</td>
         <td>Conoscenze omogenee e ben consolidate; padronanza nel calcolo, capacità di previsione e controllo; capacità di collegamenti e di applicazioni delle regole; autonomia nell'ambito di semplici ragionamenti, linguaggio adeguato e preciso</td>
-        <td>6++7</td>
+        <td>6÷7</td>
       </tr>
       <tr>
         <td>Buono</td>
         <td>Conoscenze solide, assimilate con chiarezza; fluidità nel calcolo; autonomia di collegamenti e di ragionamento e capacità di analisi; riconoscimento di schemi, adeguamento di procedure esistenti; individuazione di semplici strategie di risoluzione e loro formalizzazione; buona proprietà di linguaggio</td>
-        <td>7+÷8</td>
+        <td>7÷8</td>
       </tr>
       <tr>
         <td>Ottimo</td>
         <td>Conoscenze ampie ed approfondite; capacità di analisi e rielaborazione personale; fluiditò ed eleganza nel calcolo, possesso di dispositivi di controllo e di adeguamento delle procedure; capacità di costruire proprie strategie di risoluzione; linguaggio sintetico ed essenziale</td>
-        <td>8++9</td>
+        <td>8÷9</td>
       </tr>
       <tr>
         <td>Eccellente</td>
         <td>Conoscenze ampie, approfondite e rielaborate, arricchite da ricerca e riflessione personale; padronanza ed eleganza nelle tecniche di calcolo; disinvoltura nel costruire proprie strategie di risoluzione, capacità di sviluppare e comunicare risultati di una analisi in forma originale e convincente</td>
-        <td>9++10</td>
+        <td>9÷10</td>
       </tr>
     </tbody>
   </table>
@@ -632,10 +643,10 @@ slides:
       <h4 class="fragment">QUESTIONARIO DI GRADIMENTO</h4>
       <!-- <p class="fragment">Testo della slide nella colonna di sinistra.</p> -->
       <ul style="font-size:80%" class="fragment">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
+        <li>suggerimenti liberi - domanda aperta</li>
+        <li>chiarezza espositiva dei contenuti</li>
+        <li>raccogliere dati statistici</li>
+        <li>valutazione feedback degli studenti</li>
       </ul>
     </div>
     <div class="column right">
@@ -772,13 +783,13 @@ slides:
     <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+<section data-auto-animate data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#4E3319" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-<h6 style="text-align:left; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [Matematica.verde 3ed. con Tutor, vol. 4B, capitolo 25, §.1,2,3,4,5]</h6>
+<h6 style="text-align:left; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [MULTIMATH.VERDE VOL. 2 DEL BIENNIO, CAPITOLO 9 DA PAG. 470 - PAR. DA 1 A 13, APPUNTI DEL DOCENTE]</h6>
     <h6 style="font-size:46%;text-align:left;color:#164E63"><i class="fas fa-highlighter"></i><b> PREREQUISITI:</b> Calcolo algebrico; Teoria degli insiemi</h6>
           <div class="fragment">
     <div class="card"><h6 style="text-align:left;"><b>CONOSCENZE</b></h6>
@@ -821,7 +832,7 @@ slides:
     <div class="column left fragment">
       <h4><i class="fas fa-users fa-sm"> EDUCAZIONE CIVICA</i></h4>
       <h6 style="font-size:60%">Il gioco d'azzardo: collegamenti con il calcolo delle probabilità e i problemi legati alla ludopatia</h6>
-      <img class="r-fit-text" src="py.webp" alt="neovim" opacity="0.2">
+      <img class="r-fit-text" src="prob.webp" alt="neovim" opacity="0.2">
     </div>
     <div class="column right fragment">
 <h6>PROBABILITÀ E LUDOPATIA</h6>
@@ -907,7 +918,7 @@ slides:
     <li style="color:#b82460"><em>stimoli di diversa natura con lo scopo di catturare l'attenzione:</em></li>
     <ul style="font-size: 80%"><br>
       <li>una frase, un aforisma, un post, una foto, un video, un articolo, una <em>"provocazione"</em></li>
-      <li> tutto il materiale è preparato in anticipo e caricato su: <a style="color:#b82460" href="https://2024-mathofthings.netlify.app/"><em>The Math of Things</em></a></li>
+      <li> tutto il materiale è preparato in anticipo e caricato su: <a style="color:#b82460" href="http://localhost:1313/slides/2024-ter_lesson/"><em>The Math of Things</em></a></li>
     </ul>
   </ul>
 </section>
@@ -916,6 +927,12 @@ slides:
   <p style="color:#392613; text-align:left font-size: 40px"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
     <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".</p>
   <span style="font-size: 36px;">&mdash; Giorgio Parisi <br>("In un volo di storni" - ed. Rizzoli - 2021)</span>
+  </em>
+</section>
+
+<section data-background-image="ocean1.webp" data-background-opacity="0.2" data-transition="convex">
+  <p style="color:#0E7490; text-align:left; font-size: 60px"><em>"La casa vince sempre. Giocare d'azzardo è come combattere un avversario che non dorme mai."</p>
+  <span style="color:#0E7490;font-size: 46px;">&mdash; Danny Ocean (George Clooney)</span>
   </em>
 </section>
 
@@ -1113,6 +1130,9 @@ slides:
     <li style="color:#EB442A">la modalità "compito" consente un controllo del
       lavoro dello studente</li>
   </ul>
+</section>
+<section data-background-iframe="https://2024-mathofthings.netlify.app/post/monty_hall-dilemma/"
+  data-background-interactive>
 </section>
 
 ---
