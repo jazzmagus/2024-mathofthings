@@ -34,8 +34,8 @@ slides:
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" width="620">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
   <br>
-  <h4 style="color##342A2A">Diego Fantinelli - matematica A026</h4>
-  <h4>Concorso Straordinario Ter - DM 25.05.2021 n. 73</h4>
+  <h4 style="color##342A2A">DIEGO FANTINELLI</h4>
+  <h3 style="color##342A2A">MATEMATICA A026</h3>
   <!-- <p style="font-size:70%"><em><a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/">The Math of Things</a> | <a style="color:#1d91de" href="https://2024-mathofthings.netlify.app/slides/capitolo5/">esempio attività didattica</a></em></p> -->
 </section>
 
@@ -216,6 +216,7 @@ slides:
 </section>
 
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h4 style="text-align:left;color:#EB442A">ALLEGATO 1</h4>
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
   <h4 class="r-fit-text">Le mie azioni quotidiane per l'inclusione</h4>
 <!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
@@ -230,20 +231,21 @@ slides:
     <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
     <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
-<section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-  <ul style="color:#392613; text-align:left;">
-    <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi,
-    psichiatri, etc. - e non può essere trattata con leggerezza</li>
-    <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
-  </ul></section>
+<!-- <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex"> -->
+<!--   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
+  <!-- <ul style="color:#392613; text-align:left;"> -->
+  <!--   <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, -->
+  <!--   psichiatri, etc. - e non può essere trattata con leggerezza</li> -->
+  <!--   <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li> -->
+  <!-- </ul> -->
+<!-- </section> -->
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
   <ul style="color:#392613; text-align:left;">
     <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, psichiatri, etc. - e non può essere trattata con leggerezza.</li>
-    <li class="fragment">gli eventuali ausili - compensativi e/o dispensativi - più efficaci sono quelli suggeriti dallo studente stesso.</li>
+    <li class="fragment">gli eventuali ausili - compensativi e/o dispensativi - più efficaci sono quelli suggeriti dallo studente stesso.<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul>
 </section>
 
@@ -263,7 +265,7 @@ slides:
     <li class="fragment"><b>contatto personale continuo</b>, anche e soprattutto extra-scolastico:
       <em>"Come va? Come procede la preparazione della verifica? Quali
         difficoltà hai incontrato durante l'ultima interrogazione? etc. "</em></li>
-    <li class="fragment"><b>collaborazione attiva </b>con eventuali figure di supporto extra-scolastico</li>
+    <li class="fragment"><b>collaborazione attiva </b>con eventuali figure e/o enti di supporto extra-scolastico: insegnanti di ripetizione, attività dopo-scuola, etc.</li>
   </ul>
 </section>
 
@@ -601,18 +603,18 @@ slides:
   <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1>
   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 </section>
-<section data-bcackground-image="prof.png" data-background-opacity="0.5" data-transition="convex">
-  <h3 style="color:#4E3319" class="r-fit-text">VALUTAZIONE</h3>
-<!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
-</section>
+<!-- <section data-bcackground-image="prof.png" data-background-opacity="0.5" data-transition="convex"> -->
+<!--   <h3 style="color:#4E3319" class="r-fit-text">VALUTAZIONE</h3> -->
+<!-- <!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+<!-- </section> -->
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <h1 class="r-fit-text">VALUTAZIONE </h1>
   <div class="columns">
     <div class="column left">
-      <h3 class="fragment">Titolo</h3>
-      <p class="fragment">Testo della slide nella colonna di sinistra.</p>
-      <ul class="fragment">
+      <h4 class="fragment">QUESTIONARIO DI GRADIMENTO</h4>
+      <!-- <p class="fragment">Testo della slide nella colonna di sinistra.</p> -->
+      <ul style="font-size:80%" class="fragment">
         <li>Lista di punti</li>
         <li>Altro punto</li>
         <li>Altro punto</li>
@@ -620,42 +622,49 @@ slides:
       </ul>
     </div>
     <div class="column right">
-      <img class="fragment r-fit-text" src="prof2.png" alt="neovim" height="500" opacity="0.2">
+      <img class="fragment" src="grad.png" alt="questionario di gradimento" height="450" opacity="0.8">
     </div>
   </div>
 </section>
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>
-</section>
+<!-- <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex"> -->
+<!--   <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
+<!--   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
+<!-- </section> -->
 
-<section data-bcackground-image="prof.png" data-background-opacity="0.5" data-transition="convex">
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
   <h3 style="color:#4E3319" class="r-fit-text">AUTOVALUTAZIONE</h3>
+  <!-- <h3 style="text-align:left" class="fragment">DEBRIEFING</h3> -->
 <!--   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="1115" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
 </section>
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h2 class="r-fit-text">DEBRIEFING</h2>
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+  <h3 style="text-align:left">DEBRIEFING</h3>
   <div class="columns">
     <div class="column left">
-      <h3 class="fragment">Titolo</h3>
-      <p class="fragment">Testo della slide nella colonna di sinistra.</p>
-      <ul class="fragment">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-      </ul>
+      <h5 class="fragment">DIARIO DI BORDO</h5>
+      <p style="font-size:70%" class="fragment">Attività di <em>journaling</em> meditato post lezione sull'efficacia dell'azione didattica</p>
+      <ul style="font-size:60%" >
+      <li class="fragment">Lo strumento scelto è <a href="https://obsidian.md/"><b>obsidian.md</b></a>, un software <em>opensource</em> di <em>notetaking</em> molto potente e flessibile, particolarmente indicato per la manipolazione di testi scientifici consentendo l'utilizzo di LaTeX, HTML, Python, JavaScript, etc.</li>
+</ul>
+      <img class="fragment" src="obsidian.png" alt="obsidian">
     </div>
     <div class="column right">
-      <img class="fragment r-fit-text" src="prof2.png" alt="neovim" height="500" opacity="0.2">
+      <h5 class="fragment">OBIETTIVI</h5>
+<img class="fragment" style="text-align:center;opacity:0.9;width:500px;"src="val.png" alt="autovalutazione">
+      <!-- <ol style="font-size:62%;" class="fragment"> -->
+      <!--   <li>Sei stato in grado di trasmettere efficacemente i contenuti della -->
+      <!--     lezione?</li> -->
+      <!--   <li>Sei stato in grado di catturare e mantenere alta l'attenzione?</li> -->
+      <!--   <li>Sei riuscito a "raggiungere" tutti?</li> -->
+      <!--   <li>Feedback dalla classe?</li> -->
+      <!-- </ol> -->
     </div>
   </div>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <!-- <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> --> -->
+<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
+  <!-- <!-- <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1> -->
   <!-- <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf0tY4qYmTzAb0lDWy_3uTSsOohvIzv4J6k6VCmAZSECz0R1Q/viewform?embedded=true" width="640" height="500" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe> -->
-</section>
+<!-- </section> -->
 
 ---
 
