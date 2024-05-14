@@ -41,8 +41,9 @@ slides:
 
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
-    traccia n. $25$:</h3>
-  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Sunt id in veniam aliqua amet veniam aliquip ut dolore nisi irure irure duis mollit.<br>Ex sunt irure dolor amet culpa elit proident duis id. Nostrud dolore ipsum amet.<br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua aliquip commodo irure cupidatat culpa elit proident duis id. <br>Aliqua et ut anim amet enim eu laboris ipsum voluptate Lorem aliqua duis ullamco dolore aliqua.</h5>
+    traccia n. $7$:</h3>
+  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Il candidato esponga una progettazione di attività didattica comprensiva dell'illustrazione delle scelte contenutistiche, didattiche e metodologiche compiute e di esempi di utilizzo delle TIC, relativamente all'argomento "Introduzione al concetto di PROBABILITÀ".
+Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti di un Istituto Tecnico, motivando la scelta della classe a cui rivolgere la lezione. II candidato ha la facoltà di ipotizzare le indicazioni non presenti.</h5>
   <h6 style="font-size:46%; color:#392613; text-align:justify;"><i class="fas fa-bookmark"></i> PROCEDURA CONCORSUALE STRAORDINARIA 2021 PER DOCENTI NELLA SCUOLA SECONDARIA (ARTICOLO 59, COMMA 9-BIS, DEL DECRETO-LEGGE 25 MAGGIO 2021, N. 73, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 23 LUGLIO 2021, N. 106)</h6>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
@@ -111,14 +112,14 @@ slides:
   <h2 class="r-fit-text" style="color:#3B2F2F"> CONTESTO DIDATTICO</h2>
   <h3 style="text-align:left;color:#3B2F2F"> la scuola</h3>
   <table class="fragment" style="font-size:90%; color:#342A2A" width="100%" data-transition="convex">
-  <p style="text-align:left;font-size:64%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al territorio con il pieno coinvolgimento delle istituzioni e delle realtà locali.</em><br> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
+  <p style="text-align:left;font-size:55%"><em>«L'istituzione scolastica redige if PTOF per l'apertura della comunità scolastica al territorio con il pieno coinvolgimento delle istituzioni e delle realtà locali.</em><br> &mdash; Art. 1 comma 2 - Legge «Buona Scuola»</p>
     <tr>
       <td><b>scuola<br>indirizzo</b></td>
       <td>Istituto Tecnico Industriale<br>Meccatronica</td>
     </tr>
     <tr>
       <td><b>contesto territoriale</b></td>
-      <td style="font-size:75%">L'istituto è inserito in un territorio fortemente orientato all'agricoltura e alla piccola industria/artigianato<b></td>
+      <td style="font-size:60%">L'Istituto è situato in un contesto produttivo dinamico imprese; un tempo il distretto era prevalentemente diversificato con una prevalenza di aziende meccaniche tecnologia (domotica, nanotecnologie, energie rinnovabili).<b></td>
     </tr>
     <tr>
       <td><b>classe</b></td>
