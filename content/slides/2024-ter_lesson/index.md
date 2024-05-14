@@ -142,7 +142,14 @@ slides:
       <td><b>fragilità</b></td>
       <td style="font-size:80%"><i>$\%$ e tipologia</i></td>
     </tr>
-  </table>
+ <tr>
+      <td><b>la comunità-classe</b></td>
+      <td style="font-size:70%"><i>la classe si presenta piuttosto eterogenea in
+      termini di competenze disciplinari acquisite; si distingue la presenza di
+      gruppo di 4/5 studenti particolarmente brillanti che fungono da traino per
+      gli altri, fornendo supporto anche a livello extra-scolastico</i></td>
+    </tr>
+ </table>
 </section>
 
 ---
@@ -283,8 +290,8 @@ slides:
 <section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
   <h3 style="text-align:left;"> COMPETENZE CHIAVE</h3>
   <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
-  <p style="text-align:left;font-size:35%"><i class='far fa-bookmark'></i> Combinazione di conoscenze, abilità e attitudini appropriate al contesto. Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personale, la cittadinanza attiva, l'inclusione sociale e l'occupazione.</p>
-  <p style="text-align:left;font-size:40%">Raccomandazione del Parlamento Europeo (18 dicembre 2006, aggiornate il 22 maggio 2018) Quadro Europeo delle Qualifiche (2008)</p>
+  <p style="text-align:left;font-size:40%"><i class='far fa-bookmark'></i> Combinazione di conoscenze, abilità e attitudini appropriate al contesto. Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personale, la cittadinanza attiva, l'inclusione sociale e l'occupazione.</p>
+  <p style="text-align:left;font-size:36%">RACCOMANDAZIONE DEL PARLAMENTO EUROPEO (18 DICEMBRE 2006, AGGIORNATE IL 22 MAGGIO 2018) QUADRO EUROPEO DELLE QUALIFICHE (2008)</p>
   <div class="columns">
     <div class="column left">
       <h4 style="text-align:left;"><b>EUROPEE</b></h4>
@@ -307,11 +314,11 @@ slides:
 </section>
 <section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
   <h3 style="text-align:left;"> COMPETENZE CHIAVE</h3>
-  <p style="text-align:left;font-size:35%"><i class='far fa-bookmark'></i> Combinazione di conoscenze, abilità e attitudini appropriate al contesto. Le competenze chiave sono quelle di cui tutti hanno bisogno per la realizzazione e lo sviluppo personale, la cittadinanza attiva, l'inclusione sociale e l'occupazione.</p>
+  <p style="text-align:left;font-size:40%"><i class='far fa-bookmark'></i> Le competenze chiave di cittadinanza sono finalizzate a promuovere l’esercizio attivo, consapevole e responsabile delle competenze civiche e sociali, integrando sapere, saper fare e saper essere, per lo sviluppo di una cittadinanza attiva e consapevole.</p>
   <p style="text-align:left;font-size:40%">D.M. 139/2019</p>  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
   <div class="columns">
     <div class="column left">
-      <img src="comunity.png" alt="2" style="text-align:center;width:400px;opacity:0.7">
+      <img src="comunity.png" alt="2" style="text-align:center;width:350px;opacity:0.7">
     </div>
     <div class="column right">
       <h4 style="text-align:left;"><b>DI CITTADINANZA</b></h4>
@@ -331,32 +338,36 @@ slides:
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h3 class="r-fit-text">COMPETENZE DI CITTADINANZA</h3> -->
-  <h4 class="r-fit-text">COMPETENZE CHIAVE DISCIPLINARI</h4>
-  <!-- <h5 style="color:#3B2F2F; font-size: 70%;"> Racc. Parlamento Europeo e Consiglio del 18/12/2006 - DM 139 22/08/07 </h5> -->
-  <!-- <h4 style="color:#3B2F2F"> specifiche disciplinari </h4> -->
-  <!-- <h4 style="color:#3B2F2F"> D.M. n. 139 del 22 agosto 2007 </h2> -->
-  <table style="font-size:70%; color:#392613" width="95%">
-    <tr>
-      <td width="40.0%"><b>competenze</b></td>
-      <td width="60.0%"><b>descrizione</b></td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>1. imparare ad imparare</em></td>
-      <td width="60.0%">organizzare il proprio apprendimento</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>2. saper progettare</em></td>
-      <td width="60.0%">elaborare e realizzare progetti</td>  
-    </tr>
-    <tr>
-      <td width="40.0%"><em>4. collaborare e partecipare</em></td>
-      <td width="60.0%">a. saper interagire in un gruppo<br>b. l'importanza della sinergia</td>
-    </tr>
-    <tr>
-      <td width="40.0%"><em>6. problem solving</em></td>
-      <td width="60.0%">a. sapersi documentare<br>b. formulare ipotesi<br>c. analizzare i dati<br>d. proporre soluzioni</td>
-    </tr>
-  </table>
+  <h4 class="r-fit-text">COMPETENZE IN USCITA</h4>
+  <h4 style="color:#8A4117">&mdash; specifiche disciplinari &mdash;</h4>
+  <div class="columns">
+    <div class="column left">
+<h4 style="text-align:left;"><i style="color:#8A4117" class="far fa-bookmark"></i><b>  CHIAVE</b></h4>
+      <ol style="font-size:58%">
+        <li>Imparare ad imparare</li>
+        <li>Progettare</li>
+        <li>Comunicare</li>
+        <li>Collaborare e partecipare</li>
+        <li>Agire in modo autonomo e responsabile</li>
+        <li>Problem solving</li>
+        <li>Individuare collegamenti e relazioni</li>
+        <li>Acquisire ed interpretare l'informazione</li>
+      </ol>
+    </div>
+    <div class="column right">
+      <h4 style="text-align:left;"><i style="color:#8A4117" class="far fa-bookmark"></i><b>  DI CITTADINANZA</b></h4>
+      <ol style="font-size:58%">
+        <li>Imparare ad imparare</li>
+        <li>Progettare</li>
+        <li>Comunicare</li>
+        <li>Collaborare e partecipare</li>
+        <li>Agire in modo autonomo e responsabile</li>
+        <li>Problem solving</li>
+        <li>Individuare collegamenti e relazioni</li>
+        <li>Acquisire ed interpretare l'informazione</li>
+      </ol>
+    </div>
+  </div>
 </section>
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
@@ -373,15 +384,6 @@ slides:
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
 </section>
-
-<!-- <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex"> -->
-<!--   <h4 style="text-align:left; color:#8A4117" >COMPETENZE CURRICOLARI</h4> -->
-<!--   <h5 style="text-align:left;"><b>conoscenze</b></h5><em> -->
-<!--     <ul style="font-size:70%"> -->
-<!--       <li>Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.</li> -->
-<!--       <li>Rappresentazione degli insiemi numerici su una retta orientata.</li> -->
-<!--     </ul></em> -->
-<!-- </section> -->
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
@@ -470,7 +472,7 @@ slides:
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
-  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE DELLA PROVA SCRITTA</h4>
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE - PROVA SCRITTA</h4>
 <table style="font-size:35%" border="0">
     <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
   <thead>
@@ -533,14 +535,14 @@ slides:
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
-  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE STUDENTI</h4>
-  <img class="fragment" src="tab_pt.png" alt="tabella punteggi" width="90%">
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE PER GLI STUDENTI</h4>
+  <img class="fragment" src="tab_pt.png" alt="tabella punteggi" width="86%">
 </section>
 
 <section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
 
   <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
-  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</h4>
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA DI VALUTAZIONE - PROVA ORALE</h4>
 <table style="font-size:35%" border="0">
     <!-- <caption>GRIGLIA DI VALUTAZIONE DELLA PROVA ORALE</caption> -->
   <thead>
@@ -597,7 +599,59 @@ slides:
       <td>9++10</td>
     </tr>
   </tbody>
-</table></section>
+</table>
+</section>
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h1 class="r-fit-text" style="color:#3B2F2F;text-align:left">VALUTAZIONE <br> FORMATIVA</h3>
+</section>
+<section data-background-image="puzzle.jpg" data-background-opacity="0.3" data-transition="convex">
+
+  <!-- <h3 style="color:#3B2F2F" class="r-fit-text">VALUTAZIONE SOMMATIVA</h3> -->
+  <h4 style="color:#3B2F2F;text-align:left">GRIGLIA VALUTAZIONE FORMATIVA</h4>
+<table style="font-size:38%" border="0">
+  <thead>
+        <tr>
+            <th>Categoria</th>
+            <th>4</th>
+            <th>3</th>
+            <th>2</th>
+            <th>1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Contributo al lavoro di gruppo</td>
+            <td>Condivide costantemente e attivamente conoscenze, opinioni e capacità senza essere sollecitato.</td>
+            <td>Condivide conoscenze, opinioni e capacità senza essere sollecitato.</td>
+            <td>Condivide informazioni con il gruppo con occasionale sollecitazione.</td>
+            <td>Condivide informazioni con il gruppo solo quando invitato a farlo.</td>
+        </tr>
+        <tr>
+            <td>Interazione con il gruppo</td>
+            <td>Aiuta il gruppo a identificare i cambiamenti richiesti e azioni necessarie; il lavoro del gruppo che favoriscono il cambiamento; svolge il lavoro senza essere sollecitato.</td>
+            <td>Partecipa volentieri ai cambiamenti necessari; si impegna nel lavoro assegnato e raramente ha bisogno di essere sollecitato.</td>
+            <td>Partecipa ai cambiamenti richiesti con occasionali sollecitazioni; ha spesso bisogno di essere sollecitato a svolgere il lavoro.</td>
+            <td>Partecipa ai cambiamenti richiesti quando viene sollecitato; e inclinato a seguire piuttosto che a proporsi per svolgere il lavoro.</td>
+        </tr>
+        <tr>
+            <td>Contributo agli obiettivi del gruppo</td>
+            <td>Lavora costantemente e attentamente per gli obiettivi del gruppo; svolge volontariamente il proprio ruolo all'interno del gruppo.</td>
+            <td>Lavora per gli obiettivi del gruppo senza sollecitazioni; accetta e svolge il proprio ruolo individuale all'interno del gruppo.</td>
+            <td>Lavora per gli obiettivi del gruppo con occasionale sollecitazione.</td>
+            <td>Lavora per gli obiettivi del gruppo solo quando invitato a farlo.</td>
+        </tr>
+        <tr>
+            <td>Valutazione dei membri</td>
+            <td>Mostra sensibilità per i sentimenti e per i bisogni formativi degli altri; valorizza la conoscenza, le opinioni e le capacità di tutti i membri del gruppo.</td>
+            <td>Mostra ed esprime sensibilità per i sentimenti degli altri; incoraggia la partecipazione degli altri.</td>
+            <td>Mostra sensibilità per i sentimenti degli altri.</td>
+            <td>Ha bisogno di essere sollecitato a prestare attenzione ai sentimenti degli altri.</td>
+        </tr>
+    </tbody>
+</table>
+</section>
 
 <section data-background-image="prof.png" data-background-opacity="0.5" data-transition="convex">
   <h1 style="color:#4E3319" class="r-fit-text">RATE YOUR <br>TEACHER</h1>
@@ -649,14 +703,7 @@ slides:
     </div>
     <div class="column right">
       <h5 class="fragment">OBIETTIVI</h5>
-<img class="fragment" style="text-align:center;opacity:0.9;width:500px;"src="val.png" alt="autovalutazione">
-      <!-- <ol style="font-size:62%;" class="fragment"> -->
-      <!--   <li>Sei stato in grado di trasmettere efficacemente i contenuti della -->
-      <!--     lezione?</li> -->
-      <!--   <li>Sei stato in grado di catturare e mantenere alta l'attenzione?</li> -->
-      <!--   <li>Sei riuscito a "raggiungere" tutti?</li> -->
-      <!--   <li>Feedback dalla classe?</li> -->
-      <!-- </ol> -->
+<img class="fragment" style="text-align:center;opacity:0.9;width:600px;"src="val.png" alt="autovalutazione">
     </div>
   </div>
 </section>
