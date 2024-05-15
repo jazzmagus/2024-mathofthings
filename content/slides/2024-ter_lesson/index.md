@@ -1042,7 +1042,7 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
 <h2 style="text-align:left;color:#2B2A26">COOPERATIVE LAB <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
 <div class="columns">
     <div class="column left">
-      <h5 class="fragment">COLLEGHIAMO I CONCETTI</h5>
+      <h5 class="fragment"><i class="fas fa-arrow-right"></i> VOLI PINDARICI O LINK?</h5>
 <img class="fragment r-fit-text" src="dice_bkg.png" alt="neovim" width="450">
     </div>
     <div class="column right">
@@ -1087,23 +1087,14 @@ $$
       <h5 style="text-align:left;color:#2B2A26" ><i class='fas fa-bookmark'></i> ESEMPIO</h5>
 <p style="text-align:left">Immagina di cercare di localizzare un elettrone:</p>
 
-  <ul>
-        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26">Se usi un microscopio con luce di lunghezza d'onda molto corta per vedere l'elettrone con grande precisione, impartisci ad esso una grande quantità di moto (cambiando significativamente la sua velocità).</li>
-        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26">
+  <ul style="font-size:70%";>
+        <li class="fragment" style="text-align:left;color:#2B2A26">Se usi un microscopio con luce di lunghezza d'onda molto corta per vedere l'elettrone con grande precisione, impartisci ad esso una grande quantità di moto (cambiando significativamente la sua velocità).</li>
+        <li class="fragment" style="text-align:left;color:#2B2A26">
 Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare il disturbo alla quantità di moto dell'elettrone, la tua misura della posizione sarà meno precisa.
-</li>
+</li><br>
+  <ul style="color:#EB442A;font-size:90%">
+<li class="fragment"> Il principio di indeterminazione ha profonde implicazioni per la natura della realtà a livello quantistico, sfidando la nostra intuizione classica e influenzando molte aree della fisica moderna, dalla teoria dei quanti alla fisica delle particelle.</li>
   </ul>
-</section>
-
-<section data-background-image="bkb_bkg.jpeg" data-background-opacity="0.3" data-transition="convex">
-<p>Immagina di cercare di localizzare un elettrone:</p>
-<h3>
-$$
-\Delta x \cdot \Delta p \geq \dfrac{h}{4 \pi}
-$$
-</h3>
-  <ul style="font-size:76%">
-<li> Il principio di indeterminazione ha profonde implicazioni per la natura della realtà a livello quantistico, sfidando la nostra intuizione classica e influenzando molte aree della fisica moderna, dalla teoria dei quanti alla fisica delle particelle.</li>
   </ul>
 </section>
 
