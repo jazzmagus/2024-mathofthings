@@ -42,8 +42,8 @@ slides:
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5">
   <h3 style="color:#392613; text-align:left;"><i class='far fa-bookmark fa-sm'></i>
     traccia n. $7$:</h3>
-  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Il candidato esponga una progettazione di attività didattica comprensiva dell'illustrazione delle scelte contenutistiche, didattiche e metodologiche compiute e di esempi di utilizzo delle TIC, relativamente all'argomento "<b>Introduzione al concetto di PROBABILITÀ</b>".<br>
-    Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti di un Istituto Tecnico, motivando la scelta della classe a cui rivolgere la lezione. II candidato ha la facoltà di ipotizzare le indicazioni non presenti.</h5>
+  <h5 class="r-fit-text" style="color:#392613; text-align:justify;">Il candidato esponga una progettazione di attività didattica comprensiva dell'illustrazione delle scelte contenutistiche, didattiche e metodologiche compiute e di esempi di utilizzo delle TIC, relativamente all'argomento "<b>Introduzione al concetto di PROBABILITÀ</b>".<br><br>
+    Il candidato consideri che l'attività è rivolta a un gruppo/classe di studenti di un Istituto Tecnico, motivando la scelta della classe a cui rivolgere la lezione.<br> II candidato ha la facoltà di ipotizzare le indicazioni non presenti.</h5>
   <h6 style="font-size:46%; color:#392613; text-align:justify;"><i class="fas fa-bookmark"></i> PROCEDURA CONCORSUALE STRAORDINARIA 2021 PER DOCENTI NELLA SCUOLA SECONDARIA (ARTICOLO 59, COMMA 9-BIS, DEL DECRETO-LEGGE 25 MAGGIO 2021, N. 73, CONVERTITO, CON MODIFICAZIONI, DALLA LEGGE 23 LUGLIO 2021, N. 106)</h6>
   <img src="mim.png" alt="miur" style="opacity:0.8;filter:alpha(opacity=60);" align="left" width="320"><img src="qrcode.png" alt="code" style="opacity:0.8;filter:alpha(opacity=60);" align="right" width="90">
     <!-- <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3> -->
@@ -67,7 +67,7 @@ slides:
         <ul>
           <li>tipologia e frequenza delle disabilità</li>
           <li>metodologie e scelte didattiche</li>
-          <li style="font-size:80%; color:#6D3234"><b>ALLEGATO1: OLTRE IL P.d.P.</b></li>
+          <li style="font-size:80%; color:#EB442A"><b>ALLEGATO 1: OLTRE IL P.d.P.</b></li>
         </ul>
       </td>
     </tr>
@@ -123,7 +123,7 @@ slides:
     </tr>
     <tr>
       <td><b>periodo</b></td>
-      <td style="font-size:80%"><i>Classe seconda - fine secondo quadrimestre</i></td>
+      <td style="font-size:80%"><b>Classe seconda</b> - fine secondo quadrimestre</td>
     </tr>
   </table>
 </section>
@@ -137,22 +137,26 @@ slides:
     <!-- </tr> -->
     <tr>
       <td><b>composizione</b></td>
-      <td style="font-size:80%"><i>n. studenti: 22, tutti maschi</i></td>
+      <td style="font-size:80%">n. studenti: 22, tutti maschi</td>
     </tr>
     <tr>
       <td><b>fragilità</b></td>
-      <td style="font-size:80%"><i>2 studenti B.E.S.: 1 con discalculia e
-        disgrafia; 1 Difficoltà emozionali, di autostima e autoefficacia</i></td>
+      <td style="font-size:80%">
+<ul style="font-size:80%">
+    <li>1 B.E.S.: discalculia, disgrafia e disortografia lievi;
+    <li>1 "altri" B.E.S.: difficoltà emozionali, di autostima e autoefficacia</li>
+      </td>
+</ul>
     </tr>
     <tr>
       <td><b>la comunità-classe</b></td>
-      <td style="font-size:66%"><i>La classe si presenta piuttosto eterogenea in
+      <td style="font-size:60%">La classe si presenta piuttosto eterogenea in
         termini di competenze disciplinari acquisite; si distingue la presenza di
         gruppo di 4/5 studenti particolarmente brillanti che fungono da traino per
         gli altri, fornendo supporto anche a livello extra-scolastico.
         Permangono dei nuclei di turbolenza, ma nel complesso la classe permette
       di lavorare in un ambiente stimolante e costruttivo. Il livello medio di
-        attenzione si attesta intorno ai 25÷30 minuti.</i></td>
+        attenzione si attesta intorno ai 25÷30 minuti.</td>
     </tr>
   </table>
 </section>
@@ -230,7 +234,7 @@ slides:
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h4 style="text-align:left;color:#EB442A">ALLEGATO 1</h4>
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-  <h4 class="r-fit-text">Le mie azioni quotidiane per l'inclusione</h4>
+  <h4 class="r-fit-text"><i class="fas fa-recycle"></i> Le mie azioni quotidiane per l'inclusione</h4>
   <!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
 </section>
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -244,7 +248,7 @@ slides:
   <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">Gli "ALTRI" B.E.S.</h2>
+  <h2 class="r-fit-text">Gli <i>ALTRI</i> B.E.S.</h2>
 <ul style="color:#392613;font-size:80%; text-align:left;">
   <li>Difficoltà emozionali: (timidezza, collera, ansia, inibizione, depressione)</li>
   <li>Difficoltà relazionali e del comportamento
@@ -272,7 +276,7 @@ slides:
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
-    <li class="fragment"><i>"Tra gli ingredienti necessari a un buon insegnante c’è l’empatia, la capacità di comprendere le emozioni degli studenti e di rispondere con compassione"</i><br>&mdash;Haim Ginott</li>
+    <li class="fragment"><i>"Tra gli ingredienti necessari a un buon insegnante c’è l’empatia, la capacità di comprendere le emozioni degli studenti e di rispondere con compassione"</i><br>&mdash; Haim Ginott</li>
     <li class="fragment"><em>valutazione empatica</em>: in fase di valutazione delle competenze - verifiche, interrogazioni, etc. - i contenuti hanno maggior peso della forma<br><p style="font-size:60%">Legge $170/2010$ D.M. BES $27/12/2012$</p></li>
   </ul>
 </section>
@@ -324,7 +328,7 @@ slides:
   </div>
   <!-- <p style="text-align:left;font-size:40%">Raccomandazione del Parlamento Europeo (18 dicembre 2006, aggiornate il 22 maggio 2018) Quadro Europeo delle Qualifiche (2008)</p> -->
 </section>
-<section data-auto-animate data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+<section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.2">
   <h3 style="text-align:left;"> COMPETENZE CHIAVE</h3>
   <p style="text-align:left;font-size:40%"><i class='far fa-bookmark'></i> Le competenze chiave di cittadinanza sono finalizzate a promuovere l’esercizio attivo, consapevole e responsabile delle competenze civiche e sociali, integrando sapere, saper fare e saper essere, per lo sviluppo di una cittadinanza attiva e consapevole.</p>
   <p style="text-align:left;font-size:40%">D.M. 139/2019</p>  <!-- <img src="comunity.png" alt="2" style="width:300px;height:300px;opacity:0.7"> -->
@@ -378,14 +382,21 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#8A4117" class="r-fit-text">LINEE GUIDA e INDICAZIONI NAZIONALI 2010</h2>
-  <h5 style="text-align:left;"><b>Competenze di base - Istituti Tecnici</b></h5><em>
-    <h5 style="text-align:left; color:#8A4117">secondo biennio e quinto anno</h5>
-    <ul style="font-size:70%">
-      <li>Utilizzare il linguaggio e i metodi propri della matematica per organizzare e valutare adeguatamente informazioni qualitative e quantitative</li>
-      <li>Utilizzare le strategie del pensiero razionale negli aspetti dialettici e algoritmici per affrontare situazioni problematiche, elaborando opportune soluzioni</li>
-      <li>Utilizzare le reti e gli strumenti informatici nelle attività di studio, ricerca e approfondimento disciplinare</li>
-      <li>Correlare la conoscenza storica generale agli sviluppi delle scienze, delle tecnologie e delle tecniche negli specifici campi professionali di riferimento</li>
+  <h5 style="text-align:left;"><b>Competenze di base - Istituti Tecnici | PRIMO BIENNIO</b></h5>
+    <!-- <h5 style="text-align:left; font-size:40%; color:#8A4117">PRIMO BIENNIO</h5> -->
+    <h5 style="text-align:left; font-size:38%; color:#8A4117"><i class="fas fa-bookmark"></i> D.P.R. 15 MARZO 2010, ARTICOLO 8, COMMA 3</h5>
+    <p style="font-size:48%; text-align:left;">Ai fini del raggiungimento dei risultati di apprendimento sopra riportati in esito al percorso quinquennale, nel primo biennio il docente persegue, nella propria azione didattica ed educativa, l'obiettivo prioritario di far acquisire allo studente le competenze di base attese a conclusione dell'obbligo di istruzione, di seguito richiamate:</p><em>
+    <ul style="font-size:52%">
+      <li>utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico rappresentandole anche sotto forma grafica</li>
+      <li>confrontare ed analizzare figure geometriche, individuando invarianti e relazioni</li>
+      <li>individuare le strategie appropriate per la soluzione di problemi </li>
+      <li>analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio di rappresentazioni
+grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo
+informatico</li>
     </ul></em>
+    <p style="font-size:48%; text-align:left;">L'articolazione dell'insegnamento di "Matematica" in conoscenze e abilità è di seguito indicata quale orientamento per la progettazione didattica del docente in relazione alle scelte compiute nell'ambito della programmazione collegiale del Consiglio di classe.
+<br>
+Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni alla matematica, sia ad aspetti specifici collegati ad ambiti scientifici (economico, sociale, tecnologico) o, più in generale, al mondo reale.</p>
 </section>
 
 ---
@@ -669,15 +680,15 @@ slides:
   <div class="columns">
     <div class="column left">
       <h5 class="fragment">DIARIO DI BORDO</h5>
-      <p style="font-size:70%" class="fragment">Attività di <em>journaling</em> meditato post lezione sull'efficacia dell'azione didattica</p>
-      <ul style="font-size:60%" >
+      <p style="font-size:64%" class="fragment">Attività di <em>journaling</em> meditato post lezione sull'efficacia dell'azione didattica</p>
+      <ul style="font-size:58%" >
         <li class="fragment">Lo strumento scelto è <a href="https://obsidian.md/"><b>obsidian.md</b></a>, un software <em>opensource</em> di <em>notetaking</em> molto potente e flessibile, particolarmente indicato per la manipolazione di testi scientifici consentendo l'utilizzo di LaTeX, HTML, Python, JavaScript, etc.</li>
       </ul>
       <img class="fragment" src="obsidian.png" alt="obsidian">
     </div>
     <div class="column right">
       <h5 class="fragment">OBIETTIVI</h5>
-      <img class="fragment" style="text-align:center;opacity:0.9;width:600px;"src="val.png" alt="autovalutazione">
+      <img class="fragment" style="text-align:center;opacity:0.9;width:600px;"src="val01.png" alt="autovalutazione">
     </div>
   </div>
 </section>
@@ -740,56 +751,50 @@ slides:
   <h1 style="color:#4E3319" class="r-fit-text">PROGETTAZIONE <br> DIDATTICA</h1>
 </section>
 
-<section>
-  <h1 class="r-fit-text" style="color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
-  <table class="r-fit-text" style="font-size:64%" width="83%">
+<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
+  <h1 class="r-fit-text" style="text-align:left;color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
+  <h4 style="text-align:left;color:#3B2F2F">UDA - IL CALCOLO DELLE PROBABILITÀ</h4>
+  <table class="r-fit-text" style="font-size:60%" width="83%">
     <tr>
-      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 1</td>
-      <td width="50.0%">Questioning</td>
-      <td width="10.0%">$5^{\prime}$</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 1</td>
+      <td width="50.0%"><strong style="color:#eb432aff">introduzione al CALCOLO delle PROBABILITÀ</strong></td>
+      <td width="10.0%">1 h</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 2</td>
-      <td width="50.0%">Framing - <em>mindmapping</em></td>
-      <td width="10.0%">$5^{\prime}$</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 2</td>
+      <td width="50.0%">Concetti fondamentali</em></td>
+      <td width="10.0%">1 h</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 3</td>
-      <td width="50.0%">Active</td>
-      <td width="10.0%">$15^{\prime}$</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 3</td>
+      <td width="50.0%">Teoremi sulla probabilità</td>
+      <td width="10.0%">2 h</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 4</td>
-      <td width="50.0%">Lab & Cooperative-learning</td>
-      <td width="10.0%">$20^{\prime}$</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 4</td>
+      <td width="50.0%">Lab informatica & Cooperative-learning</td>
+      <td width="10.0%">1/2 h</td>
     </tr>
     <tr>
-      <td style="color:#8A4117; font-size:65%" width="20.0%">Fase 5</td>
-      <td width="50.0%">Recap</td>
-      <td width="10.0%">$10^{\prime}$</td>
+      <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 5</td>
+      <td width="50.0%">Recap | esercizi in preparazione alla verifica</td>
+      <td width="10.0%">2 h</td>
     </tr>
     <tr>
-      <td style="color:#eb432aff; font-size:65%" width="20.0%">Fase 6</td>
-      <td style="color:#eb432aff" width="50.0%"><em>homeworks</em></td>
-      <td style="color:#eb432aff" width="10.0%"><em>post lesson</em></td>
+      <td style="color:#eb432aff; font-size:65%" width="20.0%">lezione 6</td>
+      <td style="color:#eb432aff" width="50.0%"><em>verifica | TEST</em></td>
+      <td style="color:#eb432aff" width="10.0%"><em>2 ore</em></td>
     </tr>
   </table>
 </section>
 
-<section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#8A4117">U.d.A. di riferimento</h2>
-  <img src="prj.png" alt="neovim"
-    style="opacity:1.0">
-    <!-- <p>sistema di gestione delle informazioni basato sull'efficacia di <em>tags</em> e <em>backlinks</em> per i collegamenti tra le note; utilizza la semplicità del Markdown ma, tramite infiniti plugin, supporta Html, Css, $\LaTeX$ simulando una gestione della conoscenza sul modello delle reti neuronali</p> -->
-</section>
-
 <section data-auto-animate data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 style="text-align:left; color:#8A4117" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
+  <h2 style="text-align:left; color:#3B2F2F" class="r-fit-text">COMPETENZE<br>CURRICOLARI</h2>
 </section>
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#4E3319" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-<h6 style="text-align:left; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [MULTIMATH.VERDE VOL. 2 DEL BIENNIO, CAPITOLO 9 DA PAG. 470 - PAR. DA 1 A 13, APPUNTI DEL DOCENTE]</h6>
+<h6 style="text-align:left; font-size:46%; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [MULTIMATH.VERDE VOL. 2 DEL BIENNIO, CAPITOLO 9 DA PAG. 470 - PAR. DA 1 A 13, APPUNTI DEL DOCENTE]</h6>
     <h6 style="font-size:46%;text-align:left;color:#164E63"><i class="fas fa-highlighter"></i><b> PREREQUISITI:</b> Calcolo algebrico; Teoria degli insiemi</h6>
           <div class="fragment">
     <div class="card"><h6 style="text-align:left;"><b>CONOSCENZE</b></h6>
@@ -930,8 +935,8 @@ slides:
   </em>
 </section>
 
-<section data-background-image="ocean1.webp" data-background-opacity="0.2" data-transition="convex">
-  <p style="color:#0E7490; text-align:left; font-size: 60px"><em>"La casa vince sempre. Giocare d'azzardo è come combattere un avversario che non dorme mai."</p>
+<section data-background-image="ocean11.jpeg" data-background-opacity="0.2" data-transition="convex">
+  <p style="color:#0E7490; text-align:left; font-size: 70px"><em>"La casa vince sempre. Giocare d'azzardo è come combattere un avversario che non dorme mai."</p>
   <span style="color:#0E7490;font-size: 46px;">&mdash; Danny Ocean (George Clooney)</span>
   </em>
 </section>
@@ -945,21 +950,16 @@ slides:
   <h2 <span style="color:#b82460">${\small{10'}}$ </span></h2>
 </section>
 <section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
-  <!-- <h2 style="color:#3B2F2F" class="fragment"> FRAMING </h2> -->
-  <ul>
-    <li><em>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</em></li><br>
-    <ul class="fragment" style="font-size: 82%;">
+  <h3 style="text-align:left;color:#3B2F2F"> MINDMAPPING </h3>
+  <ul class="fragment" style="font-size:80%">
+    <li>un filo conduttore con forte impatto visivo, efficace e sintetico, che permetta di evidenziare:</li><br>
+    <ul style="font-size: 80%;">
       <li><b><em>prerequisiti</b>: da dove veniamo</em></li>
       <li><b><em>obiettivi</b>: dove dobbiamo andare</em></li>
       <li><b><em>strumenti</b>: con quali mezzi affrontiamo il viaggio</em></li>
     </ul>
   </ul>
-</section>
-
-<section data-background-image="optical.jpg" data-background-opacity="0.3" data-transition="convex">
-  <!-- <img src="3.png" alt="2" style="width:200px;height:200px;color:#4E3319;"> -->
-  <h2 style="color:#8A4117">MINDMAPPING</h2>
-  <img class="fragment r-fit-text" src="map08.png" alt="mindmapping" style="opacity:0.8">
+  <img class="fragment" src="uda.png" alt="mindmapping">
 </section>
 
 ---
@@ -981,45 +981,85 @@ slides:
     <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
   </ul>
 </section>
-<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-
-<h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
-  <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
-  </ul>
-
-  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
-</section>
-
-<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-
-<h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2>
-  <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li>
-  </ul>
-
-  <img class="fragment r-fit-text" src="scr01.png" alt="neovim" width="90%">
-</section>
+<!-- <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex"> -->
+<!---->
+<!-- <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
+<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2> -->
+<!--   <ul class="fragment" style="font-size: 80%;" > -->
+<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
+<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
+<!--   </ul> -->
+<!---->
+<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285"> -->
+<!-- </section> -->
+<!---->
+<!-- <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex"> -->
+<!---->
+<!-- <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
+<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2> -->
+<!--   <ul class="fragment" style="font-size: 80%;" > -->
+<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
+<!--     <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li> -->
+<!--   </ul> -->
+<!---->
+<!--   <img class="fragment r-fit-text" src="scr01.png" alt="neovim" width="90%"> -->
+<!-- </section> -->
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h1 class="r-fit-text">elaborazione delle idee</h1>
+  <h2 class="r-fit-text">CONCETTI FONDAMENTALI</h2>
   <div class="columns">
     <div class="column left">
-      <h3 class="fragment">Titolo</h3>
-      <p class="fragment">Testo della slide nella colonna di sinistra.</p>
-      <ul class="fragment">
-        <li>Lista di punti</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
-        <li>Altro punto</li>
+      <h5 class="fragment">PRIMA LEZIONE</h5>
+      <ul style="font-size:46%" class="fragment">
+        <li><b>Spazio dei risultati:</b> insieme di tutti i possibili esiti di una prova (ossia di un esperimento o di un’osservazione).</li>
+        <li><b>evento:</b> ogni sottoinsieme dello spazio dei risultati $S$. L'evento certo è lo stesso spazio dei risultati $S$, l'evento impossibile è l'insieme vuoto $\varnothing$; ogni altro evento si dice aleatorio. Ogni sottoinsieme di $S$ contenente un solo elemento è un evento elementare.</li>
+        <li><b>evento ripetibile:</b> evento che si riferisce a un esperimento o osservazione che può essere eseguito un numero indefinito di volte.</li>
+        <li><b>frequenza:</b> di un evento ripetibile: rapporto tra il numero di prove in cui si verifica l’evento e il numero diprove eseguite.</li>
       </ul>
     </div>
     <div class="column right">
-      <img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" opacity="0.2">
+      <img class="fragment" src="dice.png" alt="neovim" opacity="0.2">
+    </div>
+  </div>
+</section>
+
+<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h2 class="r-fit-text">EVENTI E PROBABILITÀ</h2>
+  <div class="columns">
+    <div class="column left">
+      <h5 class="fragment">SECONDA LEZIONE</h5>
+      <ul style="font-size:42%" class="fragment">
+        <li><b>Probabilità di un evento:</b> rapporto tra il numero di casi favorevoli all’evento e il numero di casi possibili.</li>
+        <li><b>Unione di eventi:</b><br> Unione di eventi: evento che si verifica se e solo se si verifica almeno uno degli eventi dati. L'unione di due eventi $A$ e $B$ si indica con $A \cup B$.</li>
+        <li><b>Intersezione di eventi:</b><br> evento che si verifica se e solo se si verificano tutti gli eventi dati. L'intersezione di due eventi $A$ e $B$ si indica con $A \cap B$.</li>
+        <li><b>Evento contrario:</b><br> evento che si verifica se e solo se non si verifica l'evento dato. L'evento contrario di un evento $A$ si indica con $\bar{A}$.</li>
+        <li><b>Evento contrario:</b><br> Eventi compatibili: due eventi che si possono verificare contemporaneamente, ossia in una stessa prova. Se due eventi non si possono verificare contemporaneamente si dicono incompatibili.</li>
+      </ul>
+    </div>
+    <div class="column right">
+      <img class="fragment r-fit-text" src="venn.png" alt="neovim" opacity="0.2">
+    </div>
+  </div>
+</section>
+<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+  <h3 class="r-fit-text">TEOREMI SULLA PROBABILITA</h3>
+  <div class="columns">
+    <div class="column left">
+      <h5 class="fragment">TERZA LEZIONE</h5>
+      <ul style="font-size:46%" class="fragment">
+        <li><b>Probabilità totale</b><br> La probabilità dell'unione di due eventi $A$ e $B$ è:<br>
+$p(A \cup B)=p(A)+p(B)$ <br>se i due eventi sono incompatibili<br>
+$p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
+        <li><b>Probabilità contraria</b><br> La probabilità dell'evento $\bar{A}$, contrario dell'evento $A$, è<br> $p(\bar{A})=1-p(A)$.</li>
+        <li><b>Probabilità condizionata:</b><br> È la probabilità che si verifichi l'evento $A$ nell'ipotesi che si verifichi l'evento $B$: <br>$p(A / B)=\dfrac{p(A \cap B)}{p(B)}$</li>
+      </ul>
+    </div>
+    <div class="column right">
+<ul style="font-size:46%" class="fragment">
+        <li><b>Eventi dipendenti e indipendenti:</b><br> Se la probabilità di un evento non dipende dal verificarsi di un altro evento si dice che i due eventi sono indipendenti. Se ciò non accade i due eventi si dicono dipendenti.<br>
+$p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
+        <li><b>Probabilità composta:</b><br> La probabilità dell'intersezione di due eventi $A$ e $B$ è<br> $p(A \cap B)=p(A) \cdot p(B / A)$.<br> Nel caso che i due eventi siano indipendenti è <br>$p(A \cap B)=p(A) \cdot p(B)$.</li>
+      </ul>
     </div>
   </div>
 </section>
