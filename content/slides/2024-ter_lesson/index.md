@@ -1037,58 +1037,74 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
   <h2 <span style="color:#b82460">${\small{20'}}$ </span></h2>  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
   <!-- <h1 style="color:#8A4117">FASE 4 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{20'}}$ </span></h1> -->
 </section>
-<section data-background-video="study.mp4" data-background-opacity="0.2" data-transition="convex">
-  <h3 style="color:#3B2F2F">Math LAB</h3>
-  <ul class="fragment" style="font-size: 80%;">
-    <li>correzione esercizi assegnati</li>
-    <ul style="color:#8A4117">
-      <li>a cura dello studente: per acquisire sicurezza</li>
-      <li>a cura dell'insegnante</li>
-    </ul>
-    <li>Cooperative learning: es. peer-tutoring</li>
-    <li>strumenti informatici: <em>es. Geogebra, Desmos, Wolfram Alpha, etc.</em></li>
+
+<section data-background-image="venn2.webp" data-background-opacity="0.3" data-transition="convex">
+<h2 style="text-align:left;color:#2B2A26">COOPERATIVE LAB <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
+<div class="columns">
+    <div class="column left">
+      <h5 class="fragment">COLLEGHIAMO I CONCETTI</h5>
+<img class="fragment r-fit-text" src="dice_bkg.png" alt="neovim" width="450">
+    </div>
+    <div class="column right">
+<ol style="font-size:40%" class="fragment">
+        <li><b>LANCIO DI DADI:</b><br> Se la probabilità di un evento non dipende dal verificarsi di un altro evento si dice che i due eventi sono indipendenti. Se ciò non accade i due eventi si dicono dipendenti.<br>
+$p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
+        <li><b>LEGGE DEI GRANDI NUMERI:</b><br> La Legge dei Grandi Numeri afferma che, man mano che il numero di esperimenti aumenta, la frequenza relativa degli esiti di un esperimento casuale tende a stabilizzarsi attorno alla probabilità teorica. In altre parole, lanciando una moneta un numero sufficiente di volte, la proporzione di teste e croci si avvicinerà sempre di più al $50 \%$.</li>
+        <li><b>PRINCIPIO DI INDETERMINAZIONE DI HEISEMBERG:</b><br> La probabilità dell'intersezione di due eventi $A$ e $B$ è<br> $p(A \cap B)=p(A) \cdot p(B / A)$.<br> Nel caso che i due eventi siano indipendenti è <br>$p(A \cap B)=p(A) \cdot p(B)$.</li>
+      </ol>
+    </div>
+  </div>
+</section>
+<section data-auto-animate data-background-image="bkb_bkg.jpeg" data-background-opacity="0.9" data-transition="convex">
+<h1 style="color:#F1F1EE">SAY <br>MY<br> NAME!</h2>
+
+</section>
+<section data-auto-animate data-background-image="bkb_bkg.jpeg" data-background-opacity="0.3" data-transition="convex">
+      <h5 style="text-align:left;color:#2B2A26" ><i class='fas fa-bookmark'></i> IL PRINCIPIO DI INDETERMINAZIONE DI HEISEMBERG</h5>
+  <ul>
+        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26"><em>Il principio di indeterminazione di Heisenberg, formulato dal fisico tedesco Werner Heisenberg nel 1927, è uno dei principi fondamentali della meccanica quantistica.</em></li>
+        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26"><em>Esso afferma che:<br> <strong>è impossibile determinare simultaneamente e con precisione arbitraria alcune coppie di proprietà fisiche di una particella, come la posizione e la quantità di moto (momento).</strong></em></li>
   </ul>
 </section>
 
-<!-- <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!---->
-<!-- <h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
-<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3> -->
-<!--   <ul class="fragment" style="font-size: 80%;"> -->
-<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
-<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
-<!--   </ul> -->
-<!---->
-<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285"> -->
-<!-- </section> -->
-<!---->
-<!-- <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
-<!---->
-<!-- <h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
-<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3> -->
-<!--   <ul class="fragment" style="font-size: 80%;" > -->
-<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
-<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
-<!--   </ul> -->
-<!---->
-<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="485"> -->
-<!-- </section> -->
+<section data-background-image="bkb_bkg.jpeg" data-background-opacity="0.3" data-transition="convex">
+<p style="text-align:left">Più precisamente, il principio stabilisce che:</p>
+<h3>
+$$
+\Delta x \cdot \Delta p \geq \dfrac{h}{4 \pi}
+$$
+</h3>
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-
-<h2 style="color:#8A4117">Cooperative Lab <span style="font-size: 50%; color:#b82460; opacity: 0.2"></span></h2>
-<img class="fragment r-fit-text" src="wordcloud.png" alt="neovim" width="450">
+<p style="text-align:left">Dove</p>
+  <ul style="font-size:76%">
+<li> $\Delta x$ è lindeterminazione nella posizione della particella,</li>
+<li> $\Delta p$ è l'indeterminazione nella quantità di moto della particella,</li>
+<li> $h$ è la costante di Planck.</li>
+  </ul>
 </section>
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#3B2F2F"><i class='fas fa-chalkboard-teacher'></i> CONTESTO DIDATTICO</h2>
-  <iframe
-    id="inlineFrame_01"
-    title="Geogebra - diego fantinelli"
-    width="450"
-    height="400"
-    src="https://www.geogebra.org/m/zzedcypj">
-  </iframe>
+<section data-auto-animate data-background-image="bkb_bkg.jpeg" data-background-opacity="0.3" data-transition="convex">
+      <h5 style="text-align:left;color:#2B2A26" ><i class='fas fa-bookmark'></i> ESEMPIO</h5>
+<p style="text-align:left">Immagina di cercare di localizzare un elettrone:</p>
+
+  <ul>
+        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26">Se usi un microscopio con luce di lunghezza d'onda molto corta per vedere l'elettrone con grande precisione, impartisci ad esso una grande quantità di moto (cambiando significativamente la sua velocità).</li>
+        <li class="fragment" style="font-size:90%;text-align:left;color:#2B2A26">
+Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare il disturbo alla quantità di moto dell'elettrone, la tua misura della posizione sarà meno precisa.
+</li>
+  </ul>
+</section>
+
+<section data-background-image="bkb_bkg.jpeg" data-background-opacity="0.3" data-transition="convex">
+<p>Immagina di cercare di localizzare un elettrone:</p>
+<h3>
+$$
+\Delta x \cdot \Delta p \geq \dfrac{h}{4 \pi}
+$$
+</h3>
+  <ul style="font-size:76%">
+<li> Il principio di indeterminazione ha profonde implicazioni per la natura della realtà a livello quantistico, sfidando la nostra intuizione classica e influenzando molte aree della fisica moderna, dalla teoria dei quanti alla fisica delle particelle.</li>
+  </ul>
 </section>
 
 ---
@@ -1099,19 +1115,6 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
   <h1 class="r-fit-text" style="color:#4E3319">RECAP</h1>
   <h2 <span style="color:#b82460">${\small{5'}}$ </span></h2>
 </section>
-<section data-background-image="recap.jpg" data-background-opacity="0.2" data-transition="convex">
-  <!-- <h1 style="color:#8A4117">FASE 5 &nbsp; <span style="font-size: 70%; color:#b82460">${\small{10'}}$ </span></h1> -->
-  <h3 style="color:#3B2F2F">Recap</h3>
-  <ul class="fragment">
-    <ul>
-      <ul style="font-size: 90%;">
-        <li>qual è stato l'obiettivo della lezione?</li>
-        <li>cos'è rimasto della trattazione?</li>
-        <li>consigli per lo studio individuale</li>
-      </ul><br>
-      <li style="color:#b82460; font-size: 32px"><em>in questa fase è indispensabile il coinvolgimento attivo degli studenti</em></li>
-    </ul>
-</section>
 
 ---
 
@@ -1121,7 +1124,7 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
 </section>  
 <section data-background-image="homework.jpg" data-background-opacity="0.2" data-transition="convex">
 
-<h3 class="r-fit-text" style="color:#4E3319">Lavoro in autonomia</h3>
+<h3 class="r-fit-text" style="text-align:left;color:#392613">Lavoro in autonomia</h3>
   <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
   <ul class="fragment" style="font-size: 90%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
