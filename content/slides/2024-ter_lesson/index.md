@@ -792,7 +792,7 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
 
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="text-align:left; color:#4E3319" class="r-fit-text">COMPETENZE CURRICOLARI</h2>
-<h6 style="text-align:left; font-size:46%; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [MULTIMATH.VERDE VOL. 2 DEL BIENNIO, CAPITOLO 9 DA PAG. 470 - PAR. DA 1 A 13, APPUNTI DEL DOCENTE]</h6>
+<h6 style="text-align:left; font-size:40%; color:#164E63"><i class="fas fa-book-open fa-sm"></i> REF. [MULTIMATH.VERDE VOL. 2 DEL BIENNIO, CAPITOLO 9 DA PAG. 470 - PAR. DA 1 A 13, APPUNTI DEL DOCENTE]</h6>
     <h6 style="font-size:46%;text-align:left;color:#164E63"><i class="fas fa-highlighter"></i><b> PREREQUISITI:</b> Calcolo algebrico; Teoria degli insiemi</h6>
           <div class="fragment">
     <div class="card"><h6 style="text-align:left;"><b>CONOSCENZE</b></h6>
@@ -1117,9 +1117,9 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
 
 <h3 class="r-fit-text" style="text-align:left;color:#392613">Lavoro in autonomia</h3>
   <!-- <h2 style="color:#3B2F2F" class="fragment">Homeworks</h2> -->
-  <ul class="fragment" style="font-size: 90%;">
+  <ul class="fragment" style="font-size: 82%;">
     <!-- <li><h3 style="color:#8A4117">Lavoro in autonomia</h3></li> -->
-    <ul style="font-size: 90%;">
+    <ul style="font-size: 84%;">
       <li>rielaborazione e integrazione<em> guidata</em> degli appunti</li>
       <li>esercizi assegnati </li>
       <li>attività collaborative - <em>cooperative learning</em></li>
@@ -1136,7 +1136,17 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
 
 ---
 
-<section data-background-image="book_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
+  <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
+</section>
+
+<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
+  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>"La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali". <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
+  <span style="font-size: 36px;">&mdash; Carl Boyer</span>
+</section>
+
+<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
   <h2 style="text-align:left">bibliografia</h2>
   <ul style="font-size:64%;">
     <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
@@ -1150,18 +1160,6 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
     <!-- <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li> -->
     <li>Ghisetti&Corvi, MULTIMATH.VERDE VOL. 2 - Paolo Baroncini e Roberto Manfredi</li>
   </ul>
-</section>
-
----
-
-<section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
-  <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
-</section>
-
-<section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <p style="font-size:42px; text-align: justify-left;" data-transition="convex"><em>"La matematica è una scienza di modelli. Si occupa di modelli astratti più che del mondo concreto, ma i modelli matematici possono spesso illuminare o addirittura spiegare fenomeni reali". <br>La potenza di un modello matematico è nella sua semplicità e generalità.</em></p>
-  <span style="font-size: 36px;">&mdash; Carl Boyer</span>
 </section>
 
 <!-- <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex"> -->
