@@ -1137,8 +1137,8 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
 ---
 
 <section data-auto-animate data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
-  <h1 style="color:#8A4117" class="r-fit-text">CREARE</h1>
-  <h1 style="color:#8A4117" class="r-fit-text">CONNESSIONI</h1>
+  <h1 style="color:#F97316" class="r-fit-text">CREARE</h1>
+  <h1 style="color:#F97316" class="r-fit-text">CONNESSIONI</h1>
 </section>
 
 <section data-background-video="ntwk_bkg.mp4" data-background-opacity="0.7" data-transition="convex">
