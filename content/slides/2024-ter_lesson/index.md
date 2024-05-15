@@ -651,15 +651,15 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
     <div class="column left">
       <h4 class="fragment">QUESTIONARIO DI GRADIMENTO</h4>
       <!-- <p class="fragment">Testo della slide nella colonna di sinistra.</p> -->
-      <ul style="font-size:80%" class="fragment">
-        <li>suggerimenti liberi - domanda aperta</li>
+      <ul style="font-size:60%" class="fragment">
+        <li>suggerimenti liberi - domande aperte</li>
         <li>chiarezza espositiva dei contenuti</li>
         <li>raccogliere dati statistici</li>
         <li>valutazione feedback degli studenti</li>
       </ul>
     </div>
     <div class="column right">
-      <img class="fragment" src="grad.png" alt="questionario di gradimento" height="450" opacity="0.8">
+      <img class="fragment" src="prob_f.png" alt="questionario di gradimento" height="450" opacity="0.8">
     </div>
   </div>
 </section>
