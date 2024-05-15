@@ -234,12 +234,12 @@ slides:
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <h4 style="text-align:left;color:#EB442A">ALLEGATO 1</h4>
   <h2 class="r-fit-text">OLTRE IL P.d.P.</h2>
-  <h4 class="r-fit-text"><i class="fas fa-recycle"></i> Le mie azioni quotidiane per l'inclusione</h4>
+  <h4 class="r-fit-text"><i class="fas fa-hand-holding-heart"></i> Le mie azioni quotidiane per l'inclusione</h4>
   <!-- <i class='fas fa-users fa-7x' style="color:#514D53;opacity:0.5"></i></section> -->
 </section>
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
   <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
-  <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-school'></i> In sintesi</h3>
+  <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-list"></i> In sintesi</h3>
   <div class="card">
     <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
     <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
@@ -707,7 +707,7 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
   <h1 style="color:#4E3319" class="r-fit-text">STRUMENTI <br> DIDATTICI</h1>
 </section>
 <section data-auto-animate data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-  <h2 style="color:#3B2F2F">TIC avanzate</h2>
+  <h2 style="text-align:left;color:#3B2F2F">TIC AVANZATE</h2>
 
   <table class="fragment" style="font-size:55%" width="95%">
     <tr>
