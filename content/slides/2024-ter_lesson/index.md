@@ -143,8 +143,8 @@ slides:
       <td><b>fragilità</b></td>
       <td style="font-size:80%">
 <ul style="font-size:80%">
-    <li>1 B.E.S.: discalculia, disgrafia e disortografia lievi;
-    <li>1 "altri" B.E.S.: difficoltà emozionali, di autostima e autoefficacia</li>
+    <li>n. 1 D.S.A.: discalculia, disgrafia e disortografia lievi;
+    <li>n. 1 "altri" D.S.A.: difficoltà emozionali, di autostima e autoefficacia</li>
       </td>
 </ul>
     </tr>
@@ -244,36 +244,35 @@ slides:
     <h4 style="color:#392613; text-align:left;"><i class='fas fa-chevron-right'></i><b> Teorema fondamentale dell'inclusione:</b></h4>
     <p style="text-align:left; font-size:80%;">Condizione necessaria e sufficiente affinché una scuola si possa definire inclusiva è che lo sia ciascuno dei suoi insegnanti</p>
   </div>
-  <h4 style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></h4>
+  <ul>
+  <li style="color:#392613; text-align:left;"><em><b>dimostrazione:</b> la dimostrazione - per assurdo o per induzione - viene lasciata al lettore...</em></li>
+  </ul>
   <!-- <p style="text-align:left; font-size:80%;">la dimostrazione (per assurdo o per induzione) viene lasciata al lettore.</p> -->
 </section>
 <section data-auto-animate data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <h2 class="r-fit-text">Gli <i>ALTRI</i> B.E.S.</h2>
-<ul style="color:#392613;font-size:80%; text-align:left;">
+  <h2 style="text-align:left"><i style="color:#EA580C" class="far fa-user"></i> Gli <i>ALTRI</i> D.S.A.</h2>
+<ul style="color:#392613;font-size:70%; text-align:left;">
   <li>Difficoltà emozionali: (timidezza, collera, ansia, inibizione, depressione)</li>
   <li>Difficoltà relazionali e del comportamento
-( aggressività, oppositività, disturbi della condotta, bullismo)</li>
+(aggressività, oppositività, disturbi della condotta, bullismo)</li>
   <li>Disagi familiari (separazioni, maltrattamenti, abusi, lutti etc)</li>
   <li>Difficoltà fisiche (traumi)/malattie croniche o acute (epilessia, allergie)</li>
   <li>Alunni immigrati</li>
   <li>Difficoltà di autostima, autoefficacia</li>
   <li>Svantaggio economico e sociale (deprivazione culturale, ecc.)</li>
   <li>Eterogeneità degli stili di pensiero e di apprendimento</li>
-<!--   <li class="fragment">I bisogni e gli eventuali ausili - compensativi e/o dispensativi - uti allo studenti li conosce lo studente<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li> -->
 </ul>
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-stethoscope"></i> Diagnosi clinica: a memoria!</h3>
-  <ul style="color:#392613; text-align:left;">
-    <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, psichiatri, etc. - e non può essere trattata con leggerezza.</li>
-    <li class="fragment">gli eventuali ausili - compensativi e/o dispensativi - più efficaci sono quelli suggeriti dallo studente stesso.<br><a style="font-size:74%; color:#0891B2"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
+  <ul style="color:#392613; font-size:80%; text-align:left;">
+    <li class="fragment">La diagnosi clinica viene redatta da professionisti esperti - psicologi, psichiatri, etc. - e non può essere sottovalutata: aiuta a ricordare le problematiche - anche molto complesse - che sta affrontando lo studente</li>
+    <li class="fragment">gli eventuali ulteriori ausili - compensativi e/o dispensativi - più efficaci sono quelli suggeriti dallo studente stesso.<br><br><a style="font-size:80%; color:#EA580C"; href="https://2024-mathofthings.netlify.app/publication/math-music_bubble/"><i class="fas fa-bookmark"></i> La musica nei casi di ansia e depressione: The Math Music-bubble</a></li>
   </ul>
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class="fas fa-hand-holding-heart"></i> EMPATIA</h3>
   <ul style="color:#392613; text-align:left;">
     <li class="fragment"><i>"Tra gli ingredienti necessari a un buon insegnante c’è l’empatia, la capacità di comprendere le emozioni degli studenti e di rispondere con compassione"</i><br>&mdash; Haim Ginott</li>
@@ -282,7 +281,6 @@ slides:
 </section>
 
 <section data-background-image="fragile.jpg" data-background-opacity="0.4" data-transition="convex">
-  <!-- <h2 class="r-fit-text">OLTRE IL P.d.P.</h2> -->
   <h3 style="color:#EA580C; text-align:left;"><i class='fas fa-users'></i> EXTRA-TUTORING</h3>
   <ul style="color:#392613; text-align:left;">
     <li class="fragment"><b>contatto personale continuo</b>, anche e soprattutto extra-scolastico:
@@ -753,7 +751,7 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
 
 <section data-background-image="optical.jpg" data-background-opacity="0.4" data-transition="convex">
   <h1 class="r-fit-text" style="text-align:left;color:#3B2F2F">PROGETTAZIONE DIDATTICA</h1>
-  <h4 style="text-align:left;color:#3B2F2F">UDA - IL CALCOLO DELLE PROBABILITÀ</h4>
+  <h4 style="text-align:left;color:#3B2F2F"><i class="fas fa-dice"></i> IL CALCOLO DELLE PROBABILITÀ</h4>
   <table class="r-fit-text" style="font-size:60%" width="83%">
     <tr>
       <td style="color:#8A4117; font-size:65%" width="20.0%">lezione 1</td>
@@ -970,51 +968,17 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
   <h1 class="r-fit-text" style="color:#4E3319">ACTIVE</h1>
   <h2 <span style="color:#b82460">${\small{20'}}$ </span></h2>  <!-- <h3 <span style="font-size: 70%; color:#b82460">${\small{15'}}$ </span>minuti</h3> -->
 </section>
-<section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex">
-  <!-- <h2 style="color:#3B2F2F" class="fragment">ACTIVE <br> - trasmissiva -</h2> -->
-  <!-- <ul class="fragment" data-transition="concave">
-<li><h4>Contenuti - Lezione frontale</h4></li><br> -->
-  <ul style="font-size: 90%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>consultazione: </b>libro di testo in formato digitale</li>
-    <li><b>consigli: </b>per la revisione in autonomia degli appunti</li>
-    <li><b>strumenti informatici: </b><em>Obsidian, VSCode, Reveal.js, etc.</em></li>
-  </ul>
-</section>
-<!-- <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex"> -->
-<!---->
-<!-- <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
-<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2> -->
-<!--   <ul class="fragment" style="font-size: 80%;" > -->
-<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
-<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
-<!--   </ul> -->
-<!---->
-<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285"> -->
-<!-- </section> -->
-<!---->
-<!-- <section data-background-video="teaching.mp4" data-background-opacity="0.3" data-transition="convex"> -->
-<!---->
-<!-- <h2 style="color:#8A4117">Contenuti specifici &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
-<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h2> -->
-<!--   <ul class="fragment" style="font-size: 80%;" > -->
-<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
-<!--     <li><b>problema della tangente: </b><em>Una secante che ce l'ha fatta!</em></li> -->
-<!--   </ul> -->
-<!---->
-<!--   <img class="fragment r-fit-text" src="scr01.png" alt="neovim" width="90%"> -->
-<!-- </section> -->
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+<section data-background-video="teaching.mp4" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text">CONCETTI FONDAMENTALI</h2>
   <div class="columns">
     <div class="column left">
       <h5 class="fragment">PRIMA LEZIONE</h5>
       <ul style="font-size:46%" class="fragment">
-        <li><b>Spazio dei risultati:</b> insieme di tutti i possibili esiti di una prova (ossia di un esperimento o di un’osservazione).</li>
-        <li><b>evento:</b> ogni sottoinsieme dello spazio dei risultati $S$. L'evento certo è lo stesso spazio dei risultati $S$, l'evento impossibile è l'insieme vuoto $\varnothing$; ogni altro evento si dice aleatorio. Ogni sottoinsieme di $S$ contenente un solo elemento è un evento elementare.</li>
-        <li><b>evento ripetibile:</b> evento che si riferisce a un esperimento o osservazione che può essere eseguito un numero indefinito di volte.</li>
-        <li><b>frequenza:</b> di un evento ripetibile: rapporto tra il numero di prove in cui si verifica l’evento e il numero diprove eseguite.</li>
+        <li><b>Spazio dei risultati:</b><br> insieme di tutti i possibili esiti di una prova (ossia di un esperimento o di un’osservazione).</li>
+        <li><b>evento:</b><br> ogni sottoinsieme dello spazio dei risultati $S$. L'evento certo è lo stesso spazio dei risultati $S$, l'evento impossibile è l'insieme vuoto $\varnothing$; ogni altro evento si dice aleatorio. Ogni sottoinsieme di $S$ contenente un solo elemento è un evento elementare.</li>
+        <li><b>evento ripetibile:</b><br> evento che si riferisce a un esperimento o osservazione che può essere eseguito un numero indefinito di volte.</li>
+        <li><b>frequenza:</b><br> di un evento ripetibile: rapporto tra il numero di prove in cui si verifica l’evento e il numero diprove eseguite.</li>
       </ul>
     </div>
     <div class="column right">
@@ -1023,13 +987,13 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
   </div>
 </section>
 
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
+<section data-background-video="teaching.mp4" data-background-opacity="0.2" data-transition="convex">
   <h2 class="r-fit-text">EVENTI E PROBABILITÀ</h2>
   <div class="columns">
     <div class="column left">
       <h5 class="fragment">SECONDA LEZIONE</h5>
       <ul style="font-size:42%" class="fragment">
-        <li><b>Probabilità di un evento:</b> rapporto tra il numero di casi favorevoli all’evento e il numero di casi possibili.</li>
+        <li><b>Probabilità di un evento:</b><br> rapporto tra il numero di casi favorevoli all’evento e il numero di casi possibili.</li>
         <li><b>Unione di eventi:</b><br> Unione di eventi: evento che si verifica se e solo se si verifica almeno uno degli eventi dati. L'unione di due eventi $A$ e $B$ si indica con $A \cup B$.</li>
         <li><b>Intersezione di eventi:</b><br> evento che si verifica se e solo se si verificano tutti gli eventi dati. L'intersezione di due eventi $A$ e $B$ si indica con $A \cap B$.</li>
         <li><b>Evento contrario:</b><br> evento che si verifica se e solo se non si verifica l'evento dato. L'evento contrario di un evento $A$ si indica con $\bar{A}$.</li>
@@ -1041,16 +1005,17 @@ Nella scelta dei problemi è opportuno fare riferimento sia ad aspetti interni a
     </div>
   </div>
 </section>
-<section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.2">
-  <h3 class="r-fit-text">TEOREMI SULLA PROBABILITA</h3>
+
+<section data-background-video="teaching.mp4" data-background-opacity="0.2" data-transition="convex">
+  <h3 class="r-fit-text">TEOREMI SULLA PROBABILITÀ</h3>
   <div class="columns">
     <div class="column left">
       <h5 class="fragment">TERZA LEZIONE</h5>
-      <ul style="font-size:46%" class="fragment">
+      <ul style="font-size:44%" class="fragment">
         <li><b>Probabilità totale</b><br> La probabilità dell'unione di due eventi $A$ e $B$ è:<br>
 $p(A \cup B)=p(A)+p(B)$ <br>se i due eventi sono incompatibili<br>
 $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
-        <li><b>Probabilità contraria</b><br> La probabilità dell'evento $\bar{A}$, contrario dell'evento $A$, è<br> $p(\bar{A})=1-p(A)$.</li>
+        <li><b>Probabilità contraria</b><br> La probabilità dell'evento $\bar{A}$, contrario dell'evento $A$, è $p(\bar{A})=1-p(A)$.</li>
         <li><b>Probabilità condizionata:</b><br> È la probabilità che si verifichi l'evento $A$ nell'ipotesi che si verifichi l'evento $B$: <br>$p(A / B)=\dfrac{p(A \cap B)}{p(B)}$</li>
       </ul>
     </div>
@@ -1085,29 +1050,29 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
   </ul>
 </section>
 
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-
-<h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3>
-  <ul class="fragment" style="font-size: 80%;">
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
-  </ul>
-
-  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285">
-</section>
-
-<section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-
-<h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2>
-<h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3>
-  <ul class="fragment" style="font-size: 80%;" >
-    <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li>
-    <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li>
-  </ul>
-
-  <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="485">
-</section>
+<!-- <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
+<!---->
+<!-- <h2 style="color:#8A4117">derivate elementari &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
+<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3> -->
+<!--   <ul class="fragment" style="font-size: 80%;"> -->
+<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
+<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
+<!--   </ul> -->
+<!---->
+<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="285"> -->
+<!-- </section> -->
+<!---->
+<!-- <section data-background-image="calm_bkg.jpg" data-background-opacity="0.4" data-transition="convex"> -->
+<!---->
+<!-- <h2 style="color:#8A4117">Derivate: operazioni &nbsp; <span style="font-size: 50%; color:#b82460"></span></h2> -->
+<!-- <h3 style="color:#3B2F2F" class="fragment">Derivate - introduzione</h3> -->
+<!--   <ul class="fragment" style="font-size: 80%;" > -->
+<!--     <li><b>contenuti: </b>della lezione in formato <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/slides/capitolo5/" target="_blank"><em>slides</em></a></li> -->
+<!--     <li><b>strumenti informatici: </b><em>Obsidian, NeoVim, Reveal.js, etc.</em></li> -->
+<!--   </ul> -->
+<!---->
+<!--   <img class="fragment r-fit-text" src="neovim.png" alt="neovim" width="485"> -->
+<!-- </section> -->
 
 <section data-background-image="pingpong_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 
@@ -1181,15 +1146,15 @@ $p(A \cup B)=p(A)+p(B)-p(A \cap B)$ <br>se i due eventi sono compatibili</li>
   <h2 style="text-align:left">bibliografia</h2>
   <ul style="font-size:64%;">
     <li>RACC. U.E. 2018 e D.M. 139/2007 All. 2 (Competenze chiave)</li>
-    <li>D.P.R. 89 / 2010 (Regolamento licei)</li>
+    <li>D.P.R. 88 / 2010 (riordino degli istituti tecnici)</li>
     <li>P.N.S.D. (Piano Nazionale Scuola Digitale)</li>
     <li>L.107/2015 (Buona Scuola)</li>
     <li>D.M. 139/2007 (regolamento sull'obbligo di istruzione)</li>
     <li>DPR 122/2009 (valutazioni)</li>
     <li>DPR 275/99 (autonomia istituzioni scolastiche)</li>
     <li>L.170/2010 (dsa), direttiva minist. 27/12/2012 e n. 8 del 6/03/2013</li>
-    <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li>
-    <li>Zanichelli, Matematica Blu 2.0, vol. 4</li>
+    <!-- <li>YouTube: Andrea Anfosso, Mathsegnale, Alberto Saracco</li> -->
+    <li>Ghisetti&Corvi, MULTIMATH.VERDE VOL. 2 - Paolo Baroncini e Roberto Manfredi</li>
   </ul>
 </section>
 
