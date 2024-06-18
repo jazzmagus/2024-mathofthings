@@ -1,169 +1,101 @@
 ---
-title: Slides
+title: break_even
 summary: An introduction to using Wowchemy's Slides feature.
 authors: []
 tags: []
 categories: []
 date: '2019-02-05T00:00:00Z'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
-# Create slides in Markdown with Wowchemy
-
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://wowchemy.com/docs/content/slides/)
+# Analisi del Punto di Pareggio (Break Even Analysis)
 
 ---
 
-## Features
+## BEA: Una Introduzione
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+### Cos'è la BEA?
 
----
+L'Analisi del Punto di Pareggio (Break Even Analysis, BEA) è una tecnica utilizzata per determinare il livello di vendite necessario per coprire i costi totali, senza generare né profitti né perdite.
 
-## Controls
+### Obiettivo della BEA
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://revealjs.com/pdf-export/)
+Identificare il punto in cui le entrate totali e i costi totali si equivalgono.
 
 ---
 
-## Code Highlighting
+## A cosa serve la BEA
 
-Inline code: `variable`
+### Utilità della BEA
 
-Code block:
-
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
+- **Pianificazione Finanziaria:** Aiuta le aziende a comprendere quanti prodotti devono vendere per coprire i costi.
+- **Decisioni di Prezzo:** Assiste nel determinare il prezzo di vendita per garantire che i costi siano coperti.
+- **Valutazione dei Rischi:** Analizza l'impatto delle variazioni nei costi e nei prezzi sulle operazioni aziendali.
+- **Supporto per la Strategia di Marketing:** Determina i volumi di vendita necessari per raggiungere gli obiettivi di profitto.
 
 ---
 
-## Math
+## Componenti della BEA
 
-In-line math: $x + y = z$
+### Componenti della BEA
 
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+- **Costi Fissi (CF):** Costi che non variano con il livello di produzione (e.g., affitti, stipendi).
+- **Costi Variabili (CV):** Costi che variano direttamente con il livello di produzione (e.g., materie prime, manodopera).
+- **Prezzo di Vendita (P):** Prezzo al quale il prodotto viene venduto.
+- **Volume di Vendita (Q):** Numero di unità vendute.
 
 ---
 
-A fragment can accept two optional parameters:
+## Grafico della BEA
 
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
+### Descrizione del Grafico
 
----
+Il grafico del punto di pareggio mostra l'intersezione tra la retta delle entrate totali e la retta dei costi totali.
 
-## Speaker Notes
+### Elementi del Grafico
 
-Add speaker notes to your presentation
+- **Asse delle x:** Volume di Vendita (Q)
+- **Asse delle y:** Valore Monetario (€)
+- **Retta delle Entrate Totali (RT):** $$RT = P \times Q$$
+- **Retta dei Costi Totali (CT):** $$CT = CF + CV \times Q$$
+- **Punto di Pareggio (Q*):** Punto di intersezione tra RT e CT
 
-```markdown
-{{%/* speaker_note */%}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
+![Grafico del Punto di Pareggio](data:image/png;base64,<INSERIRE IMMAGINE BASE64>)
 
 ---
 
-## Themes
+## Punto di vista matematico
 
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
+### Analisi Matematica della BEA
 
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
+- **Equazioni:**
+  - Entrate Totali (RT): $$RT = P \times Q$$
+  - Costi Totali (CT): $$CT = CF + CV \times Q$$
+- **Punto di Pareggio:**
+  Determinato quando RT = CT:
+  $$
+  P \times Q = CF + CV \times Q
+  $$
+  $$
+  Q* = \dfrac{CF}{P - CV}
+  $$
+- **Intersezione delle Rette:**
+  Il punto di pareggio è l'intersezione tra la retta delle entrate totali e quella dei costi totali.
 
 ---
 
-## Custom CSS Example
+## Conclusioni
 
-Let's make headers navy colored.
+### Sintesi
 
-Create `assets/css/reveal_custom.css` with:
+La BEA è uno strumento cruciale per la pianificazione aziendale e la gestione dei costi.
 
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
+### Importanza della BEA
 
----
+Aiuta a prendere decisioni informate su produzione, prezzi e strategie di mercato.
 
-# Questions?
+### Applicazione Pratica
 
-[Ask](https://discord.gg/z8wNYzb)
+Fondamentale per startup e aziende esistenti per valutare la redditività e i rischi.
 
-[Documentation](https://wowchemy.com/docs/content/slides/)

@@ -1,19 +1,17 @@
 ---
 title: Lezione simulata
 summary: schema lezione simulata - A026
-authors: [Diego Fantinelli]
-tags: [2024, ter]
-categories: [concorso]
-date: "2024-03-05T00:00:00Z"
-# theme: serif
-# transition: convex
+authors:
+  - Diego Fantinelli
+tags:
+  - 2024
+  - ter
+categories:
+  - concorso
+date: '2024-03-05T00:00:00Z'
 slides:
   theme: serif
   data-transition: convex
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  # enableChalckboard: true
-  # pdfSeparateFragments: false
 ---
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD013 -->
@@ -1173,3 +1171,4 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
 <section data-background-color="#EFEFEF" data-transition="zoom">
   <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
 </section>
+
