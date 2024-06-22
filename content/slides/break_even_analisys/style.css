@@ -1,0 +1,189 @@
+.columns {
+  display: flex; /* Existing rule for flexbox layout */
+  justify-content: space-between; /* Add space between columns */
+}
+
+.column {
+  flex: 1; /* Existing rule for equal column width */
+  border-radius: 5px; /* Existing rule for border radius */
+  padding: 10px; /* Existing rule for padding */
+  text-align: left; /* Existing rule for text justification */
+  margin: 0 5px; /* Existing rule for margin */
+  backdrop-filter: blur(5px); /* Existing rule for blurred background */
+}
+
+.left {
+  /* Remove background-color rule if not needed */
+}
+
+.right {
+  background-size: cover; /* Existing rule for background image */
+  background-position: center center; /* Existing rule for background image position */
+}
+
+
+@media (max-width: 800px) {
+  .columns {
+    flex-direction: column;
+  }
+}
+
+.forma {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.5s ease-in-out;
+}
+
+.forma.animated {
+  opacity: 1;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.square {
+  background-color: red;
+}
+
+.circle {
+  border-radius: 50%;
+  background-color: yellow;
+}
+
+.rectangle {
+  background-color: green;
+}
+
+.card-container {
+  display: flex; /* Enable Flexbox layout */
+  flex-direction: row; /* Arrange cards horizontally */
+  justify-content: space-between; /* Distribute cards with spacing */
+  width: 100%; /* Adjust width as needed */
+  margin: 10px 0; /* Add vertical margin for spacing */
+}
+
+.card {
+  flex: 1; /* Allocate equal width for each card */
+  padding: 10px; /* Add padding for content */
+  border-radius: 10px; /* Add rounded corners */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+  /* background-image: url('book_bkg.jpg'); /* Set background image URL */ */
+  background-size: cover; /* Cover the card with the image */
+  background-position: center; /* Center the image */
+  background-color: rgba(120,113,108,0.2); /* Set semi-transparent background color */
+  margin: 15px; /* Adjust margin as needed */
+  position: relative; /* Enable positioning for overlay */
+}
+
+.card:nth-child(odd) { /* Style odd-numbered cards */
+  /* background-image: url('book_bkg.jpg'); /* Set background image URL */ */
+  background-color: rgba(120,113,108,0.3); /* Alternate background color */
+}
+
+.card:nth-child(even) { /* Style even-numbered cards */
+  /* background-image: url('book_bkg.jpg'); /* Set background image URL */ */
+  background-color: rgba(120,113,110,0.3); /* Alternate background color */
+}
+
+.card:after { /* Overlay targeting child cards */
+  content: ''; /* Empty content */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px; /* Add rounded corners */
+  background-color: rgba(120,113,108,0.3); /* Alternate background color */
+  opacity: 0; /* Initial opacity */
+  transition: opacity 0.5s ease; /* Smooth transition */
+}
+
+.card:hover:after { /* Hover effect on child cards */
+  opacity: 0.6; /* Opacity on hover */
+}
+
+.card-link {
+  display: none; /* Initially hide the link */
+  position: absolute; /* Allow for absolute positioning */
+  bottom: 20px; /* Position from the bottom */
+  left: 20px; /* Position from the left */
+  text-decoration: none; /* Remove default underline */
+  color: white; /* Set text color to white */
+  font-weight: bold; /* Make text bold */
+  transition: all 0.3s ease; /* Smooth transition */
+}
+
+.card:hover .card-link {
+  display: block; /* Show the link on hover */
+}
+
+.circled-number {
+  /* Remove counter-reset: circled-number; */
+}
+
+.circled-number td:before {
+  content: '•'; /* Use a static character or symbol for the number */
+  display: inline-block; /* Make it an inline block element */
+  width: 20px; /* Adjust the width of the circle */
+  height: 20px; /* Adjust the height of the circle */
+  border-radius: 50%; /* Create a circle shape */
+  background-color: #3B2F2F; /* Set the circle color */
+  color: white; /* Set the text color */
+  text-align: center; /* Center the text within the circle */
+  margin-right: 10px; /* Add a margin to the right for spacing */
+}
+
+iframe {
+  border: 1px solid black;
+  width: 100%; /* takes precedence over the width set with the HTML width attribute */
+}
+
+h2.r-fit-text {
+  display: flex;
+  align-items: flex-start; /* Align items at the top */
+  justify-content: center;
+}
+
+h2.r-fit-text img {
+  position: absolute; /* Use absolute positioning */
+  top: 50%; /* Position vertically at 50% */
+  /* transform: translateY(-50%); /* Adjust vertical offset */ */
+  left: 50%; /* Position horizontally at 50% */
+  /* transform: translateX(-50%); /* Adjust horizontal offset */ */
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+tr {
+  border: none;
+}
+
+td {
+  border: none;
+}
+
+.slabo-13px-regular {
+  font-family: "Slabo 13px", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  counter-reset: theorem;
+}
+p.theorem {
+  display: block;
+}
+p.theorem::before {
+  counter-increment: theorem;
+  content: "Theorem " counter(theorem) " \2014 ";
+}
