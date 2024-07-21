@@ -25,7 +25,6 @@ slides:
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&family=Josefin+Slab:ital,wght@0,100..700;1,100..700&family=Slabo+13px&display=swap" rel="stylesheet">
 </head>
-
 <section data-transition="convex"data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <h2 style="color:#392613">PROGETTAZIONE ATTIVITÀ DIDATTICA</h2>
   <!-- <h2 style="color:#1d91de">ESEMPIO</h2> -->
@@ -49,13 +48,14 @@ slides:
 
 <section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
   <!-- <h1 style="color:#8A4117">Milestones</h1> -->
-  <h3 style="color:#3B2F2F;text-align:left"> ATTIVITÀ DIDATTICA</h3>
+  <h3 style="color:# ;text-align:left"> ATTIVITÀ DIDATTICA</h3>
   <table class="r-fit-text" style="font-size:71%" width="100%">
     <!-- <tr>
 <td style="color:#8A4117" width="40.0%"><b>competenze</b></td>
 <td width="60.0%"><b>descrizione</b></td>
 </tr> -->
     <tr>
+      <td width="40.0%"><p style="color:#Ab6fff ">1. CONTESTO</p></td>
       <td width="40.0%"><p style="color:#EA580C">1. CONTESTO</p></td>
       <td width="60.0%">destinatari e contesto curricolare di riferimento</td>
     </tr>
@@ -1171,4 +1171,3 @@ Se invece usi luce di lunghezza d'onda lunga (meno energetica) per minimizzare i
 <section data-background-color="#EFEFEF" data-transition="zoom">
   <img src="https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg" alt="mats_hard">
 </section>
-

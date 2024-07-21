@@ -8,8 +8,8 @@
 appearance:
   theme_day: forest
   theme_night: forest
-  font: 'Rose'
-  font_size: L
+  font: "Rose"
+  font_size: M
 
 # SEO
 
