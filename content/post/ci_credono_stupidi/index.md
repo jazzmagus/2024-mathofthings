@@ -6,13 +6,13 @@ authors:
   - diego fantinelli
 tags: [2023]
 categories: [curiosity]
-date: "2023-01-03T00:21:00Z"
+date: "2024-08-28T11:21:00Z"
 featured: true
-draft: true
+draft: false
 
 image:
   caption: ""
-  focal_point: ""
+  focal_point: "2"
   preview_only: false
 ---
 
