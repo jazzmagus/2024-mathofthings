@@ -30,6 +30,7 @@ menu:
 > -- Piergiorgio Odifreddi
 
 ![overview_img](../night.jpeg)
+[Ripasso equazioni goniometriche](./3CS_ripasso.pdf)
 
 ## Conoscenze
 
