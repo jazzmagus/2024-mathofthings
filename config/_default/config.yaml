@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: The Math of Things # Website name
-baseURL: "https://2024-mathofthings.netlify.app/" # Website URL
+baseURL: "https://magusbrain.netlify.app/" # Website URL
 
 ############################
 ## LANGUAGE

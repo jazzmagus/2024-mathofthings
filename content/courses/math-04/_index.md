@@ -31,6 +31,9 @@ menu:
 
 ![overview_img](2024-mathofthings/content/courses/math-04/startline.png)
 
+[Ripasso equazioni goniometriche](./4AS_ripasso.pdf)
+
+
 ## Conoscenze
 
 - Proprietà degli insiemi numerici $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$ e consapevolezza della necessità degli ampliamenti da $\mathbb{N}$ a $\mathbb{Z}$, da $\mathbb{Z}$ a $\mathbb{Q}$, da $\mathbb{Q}$ a $\mathbb{R}$.
