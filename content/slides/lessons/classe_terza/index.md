@@ -5,9 +5,9 @@ authors: [diego fantinelli]
 tags: [math]
 categories: [fattorizzazione]
 date: "2022-05-09T00:00:00Z"
-# slides:
+slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-theme: serif
+  theme: serif
 logoImg: "miur.png"
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).

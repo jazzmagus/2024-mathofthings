@@ -1,0 +1,26 @@
+{
+  "name": "2024-mathofthings",
+  "version": "1.0.0",
+  "description": "2024 math of the things",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazzmagus/2024-mathofthings.git"
+  },
+  "keywords": [
+    "2024",
+    "math",
+    "hugo",
+    "wowchemy"
+  ],
+  "author": "diego fantinelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jazzmagus/2024-mathofthings/issues"
+  },
+  "homepage": "https://github.com/jazzmagus/2024-mathofthings#readme"
+}

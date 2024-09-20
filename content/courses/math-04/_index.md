@@ -32,6 +32,7 @@ menu:
 ![overview_img](2024-mathofthings/content/courses/math-04/startline.png)
 
 [Ripasso equazioni goniometriche](./4AS_ripasso.pdf)
+[Fisica per la 1BSA](./1BSA_fisica01.pdf)
 
 
 ## Conoscenze
