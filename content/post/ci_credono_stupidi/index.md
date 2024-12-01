@@ -1,4 +1,4 @@
--i-
+---
 title: Ci credono stupidi
 subtitle: Le fake news che sembrano innoque
 summary: brain food
@@ -15,7 +15,6 @@ image:
 caption: ""
 focal_point: "2"
 preview_only: false
-
 ---
 
 <!-- {{< toc hide_on="xl" >}} -->
