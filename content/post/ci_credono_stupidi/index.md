@@ -31,4 +31,4 @@ preview_only: false
 Nel seguente video si può notare una cosa piuttosto interessante:
 
 - prima cosa: il messaggio: [Auguri da Mediaset](https://youtu.be/6BJKPDzMJFM?si=c1yW0Xj0VP-gDAPc)
-- altro punto
+- altro punto da verificare/aggiornare
