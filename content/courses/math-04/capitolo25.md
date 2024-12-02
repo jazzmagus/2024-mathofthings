@@ -1,5 +1,5 @@
 ---
-title: Trigonometria
+title: I Numeri Complessi
 linktitle: Capitolo 25 Trigonometria
 toc: true
 type: docs
