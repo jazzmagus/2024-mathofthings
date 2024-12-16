@@ -3,7 +3,7 @@ title: 16. Equazioni e Disequazioni
 linktitle: Capitolo 16 - Equazioni e Disequazioni
 toc: true
 type: book
-date: "2023-05-31T10:300:00+01:00"
+date: 2024-12-01T00:00:00Z
 draft: false
 slides: "capitolo_3-16"
 diagram: true
