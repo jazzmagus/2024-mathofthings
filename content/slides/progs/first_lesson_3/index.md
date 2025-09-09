@@ -16,15 +16,15 @@ slides:
   <h1 class="r-fit-text" style="color:#3B2F2F">MATEMATICA</h1>
   <h3 style="color:#3B2F2F">per le Classi Terze SE</h3>
   <h4 style="color:#3B2F2F">Anno Scolastico 2023/'24 </h4>
-  <br> 
+  <br>
   <!-- <h3 style="color:#3B2F2F"><em>esercizi e ripasso</em></h3> -->
-  
+
   <h5 style="color:#8A4117"><em>prof. diego fantinelli</em></h5>
   <h5 style="color:#8A4117">IIS "A. Remondini" - Bassano del Grappa</h5>
 </section>
 
 <section data-transition="convex" data-background-image="book_bkg.jpg" data-background-opacity="0.5">
-    
+
   # OBIETTIVI DEL CORSO
 
 <a style="color:#1d91de" href="https://2023-mathofthings.netlify.app/docs/math_se/">programmazione completa </a><i class="fa-solid fa-arrow-up-right-from-square"></i>
@@ -191,7 +191,7 @@ slides:
 
 - link: [Google Classroom corsi](https://classroom.google.com/c/NTQ2MTA4NzUwMjcw?cjc=wnllzfj)
 
-<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QA: &nbsp;</b><code>wnllzfj</code></h3>
+<h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QA: &nbsp;</b><code>5d5h272g</code></h3>
 <h3 class="fragment fade-in-then-out" style="color:#aa0008"><b>3QES: &nbsp;</b><code>c7ctvcv</code></h3>
 
 - comunicazioni **non ufficiali**, ma non per questo frivole...
